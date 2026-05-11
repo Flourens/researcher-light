@@ -17,6 +17,12 @@ After a grant is fetched into `grants-input/<ID>/`, this skill drives the inline
 
 1. **Load inputs.** Read `participants/organization-info-znu.json` and `grants-input/<ID>/text.txt` in full.
 2. **Fill `grant` block.** Extract title, callIdentifier, type/typesOfAction, deadline (ISO date — this is the **proposal SUBMISSION deadline** from SEDIA's `deadlineDate`, NOT the project execution end date), deadlineModel (single-stage/two-stage), budgetTotal, budgetPerProject, expectedOutcome, scope, topicsKeywords from the text. Keep extraction faithful — do not paraphrase or shorten the scope/outcome beyond removing API noise. If you can infer the project execution duration from the text (e.g. "36 months", "10-month programme"), include it inside `deadlineModel` or `otherConstraints` rather than overwriting `deadline`.
+
+   **Source-specific deadline terminology (write the correct meaning into `deadlineModel`, not just the raw word):**
+   - SEDIA / EC portal: `deadlineDate` = proposal submission deadline (call closes for new proposals).
+   - Kaggle: "Close" = Final Submission Deadline (hard cut-off for the ready solution; Foundational Rules §3.3). Often a separate **Entry Deadline** (registration cut-off) exists ~7 days before Close — surface it as a risk if present.
+   - Devpost / hackathon platforms: "Submission Period ends" = same as Kaggle Close.
+   - Cascade calls (FSTP): "Open Call deadline" = sub-grant application cut-off; project duration is separate and usually given as "X-month programme".
 3. **Fill `eligibility` block.** Pay particular attention to:
    - Ukraine is an **Associated Country** to Horizon Europe → ZNU is eligible for most HE topics. Confirm by looking for "Associated Countries" or explicit country exclusions in CONDITIONS.
    - Minimum consortium size and country diversity (e.g. "3 independent legal entities from 3 different MS/AC").
