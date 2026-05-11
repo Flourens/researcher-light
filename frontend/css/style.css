@@ -188,6 +188,13 @@ a { color: var(--accent); }
   align-items: center;
   justify-content: space-between;
   gap: 10px;
+  flex-wrap: wrap;
+}
+
+.card-foot .badges {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
 }
 
 .deadline.close { color: var(--close-deadline); font-weight: 600; }
@@ -200,10 +207,11 @@ a { color: var(--accent); }
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+  white-space: nowrap;
 }
 .badge-yes   { background: var(--good-bg); color: var(--good); }
 .badge-maybe { background: var(--warn-bg); color: var(--warn); }
-.badge-no    { background: var(--bad-bg);  color: var(--bad);  }
+.badge-no    { background: #fee2e2;        color: #b91c1c;     }
 .badge-confidence {
   background: #eef2ff; color: #3730a3;
 }
@@ -228,8 +236,14 @@ a { color: var(--accent); }
   text-decoration: none;
   font-size: 13px;
   font-weight: 500;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 .btn:hover { background: #142966; }
+
+.card-foot .btn {
+  margin-left: auto;
+}
 
 .empty {
   color: var(--muted);
