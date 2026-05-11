@@ -21,8 +21,8 @@
       "en": "Main Track: $50K / $25K / $15K / $10K. Impact Track: 5× $10K (Health & Sciences, Global Resilience, Future of Education, Digital Equity & Inclusivity, Safety & Trust). Special Technology Track: 5× $10K (Cactus, LiteRT, llama.cpp, Ollama, Unsloth). Main + Special Technology prizes STACK ($50K+$10K possible).",
       "uk": "Main Track: $50K / $25K / $15K / $10K. Impact Track: 5× $10K (Health & Sciences, Global Resilience, Future of Education, Digital Equity & Inclusivity, Safety & Trust). Special Technology Track: 5× $10K (Cactus, LiteRT, llama.cpp, Ollama, Unsloth). Main + Special Technology призи СУМУЮТЬСЯ ($50K+$10K можливо)."
     },
-    "shouldApply": "maybe",
-    "confidence": "medium",
+    "shouldApply": "no",
+    "confidence": "high",
     "znuFitsGrant": "yes",
     "grantFitsZnu": "partial",
     "analyzedAt": "2026-05-11T10:45:00Z"
