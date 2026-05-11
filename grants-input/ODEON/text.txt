@@ -1,0 +1,54 @@
+COMPETITIVE CALL: ODEON Open Call
+Parent Project: ODEON — federated data and intelligence Orchestration & sharing for the Digital Energy transitiON
+Original Topic: HORIZON-CL5-2023-D3-01-15
+Deadline: 2026-07-09T17:00:00.000+0000
+Total Budget: 1200000
+Duration: 10-month Support and Mentoring Programme:
+Stage 1. Individual Mentoring Plan & Project Design
+Stage 2. Energy Service Development
+Stage 3. Users Validation and Impact Creation
+
+=== CALL DETAILS ===
+The ODEON Open Call is an opportunity for single entities, particularly Small and Medium-sized Enterprises (SMEs), to receive funding and support for developing innovative, data-driven energy services and applications.
+
+The core mission of the call is to facilitate the digital energy transition. This is achieved by having selected projects utilize the ODEON Cloud-Edge Data and Intelligence Service Platform, a federated technological framework designed to orchestrate data, intelligence, service, and market flows. This platform integrates secure federated data management and intelligence services to enable energy value chain actors to share data and deliver new data-driven services that support the integration of renewable energy and distributed flexibility.
+
+The Open Call will select up to 20 projects, with each selected entity receiving a fixed lump sum of up to €60,000. Successful applicants will also be enrolled in the ODEON Support Programme.
+
+The selected projects must focus on the design, development, and validation of these innovative energy services and applications. Crucially, each application must address one of the predefined challenges set by the ODEON consortium, namely:
+
+- Monitoring, Governance, and Lifecycle Management 
+- Federated Edge-AI Pilot 
+- Development of an Edge-Deployable Bi-Directional Data Connector for Residential Energy Assets
+- Next-Day Load Baseline Calculation for LFM participation
+- Near-Real time Secondary Substation Load Forecasting for predicting congestion and overvoltage events based on LV consumer/producer data
+- Near-Real time Secondary Substation Load Forecasting for predicting congestion and overvoltage events based on SS transformer data
+- Improving Flexibility Profiling and Baseline for Implicit Demand Response Campaigns
+- Smart Charging V2G/G2V under grid signals
+- Forecasting Services for LECs
+- Improving Prosumer Understanding Through What-If Scenario Analysis
+- Improving Reliability and Performance Awareness of Residential DERs
+- Structuring Residential Flexibility for Demand Response and Aggregation
+- Cross-Dataspace Interoperability & Energy AI Services
+These solutions should address the needs of specific end-users, including Network operators, Local energy communities/Aggregators, Consumers, and Prosumers. ODEON also seeks to cross-validate and test the interoperability of ODEON use cases in the framework of other European projects, such as Hedge-IoT.
+
+Submission must be through the application form available at: https://opportunities.getonepass.eu/applications/odeon/start
+
+The selection of the Open Call proposals will be carried out in a six-step process.
+
+- An initial check against the eligibility criteria.
+- In/Out Scope Screening run by the ODEON Selection Committee to assess the proposal according to the criteria.
+- External evaluation carried out by independent evaluators to assess the proposal according to the criteria.
+- Consensus Meeting to agree on the 'List of Jury Day participants' to be invited to the Jury Day.
+- Jury Day Pitching and Consensus Meeting to agree on the ‘Provisional List of FSTP recipients’ and ‘Reserve List’ to be invited to the ODEON Support Programme.
+- Formal check of the pre-selected beneficiaries and signing of the Sub-Grant Agreement.
+For further information, see the ‘Open Call Terms and Conditions’.
+
+=== FURTHER INFORMATION ===
+OC website: https://opportunities.getonepass.eu/applications/odeon/start 
+
+OC Discord Channel: https://discord.gg/mWtYt9tk5D
+
+OC Helpdesk email: ODEON.helpesk@fundingbox.com
+
+Project website: https://odeonproject.eu/

@@ -1,0 +1,9 @@
+{
+  "source": "manual",
+  "fetchedAt": "2026-05-11T10:30:00Z",
+  "note": "Not from SEDIA — manually compiled from Kaggle Competition Rules text shared by the user and grant.market summary. raw.json kept minimal here; canonical content is in text.txt.",
+  "urls": {
+    "kaggle": "https://www.kaggle.com/competitions/gemma-4-good-hackathon",
+    "grantMarket": "https://grant.market/opp/gemma-4-hackathon"
+  }
+}

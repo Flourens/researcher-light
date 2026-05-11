@@ -1,0 +1,143 @@
+{
+  "name": "Zaporizhzhia National University (ZNU)",
+  "type": "university",
+  "country": "Ukraine",
+  "description": "ZNU is a leading education and research center in Zaporizhzhia region, ensuring continuity and operational stability under wartime conditions. Founded in 1930, it is ranked TOP-10 in Ukraine based on national research assessment and 1st in Humanities and Arts Research category. The university has 12 faculties, an Engineering Educational and Scientific Institute, 4 professional colleges (including Metallurgical and Hydropower Colleges), 12,692 students, 1,248 staff, and 535 academic staff.",
+  "researchAreas": [
+    "Green Metal Industry (high-entropy alloys, electrolyzers, catalytic gas purification)",
+    "Smart Grids and Renewable Energy Systems",
+    "Digital Twins for Industrial and Energy Systems",
+    "Green Industrial Transformation and Industrial Ecology",
+    "Hydropower Rehabilitation and Ecosystem-Based Reconstruction",
+    "High-Performance Computing and Parallel Computing",
+    "Artificial Intelligence and Machine Learning",
+    "Computer Science and Software Engineering",
+    "Mathematics and Applied Mathematics",
+    "Physics and Materials Science",
+    "Pedagogical Sciences and Education Innovation"
+  ],
+  "teamInfo": {
+    "totalResearchers": 535,
+    "students": 12692,
+    "totalStaff": 1248,
+    "expertise": [
+      "Metallurgy: Design and fabrication of high-entropy alloys, intermetallic compounds, and cermets under thermochemical pressing",
+      "Electrochemistry: Engineering of electrolyzer systems for magnesium extraction from fluoride-oxide melts for Al-Mg alloy production",
+      "Catalysis: Advancement of catalytic technologies for industrial gas purification from CO and hydrocarbons",
+      "Smart Grids: Enhancing energy resilience and real-time management of distributed renewables",
+      "Digital Twins: Modeling and optimizing industrial and energy systems through data-driven simulation",
+      "Renewable Energy: Advancing solar, wind, and hydropower for regional energy independence",
+      "AI/ML: Model development and optimization for industrial applications",
+      "HPC: Parallel and distributed computing for scientific simulations",
+      "STEM Education: Innovation in engineering and science pedagogy"
+    ],
+    "keyUnits": [
+      {
+        "name": "Engineering Educational and Scientific Institute",
+        "role": "Lead unit for metallurgy, materials science, and engineering education",
+        "capabilities": "Metal alloy research, thermochemical processing, industrial engineering curricula"
+      },
+      {
+        "name": "Faculty of Mathematics",
+        "role": "AI/ML, computational methods, data science",
+        "capabilities": "Laboratory of Parallel and Distributed Computing, AI model development, optimization algorithms"
+      },
+      {
+        "name": "Metallurgical Professional College",
+        "role": "Applied metallurgical training and vocational education",
+        "capabilities": "Practical metallurgy skills, technician-level training, industry-connected programs"
+      },
+      {
+        "name": "Hydropower Professional College",
+        "role": "Energy systems and hydropower engineering education",
+        "capabilities": "Renewable energy training, power plant operations, energy system management"
+      }
+    ]
+  },
+  "resources": {
+    "hpcAccess": true,
+    "hpcDetails": "Laboratory of Parallel and Distributed Computing",
+    "cloudInfrastructure": "Microsoft Azure cloud technologies for digital security, data protection, and operational stability",
+    "vrFacilities": "Interdisciplinary project activity with VR technologies",
+    "solarPower": "Rooftop solar power systems and cogeneration technologies for energy independence",
+    "laboratories": [
+      "Laboratory of Parallel and Distributed Computing",
+      "Materials science and metallurgy laboratories (Engineering Institute)",
+      "Electrochemistry and catalysis research labs",
+      "Educational and research laboratories across 10 buildings",
+      "Scientific library with 1M+ volumes and electronic library"
+    ]
+  },
+  "financialCapacity": {
+    "coFundingAvailable": true,
+    "maxProjectBudget": 500000,
+    "esgStrategy": "Implementing ESG-aligned strategy to address recovery disruptions and ensure sustainable institutional resilience"
+  },
+  "trackRecord": {
+    "previousGrants": [
+      {
+        "title": "14 Erasmus+ projects",
+        "funder": "European Commission",
+        "status": "active"
+      },
+      {
+        "title": "3 Horizon MSCA projects",
+        "funder": "European Commission / Horizon Europe",
+        "status": "active"
+      },
+      {
+        "title": "UA-UK Twinning project",
+        "funder": "UK Research and Innovation",
+        "status": "active"
+      },
+      {
+        "title": "DAAD Ukraine Digital",
+        "funder": "DAAD (German Academic Exchange Service)",
+        "status": "active"
+      },
+      {
+        "title": "International staff development projects: LUTUR, UIHERP, THEA Lead, SUUN",
+        "funder": "Various EU programmes",
+        "status": "active"
+      },
+      {
+        "title": "AI in logistics systems for national security",
+        "funder": "Ukrainian State Budget",
+        "amount": "3.59M UAH",
+        "status": "active"
+      }
+    ],
+    "rankings": "TOP-10 universities nationwide (national research assessment); Ranked 1st in Humanities and Arts Research category",
+    "internationalMobility": "30% academic staff have long-term mobility experience; 10% students with semester-long mobility"
+  },
+  "partnerships": [
+    {
+      "organization": "NTNU (Norwegian University of Science and Technology)",
+      "type": "academic",
+      "active": true,
+      "description": "Strategic partnership for Nansen EDU. Joint roadmap 2026-2028: Foundation → Pilots → Scaling. Focus areas: green metal industry, smart energy, digital twins, AI for industry."
+    },
+    {
+      "organization": "Durham University (UK)",
+      "type": "academic",
+      "active": true
+    },
+    {
+      "organization": "TU Bergakademie Freiberg (Germany)",
+      "type": "academic",
+      "active": true
+    }
+  ],
+  "warContext": "Zaporizhzhia is a frontline region directly affected by the war. ZNU ensures continuity of education and research under wartime conditions through blended learning, mental and physical health support programs, institutional resilience measures (ESG strategy, solar power, Azure cloud migration), and VR-based interdisciplinary activities.",
+  "cooperationAreas": [
+    "Hydropower Rehabilitation & Ecosystem-Based Reconstruction",
+    "Smart, Flexible & Secure Energy Systems",
+    "Green Industrial Transformation & Industrial Ecology",
+    "Green Metal Industry"
+  ],
+  "roadmapWithNTNU": {
+    "2026": "Foundation: Governance and clusters, Capacity/ESG/cybersecurity, Pilot concepts, EU proposals",
+    "2027": "Pilots: Applied pilots, Living Labs, Staff exchanges and training, Joint publications",
+    "2028": "Scaling: Regional pilots, Joint courses and ESG training, Co-supervised PhD/postdoc, Large-scale Horizon proposals"
+  }
+}

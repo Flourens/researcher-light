@@ -1,0 +1,154 @@
+{
+  "grantId": "HORIZON-INFRA-2026-TECH-01-01",
+  "fetchedAt": "2026-05-11T08:50:00Z",
+  "analyzedAt": "2026-05-11T08:55:00Z",
+  "grant": {
+    "title": {
+      "en": "R&D for the next generation of scientific instrumentation, tools, methods, digitalisation and solutions for research infrastructure upgrades",
+      "uk": "Дослідження та розробки наступного покоління наукового обладнання, інструментів, методів, цифровізації та рішень для модернізації дослідницьких інфраструктур"
+    },
+    "callIdentifier": "HORIZON-INFRA-2026-01",
+    "type": {
+      "en": "HORIZON Research and Innovation Actions",
+      "uk": "HORIZON Дослідницько-інноваційні дії (RIA)"
+    },
+    "typeCode": "1",
+    "deadline": "2026-06-16",
+    "deadlineModel": {
+      "en": "single-stage",
+      "uk": "однораундова"
+    },
+    "budgetTotal": {
+      "en": "EUR 110,000,000 (11 expected grants)",
+      "uk": "110 000 000 євро (очікується 11 грантів)"
+    },
+    "budgetPerProject": {
+      "en": "EUR 5,000,000 – 10,000,000",
+      "uk": "5 000 000 – 10 000 000 євро"
+    },
+    "expectedOutcome": {
+      "en": "Enhanced scientific competitiveness, greening, resilience and digitalisation of European research infrastructures; closer integration of RIs with universities, research organisations and industry; uptake of innovation outside the scientific market through co-development with industry of advanced technologies for RIs; integration into local, regional, national and global innovation systems.",
+      "uk": "Підвищення наукової конкурентоспроможності, екологічності, стійкості та цифровізації європейських дослідницьких інфраструктур; тісніша інтеграція RI з університетами, дослідницькими організаціями та промисловістю; впровадження інновацій за межами наукового ринку через спільну розробку з індустрією передових технологій для RI; інтеграція в локальні, регіональні, національні та глобальні інноваційні системи."
+    },
+    "scope": {
+      "en": "Deliver innovative scientific instrumentation, tools, digitalisation, methods and solutions that advance the state-of-the-art of research infrastructures in the EU and Associated Countries with transformative potential. Covers R&D of new instrumentation, technology validation and prototyping (TRL >4 for RI use cases, up to TRL 3-4 for adjacent applications), training of RI staff, and innovation potential for industrial exploitation. Greening / resilience aspects mandatory. Optional PCP subcontracting. At least two different ESFRI/ERIC/international European RIs must be beneficiaries; other technological partners (industry, SMEs, startups, scaleups, universities) are also expected.",
+      "uk": "Створити інноваційне наукове обладнання, інструменти, цифровізацію, методи та рішення, які підвищують стан розвитку дослідницьких інфраструктур у ЄС та асоційованих країнах з трансформаційним потенціалом. Охоплює R&D нового обладнання, валідацію та прототипування технологій (TRL >4 для застосувань у RI, до TRL 3–4 для суміжних застосувань), навчання персоналу RI та інноваційний потенціал для промислової експлуатації. Аспекти екологізації та стійкості є обов’язковими. Опціональне субпідрядне PCP. Принаймні дві різні ESFRI/ERIC/міжнародні європейські RI мають бути бенефіціарами; також очікуються інші технологічні партнери (промисловість, МСП, стартапи, скейл-апи, університети)."
+    },
+    "topicsKeywords": [
+      {"en": "scientific instrumentation", "uk": "наукове обладнання"},
+      {"en": "research infrastructure upgrades", "uk": "модернізація дослідницьких інфраструктур"},
+      {"en": "digitalisation", "uk": "цифровізація"},
+      {"en": "greening / resilience", "uk": "екологізація / стійкість"},
+      {"en": "ESFRI / ERIC", "uk": "ESFRI / ERIC"},
+      {"en": "technology validation", "uk": "валідація технологій"},
+      {"en": "TRL 3-4", "uk": "TRL 3–4"},
+      {"en": "PCP procurement", "uk": "PCP закупівлі"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Standard HE RIA minimum (3 independent legal entities from 3 different MS/AC) PLUS a topic-specific requirement: at least two different research infrastructures as beneficiaries, each being an ESFRI RI, an ERIC, or another international European research organisation. Two nodes of the same ESFRI/ERIC do NOT count as two different RIs.",
+      "uk": "Стандартний мінімум HE RIA (3 незалежні юридичні особи з 3 різних держав-членів / асоційованих країн) ПЛЮС специфічна для топіка вимога: принаймні дві різні дослідницькі інфраструктури як бенефіціари, кожна з яких є ESFRI RI, ERIC або іншою міжнародною європейською дослідницькою організацією. Два вузли однієї ESFRI/ERIC НЕ зараховуються як дві різні RI."
+    },
+    "requiredCountries": {
+      "en": "EU Member States and Horizon Europe Associated Countries (Ukraine included). Restrictions for the protection of European communication networks may apply per Annex B of the General Annexes.",
+      "uk": "Держави-члени ЄС та країни, асоційовані з Horizon Europe (Україна включена). Можуть застосовуватися обмеження для захисту європейських комунікаційних мереж згідно з Анексом B Загальних додатків."
+    },
+    "otherConstraints": {
+      "en": "Single-stage submission, deadline 2026-06-16. Proposals must be complementary to HORIZON-INFRA-2022-TECH-01-01 and HORIZON-INFRA-2024-TECH-01-01 — complementarity must be argued explicitly. Greening / resilience addressing is mandatory for ALL proposed solutions. PCP subcontracting permitted but optional.",
+      "uk": "Однораундове подання, дедлайн 16.06.2026. Пропозиції мають бути доповнювальними до HORIZON-INFRA-2022-TECH-01-01 та HORIZON-INFRA-2024-TECH-01-01 — комплементарність потрібно явно обґрунтувати. Розгляд аспектів екологізації / стійкості є обов’язковим для ВСІХ запропонованих рішень. Субпідряд PCP дозволений, але необов’язковий."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {
+          "en": "Digitalisation of research infrastructures (data management, AI/HPC, digital twins for RI operation)",
+          "uk": "Цифровізація дослідницьких інфраструктур (управління даними, ШІ/HPC, цифрові двійники для роботи RI)"
+        },
+        "znuArea": {
+          "en": "Digital Twins for Industrial and Energy Systems + HPC / Parallel Computing + AI/ML",
+          "uk": "Цифрові двійники для промислових та енергетичних систем + HPC / паралельні обчислення + ШІ/МН"
+        },
+        "strength": "medium",
+        "rationale": {
+          "en": "ZNU has Laboratory of Parallel and Distributed Computing and AI/ML expertise that map onto the digitalisation aspect of RI upgrades — but ZNU's digital twin work targets industrial/energy systems, not RI instrumentation per se. Adjacent fit, not a direct match.",
+          "uk": "У ЗНУ є Лабораторія паралельних і розподілених обчислень та компетенції в ШІ/МН, які лягають на аспект цифровізації модернізації RI — однак робота ЗНУ з цифровими двійниками орієнтована на промислово-енергетичні системи, а не безпосередньо на обладнання RI. Дотична відповідність, не пряме співпадіння."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Scientific instrumentation and methods (materials, electrochemistry, catalysis)",
+          "uk": "Наукове обладнання та методи (матеріали, електрохімія, каталіз)"
+        },
+        "znuArea": {
+          "en": "Green Metal Industry (high-entropy alloys, electrolyzers, catalytic gas purification) + Materials Science",
+          "uk": "Зелена металургія (висококентропійні сплави, електролізери, каталітичне очищення газів) + матеріалознавство"
+        },
+        "strength": "low",
+        "rationale": {
+          "en": "ZNU's metallurgy and electrochemistry capabilities could feed niche instrumentation R&D, but the topic targets cross-cutting tools used by ESFRI/ERIC research infrastructures (e.g. light sources, neutron sources, e-infrastructures), not standalone materials science.",
+          "uk": "Металургійні та електрохімічні компетенції ЗНУ можуть живити нішеві R&D з обладнання, проте топік націлений на наскрізні інструменти, які використовуються ESFRI/ERIC RI (наприклад, джерела світла, нейтронні джерела, е-інфраструктури), а не на самостійне матеріалознавство."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Greening / resilience of research infrastructures",
+          "uk": "Екологізація / стійкість дослідницьких інфраструктур"
+        },
+        "znuArea": {
+          "en": "Green Industrial Transformation + Renewable Energy + Smart Grids",
+          "uk": "Зелена індустріальна трансформація + відновлювана енергетика + smart grids"
+        },
+        "strength": "low",
+        "rationale": {
+          "en": "Tangential — ZNU's green-industry stack is about transforming industry, not RIs. Could be reframed but is not a natural fit.",
+          "uk": "Дотично — зелено-індустріальний стек ЗНУ стосується трансформації промисловості, а не RI. Можна переформулювати, але це не природна відповідність."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Partial. ZNU has HPC, AI labs, materials/electrochemistry labs, Azure cloud, and a 1M+ volume library. None of these are at the scale or character of an ESFRI/ERIC research infrastructure. ZNU could plausibly contribute computational and analytical capacity as a non-RI technological partner.",
+      "uk": "Часткова. У ЗНУ є HPC, ШІ-лабораторії, лабораторії з матеріалів/електрохімії, хмара Azure та бібліотека з понад 1 млн томів. Жодне з цього не є за масштабом чи характером ESFRI/ERIC дослідницькою інфраструктурою. ЗНУ міг би реалістично надати обчислювальну й аналітичну потужність як не-RI технологічний партнер."
+    },
+    "partnershipFit": {
+      "en": "Weak. ZNU's listed partners (NTNU, Durham, TU Bergakademie Freiberg) are all universities — none qualify as ESFRI Landmarks, ESFRI Projects, ERICs, or international European research organisations. To meet the topic-specific requirement, the consortium would need to be built around 2+ existing ESFRI/ERIC RIs as core beneficiaries, with ZNU joining as a technological partner (possibly via NTNU's RI links, but this is unverified).",
+      "uk": "Слабка. Перелічені партнери ЗНУ (NTNU, Durham, TU Bergakademie Freiberg) — усі університети; жоден не кваліфікується як ESFRI Landmark, ESFRI Project, ERIC чи міжнародна європейська дослідницька організація. Щоб задовольнити специфічну вимогу топіка, консорціум потрібно будувати навколо двох або більше наявних ESFRI/ERIC RI як ключових бенефіціарів, а ЗНУ долучався б як технологічний партнер (можливо, через RI-зв’язки NTNU, але це не підтверджено)."
+    },
+    "trackRecordFit": {
+      "en": "Good general HE/Erasmus+ track record (14 Erasmus+, 3 Horizon MSCA, UA-UK Twinning, DAAD) demonstrates project-management capacity, but no prior INFRA-line participation is documented in the participant profile. INFRA topics typically attract incumbent consortia centred on existing RIs.",
+      "uk": "Хороший загальний досвід HE/Erasmus+ (14 Erasmus+, 3 Horizon MSCA, UA-UK Twinning, DAAD) демонструє управлінську спроможність, але попередня участь у лінії INFRA в профілі учасника не задокументована. Топіки INFRA зазвичай притягують усталені консорціуми навколо існуючих RI."
+    },
+    "warContextRelevance": {
+      "en": "Low relevance. The INFRA call frames resilience in terms of environmental footprint / critical components / energy consumption, not geopolitical resilience. Frontline-region context is not a differentiator here.",
+      "uk": "Низька релевантність. Конкурс INFRA трактує стійкість через екологічний слід / критичні компоненти / енергоспоживання, а не геополітичну стійкість. Контекст прифронтового регіону тут не є диференціатором."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "partial",
+    "shouldApply": "no",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "Affiliated technology partner (non-beneficiary) on a consortium led by ESFRI/ERIC RIs — if such an opportunity arises via NTNU or other partners.",
+      "uk": "Афілійований технологічний партнер (не-бенефіціар) у консорціумі під керівництвом ESFRI/ERIC RI — якщо така можливість виникне через NTNU або інших партнерів."
+    },
+    "strengths": [
+      {"en": "Ukraine is HE-eligible — no country-level blocker.", "uk": "Україна прийнятна для HE — немає блокера на рівні країни."},
+      {"en": "ZNU's HPC, AI/ML and digital-twin stack genuinely maps onto the digitalisation strand of the topic.", "uk": "Стек ЗНУ з HPC, ШІ/МН і цифрових двійників справді відповідає цифровізаційному напряму топіка."},
+      {"en": "Existing partnership with NTNU may give an indirect path into RI-centric consortia.", "uk": "Існуюче партнерство з NTNU може дати непрямий шлях у RI-орієнтовані консорціуми."},
+      {"en": "Solid HE/Erasmus+ track record demonstrates project execution capacity.", "uk": "Солідний досвід HE/Erasmus+ підтверджує здатність виконувати проекти."}
+    ],
+    "risks": [
+      {"en": "Topic-specific eligibility requires ≥2 ESFRI/ERIC/IERO research infrastructures as beneficiaries — ZNU is neither, and none of its listed partners qualify.", "uk": "Специфічна для топіка прийнятність вимагає ≥2 ESFRI/ERIC/IERO дослідницькі інфраструктури як бенефіціарів — ЗНУ не є такою, і жоден з його заявлених партнерів не кваліфікується."},
+      {"en": "Per-project budget (EUR 5–10M) and TRL 4+ instrumentation targets imply a consortium of established RIs with substantial existing infrastructure — high bar for a newcomer.", "uk": "Бюджет на проект (5–10 млн євро) та цілі обладнання TRL 4+ передбачають консорціум із усталених RI з потужною наявною інфраструктурою — висока планка для новачка."},
+      {"en": "Single-stage deadline 2026-06-16 means ~5 weeks of prep — insufficient time to assemble a fresh RI-led consortium from scratch.", "uk": "Однораундовий дедлайн 16.06.2026 означає ~5 тижнів на підготовку — недостатньо часу зібрати новий RI-консорціум з нуля."},
+      {"en": "Complementarity argument against HORIZON-INFRA-2022-TECH-01-01 and 2024-TECH-01-01 requires deep familiarity with the INFRA-TECH pipeline, which ZNU's track record does not show.", "uk": "Аргументація комплементарності з HORIZON-INFRA-2022-TECH-01-01 та 2024-TECH-01-01 потребує глибокого знання конвеєра INFRA-TECH, яке досвід ЗНУ не демонструє."}
+    ],
+    "rationale": {
+      "en": "ZNU should not lead or apply to this topic as a coordinator. The topic-specific eligibility requirement (≥2 different ESFRI/ERIC/international European research infrastructures as beneficiaries) is a hard structural blocker — ZNU is a university, not an RI, and none of its declared partners qualify either. The funding scale (EUR 5–10M per project, 11 grants for a EUR 110M envelope) is calibrated for established RI consortia.\n\nThe digitalisation strand (digital twins, HPC, AI/ML for RI operations) is the only genuine fit in ZNU's profile, but it is a single dimension of a broad topic, and exploiting it would require ZNU to be invited onto a pre-existing RI-led consortium as a technological partner (non-beneficiary). The realistic path is not 'apply' but 'monitor and offer collaboration': talk to NTNU about whether any of its RI collaborators (e.g. CERIC-ERIC, EuroBioImaging) are building INFRA-2026-TECH consortia where ZNU's HPC / digital-twin capabilities could plug in. Even that path is constrained by the single-stage 2026-06-16 deadline.\n\nA better INFRA fit for ZNU would be the CSA topics (HORIZON-INFRA-2026-DEV-01-04, 01-06, 01-EOSC-02) which target coordination, training and policy work where universities are more naturally beneficiaries. Recommend re-running this analysis against those callIdentifiers.",
+      "uk": "ЗНУ не варто очолювати чи подавати заявку на цей топік як координатор. Специфічна для топіка вимога прийнятності (≥2 різні ESFRI/ERIC/міжнародні європейські дослідницькі інфраструктури як бенефіціари) є жорстким структурним блокером — ЗНУ є університетом, а не RI, і жоден із заявлених партнерів теж не кваліфікується. Масштаб фінансування (5–10 млн євро на проект, 11 грантів на конверт 110 млн євро) налаштований під усталені RI-консорціуми.\n\nЦифровізаційний напрям (цифрові двійники, HPC, ШІ/МН для роботи RI) є єдиною справжньою відповідністю в профілі ЗНУ, але це лише один вимір широкого топіка, і його реалізація потребувала б запрошення ЗНУ до вже існуючого RI-консорціуму як технологічного партнера (не-бенефіціара). Реалістичний шлях — не «подавати», а «моніторити та пропонувати співпрацю»: поспілкуватися з NTNU про те, чи будують їхні RI-партнери (наприклад, CERIC-ERIC, EuroBioImaging) консорціуми під INFRA-2026-TECH, де могли б долучитися HPC / цифрово-двійникові спроможності ЗНУ. Навіть цей шлях обмежений однораундовим дедлайном 16.06.2026.\n\nКращою INFRA-відповідністю для ЗНУ були б CSA-топіки (HORIZON-INFRA-2026-DEV-01-04, 01-06, 01-EOSC-02), які націлені на координацію, навчання та політичну роботу, де університети є природнішими бенефіціарами. Рекомендую перезапустити цей аналіз для зазначених callIdentifier."
+    }
+  }
+}

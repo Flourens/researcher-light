@@ -1,0 +1,206 @@
+{
+  "grantId": "GEMMA-4-GOOD-HACKATHON",
+  "kind": "hackathon",
+  "sourceUrl": "https://www.kaggle.com/competitions/gemma-4-good-hackathon",
+  "fetchedAt": "2026-05-11T10:30:00Z",
+  "analyzedAt": "2026-05-11T10:45:00Z",
+  "grant": {
+    "title": {
+      "en": "The Gemma 4 Good Hackathon",
+      "uk": "Хакатон The Gemma 4 Good Hackathon"
+    },
+    "callIdentifier": "Kaggle: gemma-4-good-hackathon (Sponsor: Google LLC)",
+    "type": {
+      "en": "Hackathon — skills-based competition with prize money (NOT a grant agreement)",
+      "uk": "Хакатон — конкурс навичок з грошовими призами (НЕ грантова угода)"
+    },
+    "typeCode": "hackathon",
+    "deadline": "2026-05-18",
+    "deadlineModel": {
+      "en": "Kaggle terminology: 'Close' = Final Submission Deadline (Foundational Rules §3.3) — the hard cut-off for a ready, working submission. ONE submission per team after that point. Close ≈ 2026-05-18 per grant.market (~7-8 days from today). WARNING: many Kaggle competitions also have a separate Entry Deadline (registration cut-off) ~7 days BEFORE Close — verify on Kaggle Overview > Timeline page IMMEDIATELY; if registration is already past or imminent, the whole opportunity is moot.",
+      "uk": "Термінологія Kaggle: «Close» = Final Submission Deadline (Foundational Rules §3.3) — жорсткий cut-off для готового, робочого submission. ОДНЕ submission на команду після цього моменту. Close ≈ 18.05.2026 за grant.market (~7-8 днів від сьогодні). УВАГА: багато Kaggle-конкурсів мають окремий Entry Deadline (дедлайн реєстрації) за ~7 днів ДО Close — НЕГАЙНО перевірити Kaggle Overview > Timeline; якщо реєстрація вже минула або ось-ось — вся можливість зникає."
+    },
+    "budgetTotal": {
+      "en": "USD 200,000 total prize pool",
+      "uk": "Загальний призовий фонд 200 000 USD"
+    },
+    "budgetPerProject": {
+      "en": "Main Track: $50K / $25K / $15K / $10K. Impact Track: 5× $10K (Health & Sciences, Global Resilience, Future of Education, Digital Equity & Inclusivity, Safety & Trust). Special Technology Track: 5× $10K (Cactus, LiteRT, llama.cpp, Ollama, Unsloth). Main + Special Technology prizes STACK ($50K+$10K possible).",
+      "uk": "Main Track: $50K / $25K / $15K / $10K. Impact Track: 5× $10K (Health & Sciences, Global Resilience, Future of Education, Digital Equity & Inclusivity, Safety & Trust). Special Technology Track: 5× $10K (Cactus, LiteRT, llama.cpp, Ollama, Unsloth). Main + Special Technology призи СУМУЮТЬСЯ ($50K+$10K можливо)."
+    },
+    "expectedOutcome": {
+      "en": "Working prototype/MVP using Gemma 4 as the primary model component, demonstrating real-world impact on one or more of: health, global resilience, education, digital equity, or AI safety. Winning code released under CC-BY 4.0 (commercial use allowed).",
+      "uk": "Робочий прототип/MVP з використанням Gemma 4 як основного модельного компонента, що демонструє вплив на реальний світ у одному або кількох напрямках: охорона здоров’я, глобальна стійкість, освіта, цифрова рівність або безпека ШІ. Переможний код випускається під CC-BY 4.0 (комерційне використання дозволено)."
+    },
+    "scope": {
+      "en": "Build any AI application powered by Gemma 4. Five Impact themes: (1) Health & Sciences — tools accelerating discovery / democratizing knowledge; (2) Global Resilience — offline/edge disaster-response or long-range climate-mitigation systems; (3) Future of Education — multi-tool agents aiding learners and empowering educators; (4) Digital Equity & Inclusivity — linguistic diversity, intuitive interfaces, closing AI skills gap; (5) Safety & Trust — transparency/reliability frameworks keeping AI grounded and explainable. Five Special Technology angles for stacking prizes: Cactus (local-first mobile/wearable, model routing), LiteRT (Google AI Edge), llama.cpp (resource-constrained), Ollama (local), Unsloth (fine-tuning).",
+      "uk": "Створити будь-який AI-застосунок на основі Gemma 4. П’ять Impact-напрямків: (1) Health & Sciences — інструменти, що прискорюють відкриття / демократизують знання; (2) Global Resilience — офлайн/edge системи реагування на катастрофи або довгострокова mitigation клімату; (3) Future of Education — мультиінструментні агенти для учнів і викладачів; (4) Digital Equity & Inclusivity — мовне різноманіття, інтуїтивні інтерфейси, скорочення розриву в навичках ШІ; (5) Safety & Trust — фреймворки прозорості/надійності, що тримають ШІ обґрунтованим і пояснюваним. П’ять напрямків Special Technology для накладення призів: Cactus (local-first мобільні/wearable, маршрутизація моделей), LiteRT (Google AI Edge), llama.cpp (на ресурсо-обмеженому залізі), Ollama (локально), Unsloth (fine-tuning)."
+    },
+    "topicsKeywords": [
+      {"en": "Gemma 4 (mandatory)", "uk": "Gemma 4 (обов’язково)"},
+      {"en": "offline / edge AI", "uk": "офлайн / edge ШІ"},
+      {"en": "MVP / working prototype", "uk": "MVP / робочий прототип"},
+      {"en": "open-source CC-BY 4.0", "uk": "open-source CC-BY 4.0"},
+      {"en": "team ≤ 5", "uk": "команда ≤ 5"},
+      {"en": "one submission per team", "uk": "одне сабмішн на команду"},
+      {"en": "global eligibility (with sanctioned-region exclusions)", "uk": "глобальна прийнятність (з виключеннями санкційних регіонів)"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Single individual or team of up to 5 (Foundational Rules §3.5; max Team size per Competition-Specific Rules §2.1.a). No consortium concept. Submission limit: ONE per team for Hackathons (Competition-Specific Rules §2.2.a). Team merger must happen before the Team Merger Deadline; check Kaggle Overview > Timeline for that date too.",
+      "uk": "Один учасник або команда до 5 осіб (Foundational Rules §3.5; максимум команди за Competition-Specific Rules §2.1.a). Концепту консорціуму немає. Ліміт подання: ОДНЕ на команду для хакатонів (Competition-Specific Rules §2.2.a). Team merger має статися до Team Merger Deadline; перевірити цю дату на Kaggle Overview > Timeline."
+    },
+    "requiredCountries": {
+      "en": "Globally open. EXCLUDED residents: Crimea, 'so-called DNR', 'so-called LNR', Cuba, Iran, North Korea, plus anyone under US export controls or sanctions. Zaporizhzhia city (where ZNU operates) is in Ukrainian-controlled territory → NOT excluded. Anyone physically in occupied parts of Zaporizhzhia oblast would be ineligible (rare edge case to flag in team composition).",
+      "uk": "Глобально відкрито. ВИКЛЮЧЕНІ резиденти: Крим, «так звана ДНР», «так звана ЛНР», Куба, Іран, Північна Корея, а також будь-хто під експортним контролем чи санкціями США. Місто Запоріжжя (де працює ЗНУ) на підконтрольній Україні території → НЕ виключено. Будь-хто, хто фізично перебуває на тимчасово окупованих частинах Запорізької області, був би неприйнятним (рідкісний edge-case, який треба перевірити при складі команди)."
+    },
+    "otherConstraints": {
+      "en": "Must be a Kaggle account holder; must be 18+. If entering on behalf of an institution (university), the institution must permit participation (Rules §1.c) — verify ZNU's internal policy. Mandatory CC-BY 4.0 license on winning code. Non-US winners must file IRS Form W-8BEN; all prize taxes are the winner's responsibility. Public code/notebook on Kaggle required. Demo video ≤ 2 minutes. Submissions in English only.",
+      "uk": "Має бути власник Kaggle-акаунта; 18+. Якщо подача від імені установи (університету), установа повинна дозволяти участь (Правила §1.c) — перевірити внутрішню політику ЗНУ. Обов’язкова ліцензія CC-BY 4.0 на переможний код. Не-US переможці заповнюють IRS Form W-8BEN; усі податки з призу — відповідальність переможця. Публічний код/notebook на Kaggle обов’язково. Демо-відео ≤ 2 хвилини. Submission лише англійською."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {
+          "en": "Global Resilience — offline / edge-based disaster response",
+          "uk": "Global Resilience — офлайн / edge реагування на катастрофи"
+        },
+        "znuArea": {
+          "en": "Frontline-region operational context (wartime grid disruptions, civil-protection workflows) + Smart Grids + AI/ML",
+          "uk": "Операційний контекст прифронтового регіону (воєнні зриви мережі, цивільний захист) + smart grids + ШІ/МН"
+        },
+        "strength": "high",
+        "rationale": {
+          "en": "Single best-fit theme. ZNU has a real, current operational case: civilian decision-support under intermittent connectivity (grid + comms disruptions). An offline Gemma 4 application running on consumer hardware (smartphone / community device) for civil-protection advisories, evacuation logistics, or resource-routing during outages is precisely what the track is asking for. The case study is genuinely difficult to replicate in stable-grid jurisdictions.",
+          "uk": "Найкраща тематична відповідність. У ЗНУ є реальний, поточний операційний кейс: цивільна підтримка прийняття рішень за умов нестабільного зв’язку (зриви мережі + комунікацій). Офлайн-застосунок на Gemma 4, що працює на споживчому залізі (смартфон / громадський пристрій) для цивільних попереджень, логістики евакуації або маршрутизації ресурсів під час відключень, — саме те, чого просить трек. Кейс важко відтворити у юрисдикціях зі стабільною мережею."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Future of Education — multi-tool agents aiding learners + empowering educators",
+          "uk": "Future of Education — мультиінструментні агенти для учнів + педагогів"
+        },
+        "znuArea": {
+          "en": "Pedagogical Sciences and Education Innovation + STEM Education + VR-based interdisciplinary activity + wartime blended learning experience",
+          "uk": "Педагогічні науки та освітні інновації + STEM-освіта + VR-міждисциплінарна діяльність + досвід воєнного blended learning"
+        },
+        "strength": "high",
+        "rationale": {
+          "en": "Direct fit. ZNU has explicit pedagogical-research capacity AND a unique stress-tested case (continuity of education through wartime, blended/online modalities). A Gemma 4 multi-tool agent for educators (lesson-planning, adaptive STEM tutoring, low-bandwidth study support for displaced students) is a credible build for a 7-day window if any existing course material can be repurposed.",
+          "uk": "Пряма відповідність. ЗНУ має явну педагогічно-дослідницьку спроможність ТА унікальний стрес-тестований кейс (безперервність освіти у воєнних умовах, blended/online формати). Мультиінструментний агент на Gemma 4 для викладачів (планування уроків, адаптивне STEM-репетиторство, low-bandwidth підтримка для переміщених студентів) — реалістичний продукт за 7 днів, якщо є існуючі курсові матеріали для перепакування."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Special Technology — llama.cpp / Ollama / LiteRT (resource-constrained, local)",
+          "uk": "Special Technology — llama.cpp / Ollama / LiteRT (на обмежених ресурсах, локально)"
+        },
+        "znuArea": {
+          "en": "HPC + Computer Science and Software Engineering + AI/ML",
+          "uk": "HPC + комп’ютерні науки та програмна інженерія + ШІ/МН"
+        },
+        "strength": "medium",
+        "rationale": {
+          "en": "ZNU's engineers can deliver an llama.cpp / Ollama / LiteRT integration alongside the application. Stacking with the Global Resilience or Future of Education track raises the prize ceiling from $10K to $20K. The exact toolchain choice depends on which model size of Gemma 4 fits target hardware.",
+          "uk": "Інженери ЗНУ можуть зробити інтеграцію llama.cpp / Ollama / LiteRT поряд із застосунком. Накладання на трек Global Resilience або Future of Education піднімає стелю призу з $10K до $20K. Конкретний toolchain залежить від того, який розмір моделі Gemma 4 поміщається в цільове залізо."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Digital Equity & Inclusivity — linguistic diversity, closing AI skills gap",
+          "uk": "Digital Equity & Inclusivity — мовне різноманіття, скорочення розриву в навичках ШІ"
+        },
+        "znuArea": {
+          "en": "Ukrainian-language coverage + STEM education for displaced cohorts",
+          "uk": "Україномовне покриття + STEM-освіта для переміщених когорт"
+        },
+        "strength": "medium",
+        "rationale": {
+          "en": "Adjacent. A Ukrainian-language Gemma 4 fine-tune (via Unsloth, stacking the Unsloth Special prize) addressing the linguistic-diversity track is technically feasible but requires a curated Ukrainian dataset and benchmark — significant 7-day risk.",
+          "uk": "Дотично. Україномовний fine-tune Gemma 4 (через Unsloth, з накладенням Unsloth Special prize), що адресує трек мовного різноманіття, технічно можливий, але потребує підготовленого українського датасету й бенчмарку — значний ризик за 7 днів."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Health & Sciences",
+          "uk": "Health & Sciences"
+        },
+        "znuArea": {
+          "en": "— (no documented medical or life-sciences research capacity)",
+          "uk": "— (медичної чи life-sciences дослідницької спроможності не задокументовано)"
+        },
+        "strength": "low",
+        "rationale": {
+          "en": "Not ZNU's territory per the participant profile. Skip this track.",
+          "uk": "Не профіль ЗНУ за даними учасника. Цей трек обходимо."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Safety & Trust — transparency / explainability frameworks",
+          "uk": "Safety & Trust — фреймворки прозорості / пояснюваності"
+        },
+        "znuArea": {
+          "en": "AI/ML — general capacity, no documented interpretability/AI-safety specialization",
+          "uk": "ШІ/МН — загальна спроможність, не задокументована спеціалізація з інтерпретованості / AI safety"
+        },
+        "strength": "low",
+        "rationale": {
+          "en": "Theoretically doable but ZNU has no track record in mechanistic-interpretability / RLHF / AI-safety frameworks. Top entrants here will be specialists.",
+          "uk": "Теоретично можливо, але у ЗНУ немає трек-рекорду у механістичній інтерпретованості / RLHF / AI safety фреймворках. Топ-учасники тут — спеціалісти."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Strong on the build side: HPC for Gemma 4 fine-tuning or inference, AI/ML staff, VR for educator-tooling demos. Weak on the productisation side: no documented mobile/wearable app prototyping, no on-device LLM deployment track record. The Special Technology stacking is achievable if at least one team member has hands-on llama.cpp/Ollama/LiteRT experience.",
+      "uk": "Сильні сторони на стороні розробки: HPC для fine-tune або інференсу Gemma 4, ШІ/МН кадри, VR для демо викладацьких інструментів. Слабкі — продакшн: не задокументовано прототипування мобільних/wearable застосунків, немає трек-рекорду розгортання LLM на пристрої. Накладання Special Technology досяжне, якщо хоча б один член команди має практичний досвід llama.cpp/Ollama/LiteRT."
+    },
+    "partnershipFit": {
+      "en": "Not applicable for hackathon entry (single team, ≤5). However, the wartime case study could be supported by ZNU's existing Ukrainian civil-protection / utility partnerships if a quick MOU on data sharing is possible — but this is NOT a prerequisite for the hackathon.",
+      "uk": "Не застосовно для подачі на хакатон (одна команда, ≤5). Однак воєнний кейс можна посилити за рахунок наявних партнерств ЗНУ з українським цивільним захистом / комунальниками, якщо швидкий MOU про обмін даними можливий — але це НЕ передумова."
+    },
+    "trackRecordFit": {
+      "en": "Mixed. ZNU has zero Kaggle competition track record in the participant profile, which doesn't matter for judging (rubric-based, not leaderboard) but does affect team-confidence in pacing a 7-day shipping cycle. Erasmus+/HE execution experience demonstrates project discipline.",
+      "uk": "Змішано. У ЗНУ нуль трек-рекорду на Kaggle у профілі — це не впливає на оцінювання (рубричне, не leaderboard), але впливає на впевненість команди у графіку випуску за 7 днів. Досвід Erasmus+/HE демонструє проєктну дисципліну."
+    },
+    "warContextRelevance": {
+      "en": "EXTREME for the Global Resilience track and HIGH for Future of Education. The hackathon explicitly targets 'offline, edge-based disaster response' under Global Resilience — ZNU's frontline-region operational reality is a textbook fit and gives a credibility advantage that SME / startup entrants from stable-grid countries cannot match. This is the single biggest argument for participating.",
+      "uk": "КРИТИЧНО ВИСОКА для треку Global Resilience і ВИСОКА для Future of Education. Хакатон явно націлений на «offline, edge-based disaster response» в межах Global Resilience — операційна реальність прифронтового регіону ЗНУ — це підручниковий fit, що дає кредибілітну перевагу, якої SME/стартап-учасники зі стабільно-мережевих країн не мають. Це найсильніший аргумент за участь."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "partial",
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "Small ZNU team (3–5) with one experienced ML engineer, one HPC / on-device-AI engineer, one domain SME (pedagogy OR energy/civil-protection), optional one front-end developer. Pick ONE primary Impact Track (recommendation: Global Resilience — frontline operational case is unmatched) + ONE Special Technology stacking prize (recommendation: llama.cpp or Ollama for the offline angle). DO NOT attempt the Health & Sciences or Safety & Trust tracks — no track record there.",
+      "uk": "Невелика команда ЗНУ (3–5): один досвідчений ML-інженер, один HPC / on-device-AI інженер, один доменний SME (педагогіка АБО енергетика/цивільний захист), за бажанням один front-end розробник. Обрати ОДИН головний Impact Track (рекомендація: Global Resilience — кейс прифронтової операційки неперевершений) + ОДИН Special Technology призовий слот (рекомендація: llama.cpp або Ollama для офлайн-кута). НЕ намагатися йти у Health & Sciences чи Safety & Trust — там немає трек-рекорду."
+    },
+    "strengths": [
+      {"en": "Eligibility is structurally clean — ZNU is in Ukrainian-controlled Zaporizhzhia, not on the excluded list (Crimea / DNR / LNR / Cuba / Iran / NK).", "uk": "Прийнятність структурно чиста — ЗНУ в підконтрольному Україні Запоріжжі, не в списку виключень (Крим / ДНР / ЛНР / Куба / Іран / КНДР)."},
+      {"en": "Wartime operational context is a textbook differentiator for the Global Resilience 'offline, edge-based disaster response' track — uniquely credible vs. SME competition.", "uk": "Воєнний операційний контекст — підручниковий диференціатор для Global Resilience «offline, edge-based disaster response» — унікально переконливо проти SME-конкурентів."},
+      {"en": "Two high-strength theme fits (Global Resilience, Future of Education) + one prize-stacking technology angle (llama.cpp/Ollama/LiteRT) push the realistic prize ceiling to $20K–$60K.", "uk": "Дві high-fit теми (Global Resilience, Future of Education) + один stacking-кут у Special Technology (llama.cpp/Ollama/LiteRT) піднімають реалістичну стелю призу до $20K–$60K."},
+      {"en": "Single-team format, no consortium, no MGA — pure execution play.", "uk": "Формат однієї команди, без консорціуму, без MGA — чиста execution-гра."},
+      {"en": "CC-BY 4.0 license is institutionally cheap — winning code is openly licensed but ZNU retains copyright authorship and reputational credit.", "uk": "Ліцензія CC-BY 4.0 — інституційно дешева; переможний код відкритий, але ЗНУ зберігає авторство та репутаційний кредит."}
+    ],
+    "risks": [
+      {"en": "~7-8-day window until Close (≈ 2026-05-18 per grant.market — verify on Kaggle Timeline). Brutal if there is no pre-existing Gemma-4 prototype to adapt.", "uk": "~7-8 днів до Close (≈ 18.05.2026 за grant.market — перевірити на Kaggle Timeline). Жорстко, якщо немає вже наявного Gemma 4 прототипу для адаптації."},
+      {"en": "Possible separate Entry Deadline (registration cut-off) ahead of Close. Must verify Kaggle Timeline within 24h — if registration is already closed, the whole option dies regardless of fit.", "uk": "Можливий окремий Entry Deadline (дедлайн реєстрації) ще до Close. Треба перевірити Kaggle Timeline протягом 24 годин — якщо реєстрація вже закрита, опція зникає незалежно від fit."},
+      {"en": "ONE submission per team — no iteration. The team must pick its bet and commit.", "uk": "ОДНЕ сабмішн на команду — без ітерацій. Команда має зробити свою ставку і дотримуватися."},
+      {"en": "Mandatory Gemma 4. If Gemma 4 turns out to be unsuitable for the chosen use case, there's no fallback.", "uk": "Обов’язкова Gemma 4. Якщо вона виявиться непридатною для обраного кейсу, fallback-у немає."},
+      {"en": "No documented Kaggle competition track record — pacing a hackathon shipping cycle for the first time adds execution risk.", "uk": "Немає задокументованого досвіду Kaggle — графік випуску на хакатоні вперше додає execution-ризик."},
+      {"en": "No documented on-device-AI deployment experience (mobile / wearable / edge). The Special Technology stacking depends on at least one team member having hands-on llama.cpp / Ollama / LiteRT experience.", "uk": "Немає задокументованого досвіду розгортання on-device ШІ (мобільні / wearable / edge). Накладання Special Technology залежить від того, чи хоча б один член команди має практичний досвід llama.cpp / Ollama / LiteRT."},
+      {"en": "Institutional permission required (Rules §1.c — institution-representation clause). Need a quick green light from ZNU administration to enter on behalf of the university.", "uk": "Потрібен інституційний дозвіл (Правила §1.c — пункт про представництво установи). Потрібен швидкий «зелений сигнал» від адміністрації ЗНУ для подачі від імені університету."},
+      {"en": "Personal-name registration via Kaggle, not institutional — prize money goes to individuals; tax/IP allocation between team and university should be agreed before submission.", "uk": "Реєстрація на Kaggle за персональним ім’ям, не інституційна — призові гроші йдуть фізособам; розподіл податків/IP між командою й університетом домовляти ДО подачі."},
+      {"en": "English-only submission and ≤2-minute demo video. Production-quality storytelling skills required.", "uk": "Submission лише англійською, демо-відео ≤2 хв. Потрібні продакшн-якість сторителінгу."}
+    ],
+    "rationale": {
+      "en": "This is a hackathon, not a grant — it is added to researcher-light deliberately, marked with kind=\"hackathon\". The structural eligibility is clean (Ukraine not excluded, ZNU is in Ukrainian-controlled territory), and the theme fit is exceptionally strong on two tracks (Global Resilience, Future of Education) because of ZNU's wartime operational context — which is a textbook differentiator the rest of the field cannot replicate. The realistic prize ceiling with theme + Special Technology stacking is $20K–$60K, which is meaningful even at category level.\n\nThe single biggest variable is the ~7-day deadline (deadline 2026-05-18 per grant.market — must be verified on the Kaggle Timeline page). Without a pre-existing Gemma-4 prototype to adapt, building a working MVP + 2-minute demo + Kaggle notebook + CC-BY-4.0-cleared code in seven days is at the edge of feasible for a fresh team. Compounding constraints: ONE submission per team, mandatory Gemma 4 with no fallback, public CC-BY-4.0 code, and institutional permission required per Rules §1.c.\n\nRecommendation: 'maybe', flipping to 'yes' if ALL THREE conditions hold within the next 48 hours: (1) Kaggle Timeline confirms deadline ≥ 2026-05-18; (2) at least one ZNU team member has hands-on Gemma-class on-device-AI experience (llama.cpp / Ollama / LiteRT); (3) ZNU administration green-lights institutional representation. If all three hold, build a Global Resilience submission centred on the frontline civil-protection / offline-decision-support case, stacking llama.cpp or Ollama for the Special Technology prize, and target $50K Main + $10K Special Technology as the win condition. If any of the three fails, defer to ODEON Open Call (deadline 2026-07-09, already analyzed with shouldApply=yes) which has a saner timeline.",
+      "uk": "Це хакатон, а не грант — він навмисно доданий до researcher-light з міткою kind=\"hackathon\". Структурна прийнятність чиста (Україна не виключена, ЗНУ на підконтрольній території), а тематична відповідність винятково сильна у двох треках (Global Resilience, Future of Education) завдяки воєнному операційному контексту ЗНУ — це підручниковий диференціатор, який решта поля не може відтворити. Реалістична стеля призу з накладенням «тема + Special Technology» — $20K–$60K, що значно навіть на категорійному рівні.\n\nГоловна змінна — ~7-денний дедлайн (18.05.2026 за grant.market; треба підтвердити на Kaggle Timeline). Без уже наявного прототипу Gemma 4, який можна адаптувати, зробити робочий MVP + 2-хвилинне демо + Kaggle notebook + код під CC-BY 4.0 за 7 днів — на межі реалістичного для нової команди. Додаткові обмеження: ОДНЕ сабмішн на команду, обов’язкова Gemma 4 без fallback, публічний код CC-BY 4.0 і потрібен інституційний дозвіл за Правилами §1.c.\n\nРекомендація: «можливо», перетворюється на «так», якщо в найближчі 48 годин виконуються ВСІ ТРИ умови: (1) Kaggle Timeline підтверджує дедлайн ≥ 18.05.2026; (2) принаймні один член команди ЗНУ має практичний досвід on-device ШІ класу Gemma (llama.cpp / Ollama / LiteRT); (3) адміністрація ЗНУ дає «зелений сигнал» на інституційне представництво. Якщо всі три умови виконано — будувати submission для Global Resilience навколо прифронтового кейсу цивільного захисту / офлайн-підтримки рішень, з накладенням llama.cpp або Ollama для Special Technology; ціль перемоги — $50K Main + $10K Special Technology. Якщо хоча б одна не виконується — переключатися на ODEON Open Call (дедлайн 09.07.2026, уже проаналізований з shouldApply=yes), у якого графік адекватний."
+    }
+  }
+}

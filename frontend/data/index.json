@@ -1,0 +1,114 @@
+[
+  {
+    "id": "GEMMA-4-GOOD-HACKATHON",
+    "kind": "hackathon",
+    "sourceUrl": "https://www.kaggle.com/competitions/gemma-4-good-hackathon",
+    "title": {
+      "en": "The Gemma 4 Good Hackathon",
+      "uk": "Хакатон The Gemma 4 Good Hackathon"
+    },
+    "callIdentifier": "Kaggle: gemma-4-good-hackathon (Sponsor: Google LLC)",
+    "type": {
+      "en": "Hackathon — skills-based competition with prize money (NOT a grant agreement)",
+      "uk": "Хакатон — конкурс навичок з грошовими призами (НЕ грантова угода)"
+    },
+    "deadline": "2026-05-18",
+    "deadlineModel": {
+      "en": "Single submission per team (ONE shot). Submission deadline per grant.market = 2026-05-18 (~7 days from today) — VERIFY on Kaggle Overview > Timeline page before committing.",
+      "uk": "Одне сабмішн на команду (ОДНА спроба). Дедлайн подачі за grant.market — 18.05.2026 (≈7 днів від сьогодні). ПЕРЕВІРИТИ на Kaggle Overview > Timeline перед зобов’язанням."
+    },
+    "budgetPerProject": {
+      "en": "Main Track: $50K / $25K / $15K / $10K. Impact Track: 5× $10K (Health & Sciences, Global Resilience, Future of Education, Digital Equity & Inclusivity, Safety & Trust). Special Technology Track: 5× $10K (Cactus, LiteRT, llama.cpp, Ollama, Unsloth). Main + Special Technology prizes STACK ($50K+$10K possible).",
+      "uk": "Main Track: $50K / $25K / $15K / $10K. Impact Track: 5× $10K (Health & Sciences, Global Resilience, Future of Education, Digital Equity & Inclusivity, Safety & Trust). Special Technology Track: 5× $10K (Cactus, LiteRT, llama.cpp, Ollama, Unsloth). Main + Special Technology призи СУМУЮТЬСЯ ($50K+$10K можливо)."
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-05-11T10:45:00Z"
+  },
+  {
+    "id": "HORIZON-INFRA-2026-TECH-01-01",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "R&D for the next generation of scientific instrumentation, tools, methods, digitalisation and solutions for research infrastructure upgrades",
+      "uk": "Дослідження та розробки наступного покоління наукового обладнання, інструментів, методів, цифровізації та рішень для модернізації дослідницьких інфраструктур"
+    },
+    "callIdentifier": "HORIZON-INFRA-2026-01",
+    "type": {
+      "en": "HORIZON Research and Innovation Actions",
+      "uk": "HORIZON Дослідницько-інноваційні дії (RIA)"
+    },
+    "deadline": "2026-06-16",
+    "deadlineModel": {
+      "en": "single-stage",
+      "uk": "однораундова"
+    },
+    "budgetPerProject": {
+      "en": "EUR 5,000,000 – 10,000,000",
+      "uk": "5 000 000 – 10 000 000 євро"
+    },
+    "shouldApply": "no",
+    "confidence": "high",
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-05-11T08:55:00Z"
+  },
+  {
+    "id": "HORIZON-INFRA-2026-TECH-01-02",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Digital twins and/or their major components for environment, climate and security",
+      "uk": "Цифрові двійники та/або їхні основні компоненти для довкілля, клімату та безпеки"
+    },
+    "callIdentifier": "HORIZON-INFRA-2026-01",
+    "type": {
+      "en": "HORIZON Research and Innovation Actions (RIA)",
+      "uk": "HORIZON Дослідницько-інноваційні дії (RIA)"
+    },
+    "deadline": "2026-06-16",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-06-16. Typical RIA project duration 36–48 months. Lump-sum funding model.",
+      "uk": "Однораундовий; дедлайн подачі 16.06.2026. Типова тривалість RIA-проєкту 36–48 місяців. Модель фінансування lump-sum."
+    },
+    "budgetPerProject": {
+      "en": "EUR 5,000,000 – 7,500,000 per project",
+      "uk": "5 000 000 – 7 500 000 євро на проєкт"
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-05-11T10:05:00Z"
+  },
+  {
+    "id": "ODEON",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "ODEON Open Call — cascade funding (FSTP) under the ODEON Horizon Europe project",
+      "uk": "ODEON Open Call — каскадне фінансування (FSTP) у межах проєкту ODEON Horizon Europe"
+    },
+    "callIdentifier": "ODEON / HORIZON-CL5-2023-D3-01-15 (parent topic)",
+    "type": {
+      "en": "Competitive call (cascade funding) — Financial Support to Third Parties (FSTP)",
+      "uk": "Конкурсний відбір (каскадне фінансування) — фінансова підтримка третім сторонам (FSTP)"
+    },
+    "deadline": "2026-07-09",
+    "deadlineModel": {
+      "en": "single-stage; six-step selection (eligibility check → in/out-scope → external evaluation → consensus → Jury Day pitching → formal check + Sub-Grant Agreement signing)",
+      "uk": "однораундова; шестикроковий відбір (перевірка прийнятності → in/out-scope → зовнішня оцінка → консенсус → Jury Day пітчинг → формальна перевірка + підписання Sub-Grant Agreement)"
+    },
+    "budgetPerProject": {
+      "en": "Fixed lump sum up to EUR 60,000 per selected entity + enrolment in the ODEON Support Programme",
+      "uk": "Фіксована lump-sum до 60 000 євро на обрану організацію + участь у ODEON Support Programme"
+    },
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-05-11T09:40:00Z"
+  }
+]

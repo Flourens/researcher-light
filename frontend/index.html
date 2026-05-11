@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>researcher-light · Grants</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="topbar-row">
+          <div>
+            <h1>researcher-light</h1>
+            <p class="subtitle" id="subtitle">EU grants ↔ ZNU fit analysis</p>
+          </div>
+          <div class="lang-switcher" role="group" aria-label="Language">
+            <button type="button" data-lang="en" class="lang-btn active">EN</button>
+            <button type="button" data-lang="uk" class="lang-btn">UK</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="filters" aria-label="Filters">
+        <label>
+          <span data-i18n="verdictLabel">Verdict</span>
+          <select id="filter-verdict">
+            <option value="" data-i18n-opt="all">all</option>
+            <option value="yes" data-i18n-opt="yes">yes</option>
+            <option value="maybe" data-i18n-opt="maybe">maybe</option>
+            <option value="no" data-i18n-opt="no">no</option>
+          </select>
+        </label>
+        <label>
+          <span data-i18n="typeLabel">Type</span>
+          <select id="filter-type">
+            <option value="" data-i18n-opt="all">all</option>
+          </select>
+        </label>
+        <label>
+          <span data-i18n="searchLabel">Search</span>
+          <input id="filter-text" type="search" data-i18n-placeholder="searchPlaceholder" placeholder="title / identifier / call" />
+        </label>
+        <div class="counter" id="counter"></div>
+      </section>
+
+      <section id="grants" class="grants" aria-live="polite">
+        <p class="empty" data-i18n="loading">Loading…</p>
+      </section>
+    </main>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

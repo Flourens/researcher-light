@@ -1,0 +1,101 @@
+HACKATHON: The Gemma 4 Good Hackathon
+Identifier: GEMMA-4-GOOD-HACKATHON
+Sponsor: Google LLC (1600 Amphitheatre Parkway, Mountain View, California 94043 USA)
+Host platform: Kaggle Inc.
+Source URLs:
+  - Kaggle (authoritative): https://www.kaggle.com/competitions/gemma-4-good-hackathon
+  - grant.market summary:   https://grant.market/opp/gemma-4-hackathon
+Tagline: Harness the power of Gemma 4 to drive positive change and global impact.
+NOT a grant — this is a skills-based competition (hackathon) with prize money, not a grant agreement.
+
+=== PRIZES ($200,000 TOTAL) ===
+
+Main Track — $100,000 (overall projects with vision, technical execution, real-world impact)
+  • First Prize:  $50,000
+  • Second Prize: $25,000
+  • Third Prize:  $15,000
+  • Fourth Prize: $10,000
+
+Impact Track — $50,000 (five thematic $10,000 prizes; one per track)
+  • Health & Sciences      — Bridge the gap between humans and data; tools that accelerate discovery or democratize knowledge.
+  • Global Resilience      — Build the systems of tomorrow — from offline, edge-based disaster response to long-range climate mitigation — that anticipate, mitigate, and respond to the world's most pressing challenges.
+  • Future of Education    — Reimagine the learning journey by building multi-tool agents that aid the individual and empower the educator through seamless integration.
+  • Digital Equity & Inclusivity — Break down barriers through linguistic diversity, intuitive interfaces, and tools that help close the AI skills gap.
+  • Safety & Trust         — Pioneer frameworks for transparency and reliability, ensuring AI remains grounded and explainable.
+
+Special Technology Track — $50,000 (five $10,000 prizes for tool/framework use)
+  • Cactus Prize    — Best local-first mobile or wearable application that intelligently routes tasks between models.
+  • LiteRT Prize    — Most compelling and effective use case built using Google AI Edge's LiteRT implementation of Gemma 4.
+  • llama.cpp Prize — Best innovative implementation of Gemma 4 on resource-constrained hardware.
+  • Ollama Prize    — Best project that utilizes and showcases the capabilities of Gemma 4 running locally via Ollama.
+  • Unsloth Prize   — Best fine-tuned Gemma 4 model created using Unsloth, optimized for a specific, impactful task.
+
+IMPORTANT: Projects ARE eligible to win BOTH a Main Track Prize AND a Special Technology Prize → prize stacking is possible (e.g., $50K Main + $10K LiteRT = $60K).
+
+=== SUBMISSION DEADLINE ===
+
+Per grant.market summary: 2026-05-18 (≈ 7 days from today 2026-05-11).
+Per Kaggle Rules: "Competition Timeline dates ... are reflected on the competition's Overview > Timeline page." → MUST VERIFY on Kaggle competition page directly before committing.
+
+=== ELIGIBILITY ===
+
+From Kaggle Foundational Rules §1.a:
+  • Must be a registered Kaggle.com account holder.
+  • Must be 18+ (or age of majority in jurisdiction).
+  • NOT a resident of: Crimea, "so-called Donetsk People's Republic (DNR)", "so-called Luhansk People's Republic (LNR)", Cuba, Iran, or North Korea.
+  • NOT a person/representative of an entity under U.S. export controls or sanctions.
+
+Ukraine status check:
+  • Zaporizhzhia city (where ZNU operates) is in Ukrainian-controlled territory → NOT in the excluded list.
+  • Anyone physically operating from temporarily occupied parts of the Zaporizhzhia oblast would be ineligible.
+  • Ukraine is NOT under US export-sanction blanket that excludes academic institutions.
+  → ZNU passes eligibility.
+
+§1.c: If entering as a representative of an institution (e.g. university), the rules bind both the individual AND the institution. Employer/institutional policy must permit participation.
+
+=== TEAM & SUBMISSION LIMITS ===
+
+  • Maximum team size: 5
+  • Team mergers allowed before Team Merger Deadline.
+  • HACKATHON SUBMISSION LIMIT: 1 (one) submission per team. ONE SHOT only.
+  • Single Kaggle account per individual; no multi-account entries.
+
+=== WINNER OBLIGATIONS ===
+
+  • Open-source license required: CC-BY 4.0 (an OSI-approved license allowing commercial use).
+  • Deliver to Sponsor:
+      - Final model's software code (training + inference + computational environment description)
+      - Documentation enabling reproduction
+      - For Hackathons: deliverables as described on Kaggle page (may include non-code materials)
+  • Sign Prize acceptance documents within 2 weeks of notification (else forfeit).
+  • Non-US winners: IRS Form W-8BEN required.
+  • All taxes on prizes are the winner's responsibility (net of US withholding).
+
+=== CONSTRAINTS ===
+
+  • Mandatory tech: Gemma 4 model must be used as the primary component.
+  • No competition dataset provided — bring your own data (must be publicly available and equally accessible to all participants OR meet the Reasonableness Standard).
+  • External data and tools allowed if "reasonably accessible to all" and of "minimal cost".
+  • AMLT (AutoML tools) allowed if appropriately licensed.
+  • English-only submissions (per grant.market summary; verify on Kaggle).
+  • Demo video ≤ 2 minutes (per grant.market summary; verify on Kaggle).
+  • Submissions must be a working prototype / MVP — NOT a concept (per grant.market summary).
+
+=== LEGAL ===
+
+  • Governing law: California, USA. Disputes litigated in Santa Clara County, CA federal or state courts.
+  • Code shared publicly during the competition is licensed under an OSI-approved license (commercial use permitted).
+  • Sponsor/Kaggle may use winner's name and likeness for promotional purposes (no extra compensation).
+  • Prize winner agrees to indemnify Competition Entities against IP/third-party claims related to their Submission.
+
+=== JUDGING (HACKATHON) ===
+
+Submissions judged by Sponsor based on "Evaluation Rubric" set forth on the Competition Website (NOT a leaderboard metric — this is qualitative judging, unlike standard Kaggle competitions).
+
+=== KEY DIFFERENTIATORS vs. EU GRANTS ===
+
+  • No grant agreement, no MGA, no reporting cycle, no audit. Prize-based, one-shot.
+  • IP regime: winning code becomes CC-BY 4.0 (very open — commercial reuse allowed).
+  • Receiving institution: prize money paid to the individual / team, not to the institution. Tax handling sits with winners.
+  • No consortium minimum. Single individuals can win.
+  • Mandatory tech (Gemma 4) — if Gemma 4 turns out unsuitable for the target task, no fallback.

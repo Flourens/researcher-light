@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Grant detail · researcher-light</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="topbar-row">
+          <a class="back" href="index.html" data-i18n="back">← All grants</a>
+          <div class="lang-switcher" role="group" aria-label="Language">
+            <button type="button" data-lang="en" class="lang-btn active">EN</button>
+            <button type="button" data-lang="uk" class="lang-btn">UK</button>
+          </div>
+        </div>
+        <h1 id="title">Loading…</h1>
+        <p class="subtitle" id="subtitle"></p>
+      </div>
+    </header>
+
+    <main class="container detail" id="detail">
+      <p class="empty" data-i18n="loading">Loading…</p>
+    </main>
+
+    <script src="js/grant.js"></script>
+  </body>
+</html>

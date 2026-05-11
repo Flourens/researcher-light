@@ -1,0 +1,188 @@
+{
+  "grantId": "HORIZON-INFRA-2026-TECH-01-02",
+  "fetchedAt": "2026-05-11T09:55:00Z",
+  "analyzedAt": "2026-05-11T10:05:00Z",
+  "grant": {
+    "title": {
+      "en": "Digital twins and/or their major components for environment, climate and security",
+      "uk": "Цифрові двійники та/або їхні основні компоненти для довкілля, клімату та безпеки"
+    },
+    "callIdentifier": "HORIZON-INFRA-2026-01",
+    "type": {
+      "en": "HORIZON Research and Innovation Actions (RIA)",
+      "uk": "HORIZON Дослідницько-інноваційні дії (RIA)"
+    },
+    "typeCode": "1",
+    "deadline": "2026-06-16",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-06-16. Typical RIA project duration 36–48 months. Lump-sum funding model.",
+      "uk": "Однораундовий; дедлайн подачі 16.06.2026. Типова тривалість RIA-проєкту 36–48 місяців. Модель фінансування lump-sum."
+    },
+    "budgetTotal": {
+      "en": "EUR 15,000,000 total for this topic (2 expected grants)",
+      "uk": "15 000 000 євро всього для цього топіка (очікується 2 гранти)"
+    },
+    "budgetPerProject": {
+      "en": "EUR 5,000,000 – 7,500,000 per project",
+      "uk": "5 000 000 – 7 500 000 євро на проєкт"
+    },
+    "expectedOutcome": {
+      "en": "Improved security and disaster-resilience preparedness facing climate change; improved capacity of key users and decision-makers to anticipate, mitigate and contain risks at the intersection of climate, environment and security; further development of the data-lab infrastructure around Destination Earth in line with the EU AI Continent Action Plan.",
+      "uk": "Підвищення безпеки та готовності до катастроф в умовах кліматичних змін; розширення спроможностей ключових користувачів і осіб, які приймають рішення, передбачати, пом’якшувати та стримувати ризики на перетині клімату, довкілля та безпеки; подальший розвиток data-lab інфраструктури навколо Destination Earth відповідно до EU AI Continent Action Plan."
+    },
+    "scope": {
+      "en": "Develop new digital twins (or major components of existing DTs) at local/regional level to strengthen foresight and anticipation across short (operational), medium (tactical) and long-term (strategic) horizons at the intersection of environment, climate and security. Mandatory aspects: MVPs in ≥3 application areas with real users; advance state-of-the-art in modelling/observations/data fusion/AI-ML/processing/visualisation; high computational capacity for responsive 3D/VR/interactive interfaces; modular architecture integrating satellite + ≥2 other data sources (statistics, in-situ, UAV EO); clear pathway to integration with Destination Earth and use of DestinE Data Labs / AI Factories; generative-AI assistants for non-technical decision-makers; demonstrated trustworthy/ethical AI; robust/accurate models suitable for security use. Mandatory collaboration pathway with DestinE implementers (ESA, ECMWF, EUMETSAT) + synergies with SatCen, Copernicus, EOSC. Impact sectors: natural or human-induced disasters, health emergencies, energy sustainability, migration, resource scarcity (food/water). Mandatory use of Copernicus/Galileo/EGNOS if satellite data is used. Expected TRL 7+ at project end.",
+      "uk": "Розробити нові цифрові двійники (або основні компоненти існуючих DT) на локальному/регіональному рівні для посилення прогнозування та передбачення на коротко- (операційному), середньо- (тактичному) та довгостроковому (стратегічному) горизонтах на перетині довкілля, клімату й безпеки. Обов’язкові аспекти: MVP у ≥3 прикладних сферах із реальними користувачами; просування переднього краю в моделюванні / спостереженнях / data fusion / ШІ-МН / обробці / візуалізації; висока обчислювальна потужність для адаптивних 3D/VR/інтерактивних інтерфейсів; модульна архітектура з інтеграцією супутникових + ≥2 інших джерел даних (статистика, in-situ, UAV EO); чіткий шлях інтеграції з Destination Earth і використання DestinE Data Labs / AI Factories; генеративні ШІ-асистенти для нетехнічних осіб, які приймають рішення; доведена надійна/етична ШІ; робастні/точні моделі, придатні для безпекового використання. Обов’язковий шлях співпраці з впроваджувачами DestinE (ESA, ECMWF, EUMETSAT) + синергії з SatCen, Copernicus, EOSC. Сектори впливу: природні або антропогенні катастрофи, надзвичайні ситуації у сфері охорони здоров’я, енергетична стійкість, міграція, дефіцит ресурсів (їжа/вода). Обов’язкове використання Copernicus/Galileo/EGNOS у разі використання супутникових даних. Очікуваний TRL 7+ на кінець проєкту."
+    },
+    "topicsKeywords": [
+      {"en": "digital twins", "uk": "цифрові двійники"},
+      {"en": "Destination Earth", "uk": "Destination Earth"},
+      {"en": "climate / environment / security", "uk": "клімат / довкілля / безпека"},
+      {"en": "AI / generative AI", "uk": "ШІ / генеративний ШІ"},
+      {"en": "HPC + high-compute visualization", "uk": "HPC + високопродуктивна візуалізація"},
+      {"en": "Earth observation (Copernicus / Galileo)", "uk": "спостереження за Землею (Copernicus / Galileo)"},
+      {"en": "disaster resilience / human-induced disasters", "uk": "стійкість до катастроф / антропогенні катастрофи"},
+      {"en": "energy sustainability impact sector", "uk": "сектор впливу: енергетична стійкість"},
+      {"en": "TRL 7", "uk": "TRL 7"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Standard HE RIA minimum: 3 independent legal entities from 3 different Member States / Associated Countries. NO topic-specific ESFRI/ERIC beneficiary requirement (unlike TECH-01-01) — so a university-led consortium is structurally feasible.",
+      "uk": "Стандартний мінімум HE RIA: 3 незалежні юридичні особи з 3 різних держав-членів / асоційованих країн. НЕМАЄ специфічної для топіка вимоги ESFRI/ERIC бенефіціара (на відміну від TECH-01-01) — отже консорціум під керівництвом університету структурно можливий."
+    },
+    "requiredCountries": {
+      "en": "EU Member States + Horizon Europe Associated Countries. Ukraine is HE-Associated → ZNU passes the country gate. Restrictions for the protection of European communication networks may apply (Annex B). For UK-based partners, check current HE association status for INFRA topics.",
+      "uk": "Держави-члени ЄС + країни, асоційовані з Horizon Europe. Україна є асоційованою з HE → ЗНУ проходить країнний фільтр. Можуть застосовуватися обмеження для захисту європейських комунікаційних мереж (Анекс B). Для британських партнерів — перевірити поточний статус асоціації з HE для INFRA-топіків."
+    },
+    "otherConstraints": {
+      "en": "Mandatory use of Destination Earth platform (https://platform.destine.eu/). Mandatory use of Copernicus and/or Galileo/EGNOS if satellite/EO data used. Lump-sum cost model. TRL 7+ expected at project end. Strong implicit expectation of partnership with DestinE implementers (ESA, ECMWF, EUMETSAT) — explicit in scope as a 'clear and credible pathway towards collaboration'. Single-stage deadline 2026-06-16 ≈ 5 weeks from now.",
+      "uk": "Обов’язкове використання платформи Destination Earth (https://platform.destine.eu/). Обов’язкове використання Copernicus та/або Galileo/EGNOS у разі використання супутникових/EO-даних. Lump-sum модель витрат. Очікуваний TRL 7+ на кінець проєкту. Сильне імпліцитне очікування партнерства з впроваджувачами DestinE (ESA, ECMWF, EUMETSAT) — явно у scope як «чіткий і надійний шлях співпраці». Однораундовий дедлайн 16.06.2026 ≈ 5 тижнів від сьогодні."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {
+          "en": "Digital twins at the intersection of environment, climate and security",
+          "uk": "Цифрові двійники на перетині довкілля, клімату та безпеки"
+        },
+        "znuArea": {
+          "en": "Digital Twins for Industrial and Energy Systems",
+          "uk": "Цифрові двійники для промислових та енергетичних систем"
+        },
+        "strength": "medium",
+        "rationale": {
+          "en": "Methodology overlap is real (data-driven simulation, modular modelling), but the domain is different: ZNU's digital twins target industrial and energy systems, while the topic targets climate/environment/security. The transferability of the modelling stack is genuine; the domain knowledge is not.",
+          "uk": "Методологічна відповідність реальна (data-driven симуляція, модульне моделювання), але домен інший: цифрові двійники ЗНУ цільовані на промислові та енергетичні системи, а топік — на клімат/довкілля/безпеку. Перенос модельного стеку реальний; доменні знання — ні."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "AI / generative AI for decision-support; HPC + advanced visualisation (3D / VR)",
+          "uk": "ШІ / генеративний ШІ для підтримки рішень; HPC + просунута візуалізація (3D / VR)"
+        },
+        "znuArea": {
+          "en": "AI/ML + HPC / Parallel Computing + VR facilities + Computer Science and Software Engineering",
+          "uk": "ШІ/МН + HPC / паралельні обчислення + VR-обладнання + комп’ютерні науки та програмна інженерія"
+        },
+        "strength": "high",
+        "rationale": {
+          "en": "Direct match on the AI-HPC-visualisation stack the topic requires. ZNU explicitly cites VR-based interdisciplinary activity, AI/ML model development, and a Laboratory of Parallel and Distributed Computing — exactly what the topic asks for under 'high computational capacity to implement responsive visualization interfaces' and 'generative AI for decision-makers'.",
+          "uk": "Пряма відповідність стеку ШІ-HPC-візуалізація, який вимагає топік. ЗНУ явно вказує VR-міждисциплінарну діяльність, розробку ШІ/МН моделей та Лабораторію паралельних і розподілених обчислень — саме те, що топік просить у пункті «висока обчислювальна потужність для адаптивних інтерфейсів візуалізації» та «генеративний ШІ для осіб, які приймають рішення»."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Energy sustainability + human-induced disasters as named impact sectors",
+          "uk": "Енергетична стійкість + антропогенні катастрофи як названі сектори впливу"
+        },
+        "znuArea": {
+          "en": "Smart Grids + Renewable Energy + war-zone operational context",
+          "uk": "Smart grids + відновлювана енергетика + воєнний операційний контекст"
+        },
+        "strength": "medium",
+        "rationale": {
+          "en": "The topic explicitly lists 'energy sustainability and management' and 'natural or human-induced disasters' among the security impact sectors. ZNU's frontline-region context is a genuinely unique operational case for human-induced disaster + energy resilience digital twins — a credible angle for an MVP application area.",
+          "uk": "Топік явно перелічує «енергетичну стійкість та управління» і «природні або антропогенні катастрофи» серед безпекових секторів впливу. Контекст прифронтового регіону ЗНУ — справді унікальний операційний кейс для цифрових двійників антропогенних катастроф + енергетичної стійкості; переконливий ракурс для одної з MVP-сфер."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Earth observation / satellite data integration (Copernicus, Galileo/EGNOS)",
+          "uk": "Спостереження за Землею / інтеграція супутникових даних (Copernicus, Galileo/EGNOS)"
+        },
+        "znuArea": {
+          "en": "— (no documented EO / remote-sensing expertise)",
+          "uk": "— (не задокументована EO / дистанційного зондування експертиза)"
+        },
+        "strength": "low",
+        "rationale": {
+          "en": "The participant profile does not list any Earth observation, remote-sensing, geospatial-analytics or satellite-data-fusion expertise. The topic effectively requires this capability somewhere in the consortium; ZNU cannot provide it.",
+          "uk": "Профіль учасника не містить експертизи зі спостереження за Землею, дистанційного зондування, геопросторової аналітики чи fusion супутникових даних. Топік фактично вимагає цієї спроможності у консорціумі; ЗНУ її надати не може."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Destination Earth platform integration + collaboration with ESA / ECMWF / EUMETSAT",
+          "uk": "Інтеграція з платформою Destination Earth + співпраця з ESA / ECMWF / EUMETSAT"
+        },
+        "znuArea": {
+          "en": "— (no documented DestinE / ESA / ECMWF / EUMETSAT connection)",
+          "uk": "— (не задокументовані зв’язки з DestinE / ESA / ECMWF / EUMETSAT)"
+        },
+        "strength": "low",
+        "rationale": {
+          "en": "Mandatory pathway towards DestinE collaboration. ZNU has no documented link to any of the three implementing entities. Without a consortium partner who does, this becomes a discriminator at evaluation.",
+          "uk": "Обов’язковий шлях до співпраці з DestinE. У ЗНУ немає задокументованого зв’язку з жодним із трьох впроваджувачів. Без партнера, який його має, це стає дискримінатором на оцінюванні."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Asymmetric. The AI/HPC/VR stack is a strong fit. The Earth-observation / satellite-data / DestinE-integration stack is absent. To compete, the consortium would need to contain an EO-specialist partner (ESA-affiliated, ECMWF-affiliated, or a strong remote-sensing lab) alongside ZNU's compute and digital-twin contribution.",
+      "uk": "Асиметрична. Стек ШІ/HPC/VR — сильна відповідність. Стек Earth-observation / супутникові дані / інтеграція з DestinE — відсутній. Щоб конкурувати, у консорціумі має бути EO-спеціалізований партнер (афілійований з ESA, ECMWF або сильна лабораторія дистанційного зондування) поруч із ЗНУ як постачальником обчислень і digital-twin внеску."
+    },
+    "partnershipFit": {
+      "en": "Weak for THIS topic. NTNU has earth-system-science / climate-modelling links but is not visibly part of DestinE. Durham (UK — verify HE association for INFRA topics) and TU Bergakademie Freiberg do not offer DestinE / ESA pathways. ZNU joining an already-formed DestinE-aligned consortium as a WP-lead on the energy-resilience application area is the only realistic positioning.",
+      "uk": "Слабка для ЦЬОГО топіка. NTNU має зв’язки з науками про систему Землі / кліматичним моделюванням, але видимо не є частиною DestinE. Durham (Велика Британія — перевірити HE-асоціацію для INFRA-топіків) і TU Bergakademie Freiberg не пропонують DestinE / ESA шляхів. Реалістична позиція лише одна: ЗНУ долучитися до вже сформованого DestinE-орієнтованого консорціуму як WP-лідер у напрямку енергетичної стійкості."
+    },
+    "trackRecordFit": {
+      "en": "Insufficient. Strong HE/Erasmus+ portfolio (14 Erasmus+, 3 MSCA, UA-UK Twinning, DAAD) demonstrates execution capacity but no participation in HORIZON-INFRA-TECH lineage and no DestinE/ESA project history. Successful INFRA-TECH proposals typically cite continuity with the 2021/2024/2025 TECH-01 family and a DestinE collaboration track record.",
+      "uk": "Недостатній. Сильне портфоліо HE/Erasmus+ (14 Erasmus+, 3 MSCA, UA-UK Twinning, DAAD) демонструє виконавчу спроможність, але немає участі в лінії HORIZON-INFRA-TECH і немає історії проєктів DestinE/ESA. Успішні INFRA-TECH пропозиції зазвичай цитують спадкоємність з родиною 2021/2024/2025 TECH-01 та послужний список співпраці з DestinE."
+    },
+    "warContextRelevance": {
+      "en": "HIGH and unusually direct here — unlike most topics. The scope explicitly lists 'human-induced disasters', 'energy sustainability and management' and 'migration' as security impact sectors. Frontline-region grid resilience under wartime conditions is a real, current operational case ZNU can credibly present as one of the ≥3 MVP application areas. This is the strongest argument ZNU has on this topic.",
+      "uk": "ВИСОКА і незвично пряма саме тут — на відміну від більшості топіків. Scope явно перелічує «антропогенні катастрофи», «енергетичну стійкість та управління» і «міграцію» як безпекові сектори впливу. Стійкість мережі прифронтового регіону у воєнних умовах — реальний поточний операційний кейс, який ЗНУ може переконливо представити як одну з ≥3 MVP-сфер застосування. Це найсильніший аргумент ЗНУ на цьому топіку."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "partial",
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "Partner (WP-lead) on a DestinE-aligned consortium covering the 'energy sustainability and management' + 'human-induced disasters' MVP application area. NOT coordinator. ZNU contributes: (1) AI/HPC modelling stack, (2) VR-based decision-support visualisation, (3) the unique frontline-region operational case study. Look for an inbound invitation; if none exists, do not attempt to assemble a fresh consortium against a 2026-06-16 single-stage deadline.",
+      "uk": "Партнер (WP-лідер) у консорціумі, орієнтованому на DestinE, що покриває MVP-сферу «енергетична стійкість та управління» + «антропогенні катастрофи». НЕ координатор. ЗНУ вносить: (1) стек ШІ/HPC моделювання, (2) візуалізацію підтримки прийняття рішень на основі VR, (3) унікальний операційний кейс прифронтового регіону. Слід шукати запрошення ззовні; якщо його немає — не варто збирати новий консорціум до однораундового дедлайну 16.06.2026."
+    },
+    "strengths": [
+      {"en": "AI/HPC/VR stack is a HIGH-strength direct match to the topic's 'high computational capacity + responsive visualisation + generative AI for decision-makers' requirement.", "uk": "Стек ШІ/HPC/VR — high-відповідність прямо до вимоги топіка «висока обчислювальна потужність + адаптивна візуалізація + генеративний ШІ для осіб, які приймають рішення»."},
+      {"en": "War-zone operational context is uniquely credible for the 'human-induced disasters' and 'energy sustainability' impact sectors explicitly listed in scope.", "uk": "Воєнно-операційний контекст унікально переконливий для секторів «антропогенні катастрофи» та «енергетична стійкість», явно вказаних у scope."},
+      {"en": "No topic-specific ESFRI/ERIC blocker (unlike TECH-01-01) — eligibility is structurally clean.", "uk": "Немає специфічного для топіка блокера ESFRI/ERIC (на відміну від TECH-01-01) — прийнятність структурно чиста."},
+      {"en": "Ukraine is HE-Associated; no country-level blocker.", "uk": "Україна є асоційованою з HE; немає блокера на рівні країни."},
+      {"en": "Lump-sum reporting reduces administrative overhead.", "uk": "Lump-sum звітування зменшує адміністративне навантаження."}
+    ],
+    "risks": [
+      {"en": "Domain mismatch: ZNU's digital twins target industrial / energy systems; the topic targets climate / environment / security. Domain knowledge transfer is not free.", "uk": "Доменна невідповідність: цифрові двійники ЗНУ — для промислово-енергетичних систем; топік — для клімату/довкілля/безпеки. Перенос доменних знань — не безкоштовний."},
+      {"en": "No documented Earth observation / satellite / remote-sensing capability — the topic effectively requires this somewhere in the consortium.", "uk": "Немає задокументованої спроможності Earth observation / супутникові дані / дистанційне зондування — топік фактично вимагає цього десь у консорціумі."},
+      {"en": "No documented DestinE / ESA / ECMWF / EUMETSAT connection. The 'clear pathway towards collaboration with DestinE implementers' is a soft requirement that effectively functions as a hard evaluation criterion.", "uk": "Немає задокументованих зв’язків з DestinE / ESA / ECMWF / EUMETSAT. «Чіткий шлях співпраці з впроваджувачами DestinE» — м’яка вимога, що фактично функціонує як жорсткий критерій оцінювання."},
+      {"en": "Single-stage deadline 2026-06-16 ≈ 5 weeks away. Insufficient time to assemble a fresh DestinE-aligned consortium with the required EO partners.", "uk": "Однораундовий дедлайн 16.06.2026 ≈ 5 тижнів. Недостатньо часу зібрати новий DestinE-орієнтований консорціум з потрібними EO-партнерами."},
+      {"en": "TRL 7+ at project end implies a substantial deployment plan with real users in ≥3 application areas — a heavy lift for a non-incumbent consortium.", "uk": "TRL 7+ на кінець проєкту передбачає істотний план розгортання з реальними користувачами у ≥3 сферах застосування — важка задача для неінкумбентного консорціуму."},
+      {"en": "Field is dominated by ESA/ECMWF-tier consortia and HORIZON-INFRA-TECH veterans — competition for the 2 expected grants is severe.", "uk": "Поле домінують консорціуми рівня ESA/ECMWF та ветерани HORIZON-INFRA-TECH — конкуренція за 2 очікувані гранти жорстка."}
+    ],
+    "rationale": {
+      "en": "HORIZON-INFRA-2026-TECH-01-02 is a structural improvement over TECH-01-01 — there is no ESFRI/ERIC beneficiary requirement, so the option is at least open. But the topic is narrowly scoped on climate / environment / security digital twins integrated with Destination Earth, and ZNU's strengths (industrial/energy digital twins, AI/HPC, VR, smart grids) only partially overlap. The genuinely high-strength match is on the AI-HPC-visualisation stack and the 'energy sustainability + human-induced disasters' impact sectors where ZNU's wartime context is a credible differentiator; the genuinely missing pieces are Earth-observation expertise and any link to the DestinE implementers (ESA, ECMWF, EUMETSAT).\n\nIn principle ZNU could join a DestinE-aligned consortium as a WP-leader on the energy-resilience MVP. In practice the 2026-06-16 single-stage deadline (~5 weeks) rules out assembling a fresh consortium and the EO/DestinE gap is hard to close without an incumbent partner. The realistic gating question is: does any existing connection (via NTNU's earth-system-science group, or another network) lead to an in-flight INFRA-TECH-01-02 consortium that would accept ZNU as a partner contributing the AI/HPC stack and the frontline-region operational case study?\n\nRecommendation: 'maybe', with a clear conditional. Verdict flips to 'yes' if there is an inbound invitation (or a credible 2-week response from a known partner) within 5 working days. Otherwise verdict is 'no' due to timeline + EO/DestinE gap. Use the next 5 working days to email NTNU's earth-system-science contacts and (if the user has them) any ECMWF / SatCen / Copernicus academic contacts. If no opening surfaces, redirect effort to the better-fit ODEON Open Call (deadline 2026-07-09, single-entity, already analyzed with shouldApply=yes).",
+      "uk": "HORIZON-INFRA-2026-TECH-01-02 є структурним покращенням порівняно з TECH-01-01 — немає вимоги ESFRI/ERIC бенефіціара, тож опція принаймні відкрита. Однак топік вузько сфокусований на цифрових двійниках клімат/довкілля/безпека, інтегрованих з Destination Earth, а сильні сторони ЗНУ (промислово-енергетичні цифрові двійники, ШІ/HPC, VR, smart grids) перетинаються лише частково. Справді high-відповідність — стек ШІ-HPC-візуалізація та сектори впливу «енергетична стійкість + антропогенні катастрофи», де воєнний контекст ЗНУ — переконливий диференціатор; справді відсутні елементи — експертиза Earth observation і будь-який зв’язок з впроваджувачами DestinE (ESA, ECMWF, EUMETSAT).\n\nУ принципі ЗНУ міг би долучитися до DestinE-орієнтованого консорціуму як WP-лідер у MVP з енергетичної стійкості. На практиці однораундовий дедлайн 16.06.2026 (~5 тижнів) виключає збір нового консорціуму, а EO/DestinE-прогалину важко закрити без інкумбент-партнера. Реалістичне ключове питання: чи веде якийсь наявний зв’язок (через групу earth-system-science NTNU або іншу мережу) до вже-в-роботі консорціуму INFRA-TECH-01-02, який прийняв би ЗНУ як партнера-постачальника стеку ШІ/HPC та операційного кейсу прифронтового регіону?\n\nРекомендація: «можливо», з чіткою умовою. Вердикт перевертається на «так», якщо протягом 5 робочих днів надійде запрошення ззовні (або переконлива 2-тижнева відповідь від відомого партнера). Інакше вердикт — «ні» через таймлайн + прогалину EO/DestinE. Наступні 5 робочих днів витратити на лист до контактів NTNU з earth-system-science і (якщо у користувача вони є) до академічних контактів ECMWF / SatCen / Copernicus. Якщо не виникне жодної можливості — переспрямувати зусилля на краще підходящий ODEON Open Call (дедлайн 09.07.2026, single-entity, уже проаналізований з shouldApply=yes)."
+    }
+  }
+}

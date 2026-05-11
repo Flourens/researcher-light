@@ -1,0 +1,173 @@
+{
+  "grantId": "ODEON",
+  "fetchedAt": "2026-05-11T09:30:00Z",
+  "analyzedAt": "2026-05-11T09:40:00Z",
+  "grant": {
+    "title": {
+      "en": "ODEON Open Call — cascade funding (FSTP) under the ODEON Horizon Europe project",
+      "uk": "ODEON Open Call — каскадне фінансування (FSTP) у межах проєкту ODEON Horizon Europe"
+    },
+    "callIdentifier": "ODEON / HORIZON-CL5-2023-D3-01-15 (parent topic)",
+    "type": {
+      "en": "Competitive call (cascade funding) — Financial Support to Third Parties (FSTP)",
+      "uk": "Конкурсний відбір (каскадне фінансування) — фінансова підтримка третім сторонам (FSTP)"
+    },
+    "typeCode": "8",
+    "deadline": "2026-07-09",
+    "deadlineModel": {
+      "en": "single-stage; six-step selection (eligibility check → in/out-scope → external evaluation → consensus → Jury Day pitching → formal check + Sub-Grant Agreement signing)",
+      "uk": "однораундова; шестикроковий відбір (перевірка прийнятності → in/out-scope → зовнішня оцінка → консенсус → Jury Day пітчинг → формальна перевірка + підписання Sub-Grant Agreement)"
+    },
+    "budgetTotal": {
+      "en": "EUR 1,200,000 across up to 20 selected projects",
+      "uk": "1 200 000 євро на до 20 обраних проєктів"
+    },
+    "budgetPerProject": {
+      "en": "Fixed lump sum up to EUR 60,000 per selected entity + enrolment in the ODEON Support Programme",
+      "uk": "Фіксована lump-sum до 60 000 євро на обрану організацію + участь у ODEON Support Programme"
+    },
+    "expectedOutcome": {
+      "en": "Selected projects design, develop and validate innovative data-driven energy services and applications on top of the ODEON Cloud-Edge Data and Intelligence Service Platform. Outcomes target energy value-chain actors: network operators, local energy communities / aggregators, consumers and prosumers. Cross-validation with sibling projects (e.g. Hedge-IoT) is encouraged.",
+      "uk": "Обрані проєкти проєктують, розробляють і валідують інноваційні data-driven сервіси та застосунки для енергетики на основі платформи ODEON Cloud-Edge Data and Intelligence Service Platform. Результати орієнтовані на учасників ланцюга створення вартості: мережевих операторів, локальні енергетичні спільноти / агрегаторів, споживачів і просьюмерів. Заохочується крос-валідація зі спорідненими проєктами (наприклад, Hedge-IoT)."
+    },
+    "scope": {
+      "en": "Single-entity (notably SME) cascade-funded R&D / piloting effort. Each application must address ONE of 13 predefined challenges: Monitoring/Governance/Lifecycle Mgmt; Federated Edge-AI Pilot; Edge-Deployable Bi-Directional Data Connector for Residential Energy Assets; Next-Day Load Baseline for LFM participation; Near-Real-Time Secondary Substation Load Forecasting (two variants — LV consumer/producer data, SS transformer data); Improving Flexibility Profiling for Implicit Demand Response; Smart Charging V2G/G2V under grid signals; Forecasting Services for LECs; Improving Prosumer Understanding via What-If Scenarios; Improving Reliability/Performance Awareness of Residential DERs; Structuring Residential Flexibility for Demand Response/Aggregation; Cross-Dataspace Interoperability & Energy AI Services. 10-month Support & Mentoring Programme in 3 stages (Individual Mentoring & Project Design → Energy Service Development → User Validation & Impact).",
+      "uk": "Каскадне фінансування для одної організації (особливо SME) — R&D / пілотування. Кожна заявка має звертатися до ОДНОГО з 13 заздалегідь визначених челенджів: моніторинг/управління/lifecycle; Federated Edge-AI Pilot; Edge-Deployable Bi-Directional Data Connector для побутових енергоактивів; Next-Day Load Baseline для участі у LFM; Near-Real-Time Secondary Substation Load Forecasting (два варіанти — LV consumer/producer дані, SS transformer дані); покращення Flexibility Profiling для Implicit Demand Response; Smart Charging V2G/G2V за сигналами мережі; сервіси прогнозування для LEC; покращення розуміння просьюмера через What-If сценарії; підвищення обізнаності про надійність/продуктивність побутових DER; структурування побутової гнучкості для Demand Response/агрегації; Cross-Dataspace Interoperability & Energy AI Services. 10-місячна програма підтримки і менторингу у 3 етапи (Individual Mentoring & Project Design → Energy Service Development → User Validation & Impact)."
+    },
+    "topicsKeywords": [
+      {"en": "smart grids", "uk": "smart grids"},
+      {"en": "federated edge-AI", "uk": "federated edge-AI"},
+      {"en": "demand response / flexibility", "uk": "demand response / гнучкість"},
+      {"en": "V2G / G2V smart charging", "uk": "V2G / G2V smart charging"},
+      {"en": "load forecasting", "uk": "прогнозування навантаження"},
+      {"en": "local energy communities (LECs)", "uk": "локальні енергетичні спільноти (LEC)"},
+      {"en": "data spaces / interoperability", "uk": "data spaces / інтероперабельність"},
+      {"en": "DER (Distributed Energy Resources)", "uk": "DER (розподілені енергетичні ресурси)"},
+      {"en": "FSTP / cascade funding", "uk": "FSTP / каскадне фінансування"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "SINGLE entity — no consortium needed. The call explicitly targets 'single entities, particularly Small and Medium-sized Enterprises (SMEs)'. Universities are not excluded, but the wording (and the SME-flavoured Support Programme) means a non-SME applicant must justify why it is the right vehicle for this innovation.",
+      "uk": "ОДНА організація — консорціум не потрібен. Конкурс явно орієнтований на «single entities, particularly Small and Medium-sized Enterprises (SMEs)». Університети не виключені, але формулювання (і SME-орієнтована Support Programme) означає, що не-SME заявник має обґрунтувати, чому саме він є правильним суб’єктом для цієї інновації."
+    },
+    "requiredCountries": {
+      "en": "Standard Horizon Europe cascade rules apply: applicants from EU Member States and Horizon Europe Associated Countries are eligible. Ukraine is an Associated Country → ZNU passes the country gate. Final eligibility is governed by ODEON's Open Call Terms and Conditions on the application portal.",
+      "uk": "Застосовуються стандартні правила каскадного фінансування Horizon Europe: заявники з держав-членів ЄС та країн, асоційованих з HE, є прийнятними. Україна — асоційована країна → ЗНУ проходить країнний фільтр. Остаточна прийнятність визначається Open Call Terms and Conditions на порталі заявок."
+    },
+    "otherConstraints": {
+      "en": "Application submitted via https://opportunities.getonepass.eu/applications/odeon/start. Six-step selection with a mandatory Jury Day pitching round. Successful projects must integrate with the ODEON Cloud-Edge platform — a learning curve before any productive work. 10-month programme commitment from kickoff. Cross-validation with Hedge-IoT and other EU projects is encouraged. Lump-sum reporting model (no incurred-cost accounting).",
+      "uk": "Заявка подається через https://opportunities.getonepass.eu/applications/odeon/start. Шестикроковий відбір з обов’язковим Jury Day пітчингом. Успішні проєкти зобов’язані інтегруватися з платформою ODEON Cloud-Edge — крива навчання перед продуктивною роботою. 10-місячна програма від kickoff. Заохочується крос-валідація з Hedge-IoT та іншими проєктами ЄС. Звітування за моделлю lump-sum (без обліку понесених витрат)."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {
+          "en": "Federated Edge-AI Pilot + Cross-Dataspace Interoperability & Energy AI Services",
+          "uk": "Federated Edge-AI Pilot + Cross-Dataspace Interoperability & Energy AI сервіси"
+        },
+        "znuArea": {
+          "en": "AI/ML + HPC / Parallel Computing + Computer Science and Software Engineering",
+          "uk": "ШІ/МН + HPC / паралельні обчислення + комп’ютерні науки та програмна інженерія"
+        },
+        "strength": "high",
+        "rationale": {
+          "en": "Direct fit: ZNU's Laboratory of Parallel and Distributed Computing and AI/ML capacity can build a federated-edge AI service on top of ODEON's platform. The skills required (distributed model training, edge inference, data orchestration) sit squarely in ZNU's wheelhouse.",
+          "uk": "Пряма відповідність: Лабораторія паралельних і розподілених обчислень ЗНУ та компетенції в ШІ/МН дозволяють побудувати federated-edge AI сервіс на платформі ODEON. Потрібні навички (розподілене навчання моделей, edge inference, оркестрація даних) повністю в зоні компетенцій ЗНУ."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Near-Real-Time Secondary Substation Load Forecasting + Next-Day Load Baseline for LFM + Forecasting Services for LECs",
+          "uk": "Near-Real-Time Secondary Substation Load Forecasting + Next-Day Load Baseline для LFM + сервіси прогнозування для LEC"
+        },
+        "znuArea": {
+          "en": "Smart Grids and Renewable Energy Systems + AI/ML",
+          "uk": "Smart grids та системи відновлюваної енергетики + ШІ/МН"
+        },
+        "strength": "high",
+        "rationale": {
+          "en": "ZNU's stated expertise in 'energy resilience and real-time management of distributed renewables' maps directly onto load forecasting and LFM (Local Flexibility Market) baseline work. The forecasting challenges are classic ML-on-grid-data problems — well within ZNU's capacity.",
+          "uk": "Заявлена експертиза ЗНУ в «енергетичній стійкості та реал-тайм управлінні розподіленими відновлюваними джерелами» прямо лягає на прогнозування навантаження та LFM baseline. Челенджі прогнозування — класичні ML-задачі на даних мережі, повністю в межах спроможностей ЗНУ."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Smart Charging V2G/G2V under grid signals + Improving Reliability/Performance Awareness of Residential DERs",
+          "uk": "Smart Charging V2G/G2V за сигналами мережі + підвищення обізнаності про надійність/продуктивність побутових DER"
+        },
+        "znuArea": {
+          "en": "Smart Grids + Digital Twins for Industrial and Energy Systems",
+          "uk": "Smart grids + цифрові двійники для промислових та енергетичних систем"
+        },
+        "strength": "medium",
+        "rationale": {
+          "en": "Adjacent fit. ZNU has the smart-grids and digital-twin expertise to model V2G/DER behaviour, but no documented hardware test-bed for charging infrastructure. Best pursued via simulation / digital-twin angle rather than physical pilot.",
+          "uk": "Дотична відповідність. У ЗНУ є експертиза smart grids та цифрових двійників, щоб моделювати поведінку V2G/DER, але немає задокументованого hardware-полігона для зарядної інфраструктури. Краще йти через симуляцію / digital-twin, а не фізичний пілот."
+        }
+      },
+      {
+        "grantTopic": {
+          "en": "Improving Flexibility Profiling for Implicit Demand Response + Structuring Residential Flexibility",
+          "uk": "Покращення Flexibility Profiling для Implicit Demand Response + структурування побутової гнучкості"
+        },
+        "znuArea": {
+          "en": "Smart Grids + AI/ML",
+          "uk": "Smart grids + ШІ/МН"
+        },
+        "strength": "medium",
+        "rationale": {
+          "en": "Reasonable AI-on-energy-data fit; the constraint is that this requires consumer-side dataset access that ZNU does not visibly hold — would need to be supplied by ODEON's platform.",
+          "uk": "Розумна відповідність ШІ-на-даних-енергетики; обмеження — потрібен доступ до даних споживача, якого у ЗНУ явно немає; має бути наданий через платформу ODEON."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Strong. ZNU's HPC (Lab of Parallel and Distributed Computing), AI/ML stack, Azure cloud migration, and rooftop solar + cogeneration setup all support an edge-AI / energy-data service build. Single-entity cascade calls reward exactly this kind of self-contained capacity, with no need to rely on external partners.",
+      "uk": "Сильна. HPC (Лабораторія паралельних і розподілених обчислень) ЗНУ, стек ШІ/МН, міграція в хмару Azure та дахові сонячні + когенераційні системи — все це підтримує побудову edge-AI / енергетичного сервісу даних. Single-entity каскадні конкурси саме й винагороджують таку самодостатню спроможність без залежності від зовнішніх партнерів."
+    },
+    "partnershipFit": {
+      "en": "Not relevant for application (single entity). However, ZNU's NTNU partnership is an asset in the optional cross-validation with Hedge-IoT and other EU energy projects — NTNU likely has links to those consortia and can broker interoperability tests during Stage 3 (Users Validation & Impact).",
+      "uk": "Не релевантно для подання (одна організація). Однак партнерство ЗНУ з NTNU — це актив для опціональної крос-валідації з Hedge-IoT та іншими енергетичними проєктами ЄС: NTNU, ймовірно, має зв’язки з цими консорціумами і може допомогти з тестами інтероперабельності на Stage 3 (User Validation & Impact)."
+    },
+    "trackRecordFit": {
+      "en": "Mixed. ZNU's HE/Erasmus+ portfolio (14 Erasmus+, 3 MSCA, DAAD, UA-UK Twinning) demonstrates EU project execution capacity but does not include cascade-funded SME-style innovation projects. The competition will include actual SMEs and start-ups with product-market-fit experience — ZNU must position itself convincingly as a research-applied entity, not a generic university.",
+      "uk": "Змішана. Портфоліо HE/Erasmus+ ЗНУ (14 Erasmus+, 3 MSCA, DAAD, UA-UK Twinning) демонструє спроможність виконувати проєкти ЄС, але не включає каскадно-фінансовані SME-style інноваційні проєкти. Серед конкурентів будуть реальні SME та стартапи з досвідом product-market-fit — ЗНУ має позиціонувати себе як research-applied суб’єкт, а не як загальний університет."
+    },
+    "warContextRelevance": {
+      "en": "HIGH — uniquely strong here. Ukraine's wartime electricity-grid disruptions make smart-grid / DER / forecasting / flexibility services existentially relevant. ZNU can credibly argue that its proposal targets a real, urgent operational case (frontline-region distribution grid resilience) — a differentiator that SME competitors based in stable-grid jurisdictions cannot match. Reviewers respond well to concrete impact stories.",
+      "uk": "ВИСОКА — тут особлива сильна сторона. Воєнні зриви електромережі в Україні роблять smart-grid / DER / прогнозування / гнучкість екзистенційно релевантними. ЗНУ може переконливо аргументувати, що його пропозиція націлена на реальний, нагальний операційний кейс (стійкість розподільчої мережі прифронтового регіону) — диференціатор, якого SME-конкуренти з юрисдикцій зі стабільною мережею не мають. Рецензенти добре реагують на конкретні impact-стори."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "Single applicant on ONE of these three challenges (in priority order): (1) Near-Real-Time Secondary Substation Load Forecasting — strongest direct ML-on-grid fit; (2) Federated Edge-AI Pilot — direct HPC/AI alignment; (3) Forecasting Services for LECs — analogous skill stack. Frame the work around frontline-region grid-resilience evidence to differentiate from SME competitors.",
+      "uk": "Одиничний заявник на ОДНОМУ з трьох челенджів (за пріоритетом): (1) Near-Real-Time Secondary Substation Load Forecasting — найсильніша пряма ML-on-grid відповідність; (2) Federated Edge-AI Pilot — пряма HPC/ШІ-сумісність; (3) Forecasting Services for LECs — аналогічний стек навичок. Сформулювати роботу навколо доказів стійкості мережі прифронтового регіону, щоб відрізнятися від SME-конкурентів."
+    },
+    "strengths": [
+      {"en": "Single-entity application — no consortium-building blocker (unlike INFRA-TECH).", "uk": "Single-entity заявка — немає блокеру з побудови консорціуму (на відміну від INFRA-TECH)."},
+      {"en": "Multiple HIGH-strength technical fits across smart grids, AI/ML, HPC, and load forecasting.", "uk": "Декілька high-відповідностей по smart grids, ШІ/МН, HPC та прогнозуванню навантаження."},
+      {"en": "War context produces a uniquely credible 'real operational problem' narrative that SME applicants from stable-grid countries cannot match.", "uk": "Воєнний контекст дає унікально переконливий наратив «реальної операційної проблеми», який SME-заявники зі стабільно-мережевих країн не можуть відтворити."},
+      {"en": "Lump-sum reporting + 10-month duration is operationally manageable for a university research group.", "uk": "Lump-sum звітування + 10-місячна тривалість операційно посильні для університетської дослідницької групи."},
+      {"en": "Ukraine is HE-eligible; no country-level blocker.", "uk": "Україна прийнятна для HE; немає блокера на рівні країни."}
+    ],
+    "risks": [
+      {"en": "Call wording targets 'particularly SMEs' — university applicants must argue convincingly why they are the right vehicle (vs. spinning out an SME first).", "uk": "Формулювання конкурсу націлене «particularly SMEs» — університетські заявники мають переконливо аргументувати, чому саме вони є правильним суб’єктом (а не спінофф SME)."},
+      {"en": "Mandatory integration with the ODEON Cloud-Edge Data and Intelligence Service Platform — adds a learning curve and a single-vendor lock-in to the 10-month plan.", "uk": "Обов’язкова інтеграція з платформою ODEON Cloud-Edge Data and Intelligence Service Platform — додає криву навчання та залежність від однієї платформи у 10-місячному плані."},
+      {"en": "EUR 60,000 lump sum is small — covers a focused R&D effort but won't fund a full team for 10 months. Need to plan staffing tightly.", "uk": "60 000 євро lump sum — мало; покриває сфокусований R&D, але не повну команду на 10 місяців. Потрібне щільне планування персоналу."},
+      {"en": "Jury Day pitching round favours product-narrative skills more typical of start-ups than academic groups.", "uk": "Раунд пітчингу на Jury Day сприяє продуктовому наративу, що типовіший для стартапів, а не академічних груп."},
+      {"en": "Deadline 2026-07-09 ≈ 2 months prep — tight for assembling a strong pitch plus the technical proposal but feasible.", "uk": "Дедлайн 09.07.2026 ≈ 2 місяці підготовки — щільно для збору сильного пітча плюс технічної пропозиції, але реально."},
+      {"en": "Sub-Grant Agreement is signed with ODEON, not the EC — different IP, reporting, and dispute-resolution mechanics than direct HE grants.", "uk": "Sub-Grant Agreement підписується з ODEON, а не з ЄК — інша механіка IP, звітування й вирішення спорів, ніж у прямих HE-грантах."}
+    ],
+    "rationale": {
+      "en": "ODEON Open Call is a substantively better fit for ZNU than INFRA-TECH was. The single-entity structure removes the consortium-building blocker that killed the INFRA-TECH option, and the 13 challenges include several where ZNU has high-strength technical alignment (Secondary Substation Load Forecasting, Federated Edge-AI Pilot, Forecasting Services for LECs). The wartime grid-resilience context is a credible differentiator against SME competitors who lack a comparable real-world operational case.\n\nThe main caveats are (1) the call's SME emphasis — ZNU must position itself as a research-applied entity producing a deployable service, not as a generic university research group, and (2) the EUR 60,000 lump sum is modest and the 10-month commitment plus ODEON-platform integration requires tight scoping. A Jury Day pitching round also favours start-up storytelling skills; this should be prepared for explicitly.\n\nRecommendation: apply, with the work framed around Secondary Substation Load Forecasting (or Federated Edge-AI Pilot as backup), and the proposal leading with a concrete frontline-region grid-resilience case study. Read the Open Call Terms and Conditions on the application portal first to confirm university eligibility and IP arrangements. Begin scoping within the next two weeks to leave a four-week pitch-prep window before the 2026-07-09 deadline.",
+      "uk": "ODEON Open Call суттєво краще підходить ЗНУ, ніж INFRA-TECH. Single-entity структура усуває блокер консорціуму, який «вбив» INFRA-TECH-варіант, а 13 челенджів включають кілька, де у ЗНУ висока технічна відповідність (Secondary Substation Load Forecasting, Federated Edge-AI Pilot, Forecasting Services for LECs). Воєнний контекст стійкості мережі — переконливий диференціатор проти SME-конкурентів, які не мають подібного реального операційного кейсу.\n\nГоловні застереження: (1) акцент конкурсу на SME — ЗНУ має позиціонуватися як research-applied суб’єкт, що створює деплоябельний сервіс, а не як загальна академічна група; (2) lump sum 60 000 євро — скромний, а 10-місячне зобов’язання плюс інтеграція з платформою ODEON вимагає щільного скоупінгу. Jury Day пітчинг також сприяє стартаповим навичкам сторителінгу — до цього треба готуватися окремо.\n\nРекомендація: подавати; роботу побудувати навколо Secondary Substation Load Forecasting (або Federated Edge-AI Pilot як backup), а пропозиція має починатися з конкретного кейс-стаді стійкості мережі прифронтового регіону. Спочатку прочитати Open Call Terms and Conditions на порталі заявок, щоб підтвердити прийнятність університету та умови IP. Почати скоупінг протягом найближчих двох тижнів, щоб залишити чотиритижневе вікно на підготовку пітча перед дедлайном 09.07.2026."
+    }
+  }
+}
