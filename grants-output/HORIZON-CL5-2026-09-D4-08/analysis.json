@@ -1,0 +1,123 @@
+{
+  "grantId": "HORIZON-CL5-2026-09-D4-08",
+  "fetchedAt": "2026-05-11T11:00:00Z",
+  "analyzedAt": "2026-05-11T11:30:00Z",
+  "grant": {
+    "title": {
+      "en": "Full-scale demonstration of heat upgrade solutions in industrial processes",
+      "uk": "Повномасштабна демонстрація рішень з апгрейду тепла у промислових процесах"
+    },
+    "callIdentifier": "HORIZON-CL5-2026-09 (BATTERIES and ENERGY)",
+    "type": {"en": "HORIZON Innovation Actions (IA)", "uk": "HORIZON Інноваційні дії (IA)"},
+    "typeCode": "1",
+    "deadline": "2026-09-15",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-09-15. Lump-sum. TRL 7-8 by project end. Activities may start at any TRL.",
+      "uk": "Однораундовий; дедлайн 15.09.2026. Lump-sum. TRL 7-8 на кінець. Старт з будь-якого TRL."
+    },
+    "budgetTotal": {"en": "EUR 18,000,000 envelope (2 expected grants)", "uk": "18 000 000 євро (2 гранти)"},
+    "budgetPerProject": {"en": "EUR 9,000,000 fixed", "uk": "9 000 000 євро фіксовано"},
+    "expectedOutcome": {
+      "en": "At least one industrial sector with significant heating demand develops pathways and business models to measurably increase recovery and upgrade of locally available heat for process needs, significantly or totally phasing out fossil-fuel use while preserving competitiveness. Measurable improvement of renewable / waste-heat recovery and upgrade solutions (possibly combined with thermal/electrical storage) in energy efficiency, demand flexibility, climate/environment protection, reliability, safety, physical and cyber security, and profitability.",
+      "uk": "Принаймні один промисловий сектор зі значним попитом на тепло розвиває pathways і бізнес-моделі для помітного збільшення відновлення та апгрейду локально доступного тепла для процесних потреб, значно або повністю відмовляючись від викопного палива при збереженні конкурентоспроможності. Помітне покращення рішень з відновлення та апгрейду відновлюваного / waste-тепла (можливо в комбінації з тепловим/електричним зберіганням) у енергоефективності, гнучкості попиту, захисті клімату/довкілля, надійності, безпеці, фізичній і кібербезпеці, прибутковості."
+    },
+    "scope": {
+      "en": "Physical demonstration in one or more operational industrial site(s) of process transformation in ≥1 industrial sector by recovering excess/waste heat, possibly combined with local renewable heat or nearby recovered heat and thermal/electrical storage, upgrading the heat (e.g. heat pump) for process use. Maximise replicability across EU/AC plants in the same sector (survey + standardised components). Develop open technical/economic guidelines and tools. Cooperate with LIFE-2024-CET-HEATPUMPS actions. TRL 7-8 expected.",
+      "uk": "Фізична демонстрація на одному або кількох операційних промислових майданчиках трансформації процесу в ≥1 промисловому секторі через відновлення excess/waste тепла, можливо в комбінації з локальним відновлюваним теплом або тепла з сусідніх локацій + thermal/electric storage, апгрейд тепла (наприклад тепловий насос) для процесного використання. Максимізувати replicability в заводах того ж сектору в ЄС/AC (опитування + стандартизовані компоненти). Open технічні/економічні гайдлайни й інструменти. Кооперація з LIFE-2024-CET-HEATPUMPS. Очікується TRL 7-8."
+    },
+    "topicsKeywords": [
+      {"en": "industrial waste-heat recovery", "uk": "відновлення промислового waste-тепла"},
+      {"en": "heat pumps for process heat", "uk": "теплові насоси для процесного тепла"},
+      {"en": "thermal / electrical storage", "uk": "теплове / електричне зберігання"},
+      {"en": "industrial decarbonisation", "uk": "декарбонізація промисловості"},
+      {"en": "TRL 7-8 full-scale demo", "uk": "TRL 7-8 повномасштабне демо"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Standard HE IA minimum: 3 independent legal entities from 3 different MS/AC. No topic-specific extra requirement, but the topic effectively requires AT LEAST ONE operational industrial site as a beneficiary (the demo host) — a structural soft requirement.",
+      "uk": "Стандартний мінімум HE IA: 3 незалежні юр. особи з 3 різних MS/AC. Топіко-специфічних додаткових вимог немає, але топік фактично вимагає ЩОНАЙМЕНШЕ ОДНОГО операційного промислового майданчика як бенефіціара (хост демо) — структурна м'яка вимога."
+    },
+    "requiredCountries": {
+      "en": "EU MS + HE Associated Countries. Ukraine eligible.",
+      "uk": "Держави-члени ЄС + країни асоційовані з HE. Україна прийнятна."
+    },
+    "otherConstraints": {
+      "en": "Lump-sum funding. If satellite/EO data are used, must use Copernicus and/or Galileo/EGNOS. 4-year EC override on IPR transfer/exclusive licensing after action end.",
+      "uk": "Lump-sum фінансування. Якщо використовуються супутникові/EO дані — обов'язково Copernicus та/або Galileo/EGNOS. 4-річний override ЄК на трансфер IPR/ексклюзивне ліцензування після завершення проєкту."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Industrial process heat — metallurgy, electrochemistry, catalysis use cases", "uk": "Процесне тепло в промисловості — металургія, електрохімія, каталіз"},
+        "znuArea": {"en": "Green Metal Industry (high-entropy alloys, electrolyzers, catalytic gas purification) + Materials Science", "uk": "Зелена металургія (high-entropy сплави, електролізери, каталітичне очищення газів) + матеріалознавство"},
+        "strength": "high",
+        "rationale": {
+          "en": "ZNU's stated expertise (electrolyzer engineering for Al-Mg alloy production, catalytic gas-purification technologies, thermochemical pressing) sits squarely in the high-heat / process-energy domain this topic targets. Metallurgical processes are textbook 'industrial sectors with significant heating demand'. The technical fit is direct.",
+          "uk": "Заявлена експертиза ЗНУ (інженерія електролізерів для Al-Mg сплавів, каталітичні технології очищення газів, термохімічне пресування) лежить точно в high-heat / процесно-енергетичному домені цього топіка. Металургійні процеси — підручникові «промислові сектори зі значним попитом на тепло». Технічна відповідність пряма."
+        }
+      },
+      {
+        "grantTopic": {"en": "Heat-pump integration + storage system design", "uk": "Інтеграція теплових насосів + дизайн систем зберігання"},
+        "znuArea": {"en": "Smart Grids + Digital Twins for Industrial and Energy Systems + HPC", "uk": "Smart grids + цифрові двійники для промислових та енергетичних систем + HPC"},
+        "strength": "medium",
+        "rationale": {
+          "en": "ZNU can contribute digital-twin modelling and HPC-based optimisation for the heat-pump + storage integration layer. Strong methodology fit but no documented heat-pump-engineering hands-on experience.",
+          "uk": "ЗНУ може долучитися з digital-twin моделюванням і HPC-оптимізацією для шару інтеграції тепловий насос + storage. Сильна методологічна відповідність, але немає задокументованого hands-on досвіду з тепловими насосами."
+        }
+      },
+      {
+        "grantTopic": {"en": "Replicability survey across EU/AC plants + open guidelines", "uk": "Опитування replicability в заводах ЄС/AC + open гайдлайни"},
+        "znuArea": {"en": "Cooperation Areas (Green Industrial Transformation, Industrial Ecology)", "uk": "Cooperation areas (зелена індустріальна трансформація, промислова екологія)"},
+        "strength": "medium",
+        "rationale": {
+          "en": "ZNU's industrial-ecology orientation supports the cross-plant survey and open-guidelines deliverables — assuming a metallurgy/aluminium / non-ferrous metals sector focus.",
+          "uk": "Industrial-ecology орієнтація ЗНУ підтримує крос-заводське опитування й open-гайдлайни — за умови фокусу на металургії / алюмінію / кольорових металах."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Strong on simulation/HPC/modelling and metallurgy-process knowledge. Weak on owning an industrial demo site — ZNU is academic, not an operator. The consortium MUST include an industrial demo host (a metallurgical / aluminium / cement / chemical plant), typically as the lead beneficiary.",
+      "uk": "Сильна на симуляції/HPC/моделюванні й знаннях металургійних процесів. Слабка щодо володіння індустріальним demo-майданчиком — ЗНУ академічна, не оператор. Консорціум ОБОВ'ЯЗКОВО має включати індустріального demo-хоста (металургійний / алюмінієвий / цементний / хімічний завод), як правило — провідного бенефіціара."
+    },
+    "partnershipFit": {
+      "en": "Mixed. TU Bergakademie Freiberg is a top materials/metals institute and likely has direct industrial-partner network in non-ferrous metals — usable bridge to a German/EU industrial demo host. NTNU has Norwegian heavy-industry (Norsk Hydro etc.) ties. Durham (UK — verify HE association) less relevant here. Best path: industrial partner identified via TU Freiberg or NTNU; ZNU brings simulation, digital twin, and a Ukrainian metallurgical industry replication case study.",
+      "uk": "Змішана. TU Bergakademie Freiberg — топ матеріалознавчий/металургійний інститут і має пряму індустріальну мережу в кольорових металах — корисний міст до німецького/ЄС індустріального demo-хоста. NTNU має зв'язки з норвезькою важкою промисловістю (Norsk Hydro тощо). Durham (Велика Британія — перевірити HE-асоціацію) тут менш релевантний. Найкращий шлях: індустріального партнера ідентифікувати через TU Freiberg або NTNU; ЗНУ дає симуляцію, цифровий двійник і кейс реплікації для української металургії."
+    },
+    "trackRecordFit": {
+      "en": "Mixed. No HORIZON-CL5-D4 / industrial-decarbonisation project history in ZNU profile. Strong general HE/Erasmus+ record but not in this specific lineage. INFRA-style industrial-decarbonisation competition is dominated by EERA / IEA-IETS-affiliated consortia.",
+      "uk": "Змішаний. Немає історії HORIZON-CL5-D4 / industrial-decarbonisation у профілі ЗНУ. Сильний загальний HE/Erasmus+ запис, але не в цій конкретній лінії. INFRA-style industrial-decarbonisation домінують консорціуми, афілійовані з EERA / IEA-IETS."
+    },
+    "warContextRelevance": {
+      "en": "Moderate. Ukrainian metallurgy (steel, aluminium) faces existential pressure from wartime energy costs — a credible 'urgent decarbonisation need' narrative for a replication case study. Not the main scoring axis, but a useful differentiator.",
+      "uk": "Помірна. Українська металургія (сталь, алюміній) під екзистенційним тиском з боку воєнних енергетичних витрат — переконливий наратив «нагальної потреби декарбонізації» для кейсу реплікації. Не головна вісь оцінювання, але корисний диференціатор."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "yes",
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "Partner (WP-lead) on simulation / digital-twin / replication-survey workstream, plus secondary demo or replication-validation site in Ukrainian metallurgy. NOT coordinator. Critical dependency: securing an industrial demo host via TU Freiberg or NTNU within the first 4 weeks.",
+      "uk": "Партнер (WP-лідер) у workstream симуляції / цифрового двійника / опитування replicability + вторинне demo або сайт валідації replication в українській металургії. НЕ координатор. Критична залежність: забезпечити індустріального demo-хоста через TU Freiberg або NTNU у перші 4 тижні."
+    },
+    "strengths": [
+      {"en": "Direct technical match on metallurgy/electrochemistry/catalysis process-heat domain.", "uk": "Пряма технічна відповідність у домені процесного тепла металургія/електрохімія/каталіз."},
+      {"en": "HPC + digital-twin capacity adds real value for replication tooling and standardisation deliverables.", "uk": "HPC + цифровий двійник додають реальну цінність для replication-інструментарію та deliverables стандартизації."},
+      {"en": "TU Freiberg / NTNU partnerships open paths to industrial demo-host partners.", "uk": "Партнерства TU Freiberg / NTNU відкривають шляхи до індустріальних demo-хостів."},
+      {"en": "4 months prep + lump-sum is operationally manageable for a partner role.", "uk": "4 місяці підготовки + lump-sum операційно посильно для ролі партнера."}
+    ],
+    "risks": [
+      {"en": "Topic effectively requires a real industrial demo site as beneficiary — ZNU cannot provide one. Hard dependency on consortium partner.", "uk": "Топік фактично вимагає реальний індустріальний demo-сайт як бенефіціара — ЗНУ не може його надати. Жорстка залежність від партнера консорціуму."},
+      {"en": "Only 2 expected grants — competition very intense; field dominated by EERA / IETS incumbents.", "uk": "Очікується лише 2 гранти — конкуренція дуже інтенсивна; поле домінують інкумбенти EERA / IETS."},
+      {"en": "No prior HORIZON-CL5-D4 track record — must lean heavily on partner credentials.", "uk": "Немає попереднього досвіду в HORIZON-CL5-D4 — треба сильно спиратися на credentials партнерів."}
+    ],
+    "rationale": {
+      "en": "Strong technical fit on the metallurgy-process-heat domain, but ZNU cannot lead — the topic requires an industrial demo site as beneficiary, and ZNU is academic. The 'maybe' verdict flips to 'yes' if TU Freiberg or NTNU confirms an industrial host (German/Norwegian/EU non-ferrous metals plant) and is willing to anchor a consortium with ZNU as WP-lead on simulation, digital twin, and a Ukrainian replication case study. Decision gate: contact TU Freiberg's industry-liaison office in the next 2 weeks. If no host materialises by mid-June, defer.",
+      "uk": "Сильна технічна відповідність у домені металургійного процесного тепла, але ЗНУ не може очолювати — топік вимагає індустріального demo-сайту як бенефіціара, а ЗНУ — академічний. Вердикт «можливо» перевертається на «так», якщо TU Freiberg або NTNU підтверджує індустріального хоста (німецький/норвезький/ЄС завод кольорових металів) і готовий якірувати консорціум з ЗНУ як WP-лідером по симуляції, цифровому двійнику і кейсу української реплікації. Decision gate: звернутися до офісу industry-liaison TU Freiberg у наступні 2 тижні. Якщо хост не з'явиться до середини червня — відкласти."
+    }
+  }
+}

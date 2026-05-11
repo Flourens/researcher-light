@@ -1,0 +1,111 @@
+{
+  "grantId": "HORIZON-CL5-2026-09-D4-02",
+  "fetchedAt": "2026-05-11T11:00:00Z",
+  "analyzedAt": "2026-05-11T11:35:00Z",
+  "grant": {
+    "title": {
+      "en": "Low disturbance prefabrication approaches for deep renovation of multi-storey buildings (Built4People Partnership)",
+      "uk": "Підходи з низькоінвазивної префабрикації для глибокої реновації багатоповерхових будівель (Партнерство Built4People)"
+    },
+    "callIdentifier": "HORIZON-CL5-2026-09 (BATTERIES and ENERGY)",
+    "type": {"en": "HORIZON Innovation Actions (IA), Built4People Partnership", "uk": "HORIZON Інноваційні дії (IA), партнерство Built4People"},
+    "typeCode": "1",
+    "deadline": "2026-09-15",
+    "deadlineModel": {
+      "en": "Single-stage; deadline 2026-09-15. Lump-sum. TRL 6-8 by project end. Demonstrate on 3 multi-storey (>5-storeys) buildings in 3 different MS/AC.",
+      "uk": "Однораундовий; дедлайн 15.09.2026. Lump-sum. TRL 6-8 на кінець. Демо на 3 багатоповерхових (>5 поверхів) будівлях у 3 різних MS/AC."
+    },
+    "budgetTotal": {"en": "EUR 28,000,000 envelope (4 expected grants)", "uk": "28 000 000 євро (4 гранти)"},
+    "budgetPerProject": {"en": "EUR 7,000,000 fixed", "uk": "7 000 000 євро фіксовано"},
+    "expectedOutcome": {
+      "en": "Measurable reduction in deep-renovation costs vs current best practice; measurable increase in resource/energy efficiency; measurable reduction in days of occupant disturbance; measurable reduction of dust, noise, waste, pollutant and GHG emissions on construction site.",
+      "uk": "Помітне скорочення витрат на глибоку реновацію vs поточна best practice; помітне підвищення resource/energy ефективності; помітне скорочення днів дискомфорту мешканців; помітне скорочення пилу, шуму, відходів, polutant і GHG викидів на будмайданчику."
+    },
+    "scope": {
+      "en": "Cost-effective deep-renovation approaches to ≥NZEB performance levels for multi-storey buildings (>5 storeys), using prefabricated solutions adaptable to varied existing building elements. Whole workflow: design, off-site manufacturing, on-site installation, maintenance/operation/end-of-life strategies. Minimise on-site time and disturbance for occupants. Demonstrate on 3 multi-storey buildings in 3 different MS/AC across residential or non-residential categories. Contribute to Built4People Partnership objectives and KPIs.",
+      "uk": "Cost-effective підходи до глибокої реновації до рівня NZEB+ для багатоповерхівок (>5 поверхів), з префабрикованими рішеннями адаптивними до різноманітних існуючих елементів будівель. Повний workflow: дизайн, off-site виробництво, on-site інсталяція, стратегії експлуатації / end-of-life. Мінімізувати on-site час і дискомфорт мешканців. Демо на 3 багатоповерхівках у 3 різних MS/AC у різних категоріях (житло/нежитло). Контрибуція до цілей і KPI партнерства Built4People."
+    },
+    "topicsKeywords": [
+      {"en": "deep renovation NZEB+", "uk": "глибока реновація NZEB+"},
+      {"en": "prefabrication / off-site manufacturing", "uk": "префабрикація / off-site виробництво"},
+      {"en": "occupant comfort during renovation", "uk": "комфорт мешканців під час реновації"},
+      {"en": "Built4People Partnership", "uk": "партнерство Built4People"},
+      {"en": "multi-storey buildings >5 storeys", "uk": "багатоповерхівки >5 поверхів"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Standard HE IA minimum (3 independent entities / 3 MS-AC). No topic-specific extra requirement, but the topic implicitly requires building owners / construction-industry partners as beneficiaries to host the three demo buildings.",
+      "uk": "Стандартний мінімум HE IA (3 незалежні / 3 MS-AC). Топіко-специфічних додаткових вимог немає, але імпліцитно потрібні власники будівель / будівельно-індустріальні партнери як бенефіціари — host для трьох demo-будівель."
+    },
+    "requiredCountries": {
+      "en": "EU MS + HE Associated Countries. Ukraine eligible. UK partners — verify HE association for INFRA/CL5 topics.",
+      "uk": "Держави-члени ЄС + країни асоційовані з HE. Україна прийнятна. Британські партнери — перевірити HE-асоціацію для INFRA/CL5."
+    },
+    "otherConstraints": {
+      "en": "Built4People co-programmed Partnership rules apply; must contribute to B4P KPIs and innovation-cluster knowledge transfer. Lump-sum reporting. If EO data used → Copernicus/Galileo. 4-year EC IPR override.",
+      "uk": "Застосовуються правила co-programmed партнерства Built4People; контрибуція в KPI B4P і знаннєвий трансфер у innovation-clusters. Lump-sum звітування. Якщо EO дані → Copernicus/Galileo. 4-річний IPR override ЄК."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Prefabricated deep-renovation solutions for multi-storey buildings", "uk": "Префабриковані рішення глибокої реновації для багатоповерхівок"},
+        "znuArea": {"en": "— (no architecture / building physics / construction-engineering capacity)", "uk": "— (немає архітектурної / будівельної фізики / construction-engineering спроможності)"},
+        "strength": "low",
+        "rationale": {
+          "en": "ZNU's profile does not list construction engineering, architecture, building physics, prefab manufacturing or facade engineering. The topic is owned by built-environment specialists (ECTP / Built4People network).",
+          "uk": "Профіль ЗНУ не вказує construction engineering, архітектуру, будівельну фізику, префаб-виробництво чи фасадну інженерію. Топік належить спеціалістам built environment (ECTP / Built4People мережа)."
+        }
+      },
+      {
+        "grantTopic": {"en": "Energy efficiency / NZEB performance evaluation", "uk": "Енергоефективність / NZEB-оцінювання"},
+        "znuArea": {"en": "Smart Grids + Renewable Energy (general)", "uk": "Smart grids + відновлювана енергетика (загально)"},
+        "strength": "low",
+        "rationale": {
+          "en": "Tangential. NZEB performance evaluation is a niche of building-energy specialists, not power-system researchers like ZNU.",
+          "uk": "Дотично. NZEB-оцінювання — ніша спеціалістів building-energy, не дослідників power-system як ЗНУ."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Weak. No building-physics labs, no climate-chamber testing capacity, no prefab manufacturing partners. HPC and digital-twin capacity could in principle contribute simulation, but the topic is dominated by physical-demonstration deliverables.",
+      "uk": "Слабкий. Немає building-physics лабораторій, climate-chamber тестування, prefab manufacturing партнерів. HPC і цифровий двійник можуть теоретично долучитися з симуляцією, але топік домінують deliverables фізичної демонстрації."
+    },
+    "partnershipFit": {
+      "en": "Weak. None of ZNU's listed partners is in Built4People innovation-cluster network. Topic competition is dominated by ECTP members and large construction-tech consortia (Saint-Gobain, Velux, ROCKWOOL, Knauf etc.).",
+      "uk": "Слабка. Жоден з названих партнерів ЗНУ не в Built4People innovation-cluster мережі. Конкурс домінують члени ECTP і великі construction-tech консорціуми (Saint-Gobain, Velux, ROCKWOOL, Knauf тощо)."
+    },
+    "trackRecordFit": {
+      "en": "Insufficient. No documented building-renovation / construction-research project history.",
+      "uk": "Недостатній. Немає задокументованої історії проєктів building-renovation / construction-research."
+    },
+    "warContextRelevance": {
+      "en": "Low for the topic as stated. Reconstruction of Ukrainian housing stock is a clear future case, but THIS topic specifically targets best-practice deep-renovation of existing multi-storey stock in stable jurisdictions — not war-damaged buildings.",
+      "uk": "Низька для топіка як він є. Реконструкція українського житлового фонду — очевидний майбутній кейс, але ЦЕЙ топік цільований на best-practice глибоку реновацію існуючого фонду у стабільних юрисдикціях — не на пошкоджені війною будівлі."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "shouldApply": "no",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "Skip. Topic is owned by Built4People innovation cluster — ZNU is structurally and disciplinarily outside this network.",
+      "uk": "Пропустити. Топік належить кластеру Built4People — ЗНУ структурно й дисциплінарно поза цією мережею."
+    },
+    "strengths": [
+      {"en": "Ukraine HE-eligible at country level (so no blanket country blocker).", "uk": "Україна прийнятна на країнному рівні (немає blanket-блокера)."}
+    ],
+    "risks": [
+      {"en": "No construction / architecture / building-physics research capacity in ZNU profile.", "uk": "Немає construction / architecture / building-physics дослідницької спроможності у профілі ЗНУ."},
+      {"en": "Built4People Partnership network is closed-club; non-members rarely succeed.", "uk": "Мережа партнерства Built4People — закритий клуб; не-члени рідко успішні."},
+      {"en": "Topic requires physical demo on 3 multi-storey buildings in 3 MS/AC — no path for ZNU to anchor this.", "uk": "Топік вимагає фізичне демо на 3 багатоповерхівках у 3 MS/AC — у ЗНУ немає шляху якірувати це."}
+    ],
+    "rationale": {
+      "en": "Both domain and consortium-network gaps are unrecoverable for this call. Built4People-aligned topics need ECTP-network anchors and physical building-renovation demo capacity. ZNU has neither. Skip.",
+      "uk": "Прогалини і в домені, і в мережі консорціуму — неподоланні для цього конкурсу. Built4People-орієнтовані топіки потребують ECTP-network якорів і фізичної демо-спроможності building-renovation. У ЗНУ ні того, ні іншого. Пропустити."
+    }
+  }
+}

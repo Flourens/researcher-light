@@ -1,0 +1,201 @@
+GRANT CALL: Introducing circular economy models in the construction sector, from buildings to city scale
+Identifier: HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03
+Call: HORIZON-MISS-2026-04 — Supporting the implementation of the Climate-Neutral and Smart Cities Mission
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-10-08T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113037": [
+      {
+        "action": "HORIZON-MISS-2026-04-CIT-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 10000000,
+        "maxContribution": 10000000,
+        "budgetYearMap": {
+          "2026": "20000000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-10-08"
+        ]
+      }
+    ],
+    "113036": [
+      {
+        "action": "HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 5,
+        "minContribution": 9500000,
+        "maxContribution": 9500000,
+        "budgetYearMap": {
+          "2026": "47500000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-10-08"
+        ]
+      }
+    ],
+    "113038": [
+      {
+        "action": "HORIZON-MISS-2026-04-CIT-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "18000000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-10-08"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to all of the following expected outcomes:
+
+- Measurable increase in the number of tools and solutions at district or city level that are supporting the application of circular economy models by public and private stakeholders active in the construction sector;
+- Measurable reduction of material use and an increase of reuse and recycling in the construction sector as a result of the introduction of new and replicable business models;
+- Measurable reduction in the energy and other resources use and the whole life-cycle GHG emissions of buildings[1] and building stock (residential and non-residential) by introducing circular economy activities at building, district and city level.
+ Scope:
+
+Applying circularity principles in the construction sector at building, district and city level can reduce the whole life-cycle GHG emissions and support more efficient resource use of the building stock, and help deliver climate-neutral, smart and circular cities, and a more sustainable built environment. To achieve this, there is a need for tools, solutions and associated business models with market potential that facilitate the adoption of inclusive circular construction economy models, as well as a more efficient use of buildings, ultimately reducing the need to extract raw materials.
+
+Proposals are expected to address all of the following:
+
+- Develop and demonstrate tools and solutions at district or city level to support the introduction of circularity principles in the construction sector, and quantify their impacts (for example: urban mining; reuse and recycling of construction products and materials and other resources, use of secondary biobased materials; building’s innovative, accessible and adaptive design, renovation, and repurposing of buildings in line with waste prevention and circular economy principles).
+- Develop and demonstrate solutions for the diagnosis and performance characterisation of used construction products and demolition waste, in terms of their condition and potential reuse, and to create inventories of reclaimed products and materials, as well as appropriate business models including marketplace tools with components and material banks.
+- Develop and demonstrate whole life-cycle GHG emissions inventories of buildings to support decision-making and public actions in line with the Energy Performance of Buildings Directive (EPBD) recast.
+- Contribute to reducing regulatory barriers and developing standards, where relevant.
+- Ensure the integration of different value chains, active involvement of all relevant construction sector stakeholders, policy-makers and the people impacted by the solutions developed, including SMEs, building owners, local authorities and civil society.
+- Demonstrate the proposed tools and solutions in at least three cities, each from a different Member State or Associated Country, including with a view to showcase potential for large scale cross-border re-use of construction materials and products. The cities must participate as beneficiaries. At least one of the three cities must be one of the 112 cities participating in the EU Mission on Climate-Neutral and Smart Cities. 
+ Given its focus on circularity, this topic contributes to the implementation of the Cities Mission, the New European Bauhaus (NEB), the European Partnership on 'People-centric Sustainable Built Environment' (B4P), and the EU Circular Cities and Regions Initiative (CCRI).
+
+Projects are encouraged to engage in clustering activities with other relevant Horizon Europe projects that share a common theme and address similar issues, and/or are connected to the aforementioned initiatives. This approach aims to promote synergies and complementarities. To this end, proposals should include a dedicated task, allocate appropriate resources, and develop a plan for collaboration with relevant projects, partners, and initiatives. Moreover, proposals are expected to ensure that their dissemination and exploitation strategies feature dedicated (and possibly joint) actions for promoting their results and lessons learned on relevant platforms, such as the Cities Mission Platform, the NEB hub for results and impact, B4P[2] and CCRI[3] websites, and through related channels. Such activities will facilitate knowledge exchange, encourage the replication and uptake of solutions, and maximise impact.
+
+This action supports the follow-up to the July 2023 Communication on EU Missions assessment[4].
+
+null
+
+Activities are expected to achieve TRL 7-8 by the end of the project – see General Annex B.
+
+[1]  See Article 2(24) of Directive (EU) 2024/1275
+
+[2]  https://built4people.eu/b4pic_network/
+
+[3] https://circular-cities-and-regions.ec.europa.eu/ccri-projects
+
+[4] COM(2023) 457 final and SWD(2023) 260 final
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+﻿described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+The following additional eligibility criteria apply:
+
+At least three cities, represented by a local authority or by an entity with an explicit consent from the local authority, each from a different Member State or Associated Country, must participate as beneficiaries. At least one of the three cities must be one of the 112 cities selected for the EU Mission on Climate-neutral and Smart Cities[[ The EU Mission on Climate-Neutral and Smart Cities aims to deliver 100 climate-Neutral and smart cities by 2030 and ensure that these cities act as experimentation and innovation hubs to enable all European cities to follow suit by 2050. On 28 April 2022, the Commission announced the 100 EU cities that will participate in the Mission. In addition, 12 cities have been selected from countries associated or expected to be associated the Horizon Europe programme.]].
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+Grants awarded under this topic will be linked to the following action(s):
+
+HORIZON-MISS-2021-CIT-02-03
+
+Collaboration with the Cities Mission Platform[[Set up by Horizon 2020 project NetZeroCities - Accelerating cities' transition to net zero emissions by 2030, Grant Agreement n. 101036519, and scaled up through topic HORIZON-MISS-2021-CIT-02-03: Framework Partnership Agreement (FPA) for the Climate-Neutral and Smart Cities Mission Platform.]] is essential and projects must ensure that appropriate provisions for activities and resources aimed at enforcing this collaboration are included in the work plan of the proposal. The collaboration with the Cities Mission Platform must be formalized through a Memorandum of Understanding to be concluded as soon as possible after the project starting date.
+
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ Not applicable.
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 12. Missions
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement
+
+=== DOCUMENT LINKS ===
+- HORIZON Innovation Actions: https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43398?topic=HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03

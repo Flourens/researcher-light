@@ -1,0 +1,101 @@
+{
+  "grantId": "HORIZON-MISS-2027-07-CLIMA-CIT-CCRI-02",
+  "fetchedAt": "2026-05-11T11:00:00Z",
+  "analyzedAt": "2026-05-11T11:50:00Z",
+  "grant": {
+    "title": {
+      "en": "Deploying innovative wastewater management, treatment and valorisation solutions in European cities and regions in the context of climate change",
+      "uk": "Розгортання інноваційних рішень з управління, очищення та валоризації стічних вод у європейських містах і регіонах у контексті змін клімату"
+    },
+    "callIdentifier": "HORIZON-MISS-2027-07 (joint Cities Mission + Adaptation Mission call)",
+    "type": {"en": "HORIZON Innovation Actions (IA)", "uk": "HORIZON Інноваційні дії (IA)"},
+    "typeCode": "1",
+    "deadline": "2027-09-22",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2027-09-22 (~16 months from today — opens for proposals 2027-02-09). Mandatory MOU with Cities Mission Platform and Adaptation Mission Platform after kickoff. TRL 7-8 by project end.",
+      "uk": "Однораундовий; дедлайн подачі 22.09.2027 (~16 міс; відкривається для пропозицій 09.02.2027). Обов'язковий MOU з Cities Mission Platform і Adaptation Mission Platform після старту. TRL 7-8 на кінець."
+    },
+    "budgetTotal": {"en": "EUR 28,500,000 envelope (3 expected grants)", "uk": "28 500 000 євро (3 гранти)"},
+    "budgetPerProject": {"en": "EUR 9,500,000 fixed", "uk": "9 500 000 євро фіксовано"},
+    "expectedOutcome": {
+      "en": "Cities/regions equipped with innovative climate-adapted urban wastewater management practices (energy efficiency, energy and secondary-raw-material recovery, water reuse). Treatment infrastructures/management solutions deployed and upscaled for water/stormwater/wastewater with positive effects on climate adaptation, biodiversity, pollution reduction, resource valorisation, energy efficiency. Knowledge dissemination and actionable insights for replication/upscaling and addressing admin/governance/financing barriers.",
+      "uk": "Міста/регіони отримують інноваційні climate-adapted практики управління міськими стічними водами (енергоефективність, відновлення енергії і вторинної сировини, повторне використання води). Інфраструктура очищення/управлінські рішення розгорнуті й upscaled для води / зливових / стічних вод з позитивними ефектами на адаптацію, біорізноманіття, скорочення забруднень, валоризацію ресурсів, енергоефективність. Дисемінація знань і actionable insights для реплікації / upscaling і подолання admin / governance / financing бар'єрів."
+    },
+    "scope": {
+      "en": "Integrated approaches addressing ≥3 of: nature-based solutions (wetlands, vegetated ditches), sustainable urban drainage and green-blue stormwater management, energy efficiency/recovery from sewers and UWWTPs (waste heat, biogas from sludge, solar), regional pooling of resource-recovery investments + local end-of-waste regulatory work. All projects must address wastewater reuse, demo + replication, governance/financing barriers. UWWT Directive recast (Directive 2024/3019) sets the energy-neutrality compliance frame. Synergies with Water4All co-funded partnership, European Water Resilience Strategy, Hubs4Circularity etc.",
+      "uk": "Інтегровані підходи, що адресують ≥3 з: nature-based solutions (wetlands, vegetated ditches), стале urban drainage і зелено-блакитне stormwater management, енергоефективність / recovery з каналізаційних мереж і UWWTP (waste heat, biogas зі sludge, сонячна), регіональний пулінг інвестицій у resource recovery + локальна end-of-waste регуляторна робота. Усі проєкти ОБОВ'ЯЗКОВО адресують повторне використання стічних вод, демо + replication, governance / financing бар'єри. UWWT Directive recast (Directive 2024/3019) задає рамку дотримання energy-neutrality. Синергії з Water4All co-funded партнерством, European Water Resilience Strategy, Hubs4Circularity тощо."
+    },
+    "topicsKeywords": [
+      {"en": "urban wastewater treatment (UWWT)", "uk": "очищення міських стічних вод (UWWT)"},
+      {"en": "Cities Mission + Adaptation Mission joint", "uk": "Cities Mission + Adaptation Mission спільно"},
+      {"en": "nature-based solutions (wetlands, vegetated ditches)", "uk": "nature-based solutions (wetlands, vegetated ditches)"},
+      {"en": "biogas from sludge / waste-heat recovery", "uk": "biogas зі sludge / waste-heat recovery"},
+      {"en": "Water4All Partnership synergy", "uk": "синергія з Water4All Partnership"},
+      {"en": "CCRI", "uk": "CCRI"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "HARD topic-specific requirement: entities from at least FOUR cities or regions, each from a different MS/AC, must participate as beneficiaries; on-the-ground testing in ≥2 demonstrator cities/regions, engagement with ≥2 replicator cities/regions. Local water-management organisations must be in the consortium for participating cities/regions. AT LEAST ONE entity must be from one of the 112 Cities Mission cities AND AT LEAST ONE must be from an Adaptation Mission Charter signatory. Two structural city/region gates.",
+      "uk": "ЖОРСТКА топіко-специфічна вимога: суб'єкти з принаймні ЧОТИРЬОХ міст або регіонів, кожен з різної MS/AC, повинні бути бенефіціарами; on-the-ground тестування у ≥2 demonstrator містах/регіонах, engagement з ≥2 replicator містах/регіонах. Місцеві water-management організації мають бути у консорціумі для участі міст/регіонів. ЩОНАЙМЕНШЕ ОДИН суб'єкт — з 112 міст Cities Mission ТА ЩОНАЙМЕНШЕ ОДИН — з signatory Adaptation Mission Charter. Два структурні гейти за містами/регіонами."
+    },
+    "requiredCountries": {"en": "EU MS + HE Associated Countries. Ukraine eligible at country level (e.g. Kyiv, Lviv are Mission-eligible Ukrainian cities; Zaporizhzhia would need to verify Charter signatory status separately).", "uk": "Держави-члени ЄС + HE асоційовані. Україна прийнятна на країнному рівні (наприклад, Київ, Львів — Mission-прийнятні українські міста; статус Запоріжжя як Charter signatory треба перевіряти окремо)."},
+    "otherConstraints": {
+      "en": "Mandatory MOU with both Mission Platforms (Cities + Adaptation) after start. UWWT Directive recast compliance. TRL 7-8. Synergies with Water4All Partnership and European Water Resilience Strategy.",
+      "uk": "Обов'язковий MOU з обома Mission Platforms (Cities + Adaptation) після старту. Дотримання UWWT Directive recast. TRL 7-8. Синергії з Water4All Partnership і European Water Resilience Strategy."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Urban wastewater treatment + resource recovery", "uk": "Очищення міських стічних вод + resource recovery"},
+        "znuArea": {"en": "— (no documented wastewater / water-engineering research)", "uk": "— (немає задокументованих wastewater / water-engineering досліджень)"},
+        "strength": "low",
+        "rationale": {
+          "en": "Wastewater engineering is a specialised domain (civil/environmental engineering, water-utility R&D). Not in ZNU's profile.",
+          "uk": "Wastewater engineering — спеціалізований домен (civil/environmental engineering, water-utility R&D). Не в профілі ЗНУ."
+        }
+      },
+      {
+        "grantTopic": {"en": "Energy efficiency / waste-heat / biogas recovery from UWWTPs", "uk": "Енергоефективність / waste-heat / biogas з UWWTP"},
+        "znuArea": {"en": "Smart Grids + Renewable Energy + Catalysis (tangentially)", "uk": "Smart grids + відновлювана енергетика + каталіз (дотично)"},
+        "strength": "low",
+        "rationale": {
+          "en": "Adjacent on the energy side (biogas, waste heat) but ZNU has no documented UWWTP-energy expertise; would need a wastewater-utility partner to be useful.",
+          "uk": "Дотично на енергетичному боці (biogas, waste heat), але у ЗНУ немає задокументованої UWWTP-енергетичної експертизи; потрібен wastewater-utility партнер, щоб бути корисним."
+        }
+      }
+    ],
+    "resourceFit": {"en": "Weak. No water-engineering / hydrology / wastewater-treatment infrastructure in the ZNU profile (Hydropower College is hydropower-generation, not wastewater).", "uk": "Слабкий. Немає water-engineering / hydrology / wastewater-treatment інфраструктури у профілі ZNU (Гідроенергетичний коледж — про гідрогенерацію, не wastewater)."},
+    "partnershipFit": {"en": "Weak. None of ZNU's listed partners brings a city + water-utility combination required for the hard eligibility gate.", "uk": "Слабка. Жоден з названих партнерів ZNU не приводить комбінацію місто + water-utility, потрібну для жорсткого eligibility-гейта."},
+    "trackRecordFit": {"en": "Insufficient — no Cities Mission / Adaptation Mission / Water4All / CCRI history.", "uk": "Недостатній — немає історії Cities Mission / Adaptation Mission / Water4All / CCRI."},
+    "warContextRelevance": {
+      "en": "Moderate as future case: wartime damage to Ukrainian water infrastructure makes reconstruction of UWWT systems a strategic theme. But this specific topic asks for innovative deployment in stable cities, not war-damaged systems.",
+      "uk": "Помірна як майбутній кейс: воєнні пошкодження української водної інфраструктури роблять реконструкцію UWWT стратегічною темою. Але цей конкретний топік питає про інноваційне розгортання у стабільних містах, не у воєнно-пошкоджених системах."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "shouldApply": "no",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "Skip. If post-war reconstruction makes UWWT relevant for Ukrainian cities later, the strategic move is to broker a partnership between a Ukrainian Cities-Mission city (Kyiv, Lviv) and a water-utility — but that's a multi-year initiative, not this call.",
+      "uk": "Пропустити. Якщо післявоєнна реконструкція зробить UWWT релевантним для українських міст пізніше, стратегічний хід — посередничати у партнерстві між українським Cities-Mission містом (Київ, Львів) і water-utility — але це багаторічна ініціатива, не цей конкурс."
+    },
+    "strengths": [
+      {"en": "Ukraine HE-eligible.", "uk": "Україна прийнятна для HE."},
+      {"en": "Long timeline (16 months to deadline) means there is in-principle time to build a position — but only with a real domain partner.", "uk": "Тривалий таймлайн (16 міс до дедлайну) — в принципі є час побудувати позицію — але тільки з реальним доменним партнером."}
+    ],
+    "risks": [
+      {"en": "TWO hard eligibility gates: ≥4 cities/regions across 4 MS/AC + ≥1 Cities Mission city + ≥1 Adaptation Mission Charter signatory + local water utilities in the consortium.", "uk": "ДВА жорсткі eligibility-гейти: ≥4 міст/регіонів з 4 MS/AC + ≥1 місто Cities Mission + ≥1 signatory Adaptation Mission Charter + локальні water utilities у консорціумі."},
+      {"en": "No water-engineering / wastewater / hydrology research capacity at ZNU.", "uk": "Немає water-engineering / wastewater / hydrology дослідницької спроможності у ЗНУ."},
+      {"en": "Field dominated by Water Europe / Water4All Partnership incumbents.", "uk": "Поле домінують Water Europe / Water4All Partnership інкумбенти."}
+    ],
+    "rationale": {
+      "en": "Both eligibility (cities + water utilities + Mission/Charter signatories) and domain (wastewater engineering) are far from ZNU's reach. The 16-month timeline doesn't help if there is no foundational competence to build on. Skip — but flag as a topic where, if ZNU's strategy evolves to broker Ukrainian-city reconstruction partnerships (Kyiv/Lviv + water utility + EU Mission cities), the future iterations of this MISS line could become relevant.",
+      "uk": "І eligibility (міста + water utilities + Mission/Charter signatories), і домен (wastewater engineering) — далеко від досяжності ЗНУ. 16-місячний таймлайн не допомагає, якщо немає фундаментальної компетенції, на яку будуватися. Пропустити — але позначити як тему, де при еволюції стратегії ЗНУ у бік посередництва партнерств реконструкції українських міст (Київ/Львів + water utility + ЄС Mission cities), майбутні ітерації цієї MISS-лінії можуть стати релевантними."
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "grantId": "HORIZON-CL6-2026-02-FARM2FORK-06",
+  "fetchedAt": "2026-05-11T11:00:00Z",
+  "analyzedAt": "2026-05-11T11:40:00Z",
+  "grant": {
+    "title": {
+      "en": "Advanced innovative solutions for improved competitiveness and sustainability in controlled environment agriculture (CEA)",
+      "uk": "Передові інноваційні рішення для підвищення конкурентоспроможності та сталості в контрольованому середовищному сільському господарстві (CEA)"
+    },
+    "callIdentifier": "HORIZON-CL6-2026-02",
+    "type": {"en": "HORIZON Innovation Actions (IA)", "uk": "HORIZON Інноваційні дії (IA)"},
+    "typeCode": "1",
+    "deadline": "2026-04-14",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-04-14 — ALREADY CLOSED (today is 2026-05-11). The call ended ~4 weeks before this analysis. No way to apply to this specific topic in the current cycle.",
+      "uk": "Однораундовий; дедлайн подачі 14.04.2026 — ВЖЕ ЗАКРИТИЙ (сьогодні 11.05.2026). Конкурс закрився ~4 тижні тому. Подати на цей конкретний топік у поточному циклі неможливо."
+    },
+    "budgetTotal": {"en": "EUR 12,000,000 envelope (2 expected grants)", "uk": "12 000 000 євро (2 гранти)"},
+    "budgetPerProject": {"en": "EUR 6,000,000 fixed", "uk": "6 000 000 євро фіксовано"},
+    "expectedOutcome": {
+      "en": "Farmers supported in transition to innovative controlled environment farming with decision support tools for sustainable growth optimisation. Improved competitiveness and sustainability (climate mitigation/adaptation) in CEA benefiting all relevant actors.",
+      "uk": "Підтримка фермерів у переході до інноваційного controlled-environment farming з decision-support інструментами для оптимізації сталого зростання. Покращена конкурентоспроможність і сталість (mitigation/адаптація клімату) в CEA — на користь усім стейкхолдерам."
+    },
+    "scope": {
+      "en": "AI/data-driven innovation for greenhouses, vertical farms, hydroponics, aquaponics, aeroponics, building-integrated agriculture. Predictive analytics for plant growth (AI modelling), smart automation, precision farming. Multi-actor approach required. May involve FSTP up to €60K per third party (max 30% of EU funding). TRL 6-7. Synergy with FARM2FORK-2025-08 expected.",
+      "uk": "AI/data-driven інновації для теплиць, вертикальних ферм, hydroponics, aquaponics, aeroponics, building-integrated agriculture. Прогнозна аналітика росту рослин (AI моделювання), smart automation, precision farming. Multi-actor підхід обов'язковий. Можлива FSTP до 60К євро на третю сторону (макс 30% фінансування ЄС). TRL 6-7. Очікується синергія з FARM2FORK-2025-08."
+    },
+    "topicsKeywords": [
+      {"en": "Controlled Environment Agriculture (CEA)", "uk": "Controlled Environment Agriculture (CEA)"},
+      {"en": "vertical farming / hydroponics / aeroponics", "uk": "вертикальне фермерство / hydroponics / aeroponics"},
+      {"en": "AI / predictive analytics for plant growth", "uk": "AI / прогнозна аналітика росту рослин"},
+      {"en": "FSTP up to 30%", "uk": "FSTP до 30%"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Standard HE IA minimum (3 / 3 MS-AC). Multi-actor approach mandatory: must involve farmers, SMEs, start-ups, scientists, developers. ALREADY MOOT — the call is closed.",
+      "uk": "Стандартний мінімум HE IA (3 / 3 MS-AC). Multi-actor підхід обов'язковий: фермери, SME, стартапи, науковці, розробники. ВЖЕ НЕМОЖЛИВО — конкурс закритий."
+    },
+    "requiredCountries": {"en": "EU MS + HE AC. Moot — call closed.", "uk": "Держави-члени ЄС + асоційовані з HE. Нерелевантно — конкурс закритий."},
+    "otherConstraints": {
+      "en": "Multi-actor approach. Lump-sum. FSTP allowed up to 30% of EU funding, max €60K per third party. 4-year EC IPR override. Already-closed call: deadline 2026-04-14, today 2026-05-11.",
+      "uk": "Multi-actor підхід. Lump-sum. FSTP дозволене до 30% фінансування, макс 60К євро на одну третю сторону. 4-річний IPR override ЄК. Конкурс уже закритий: дедлайн 14.04.2026, сьогодні 11.05.2026."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "AI/data-driven plant-growth optimisation", "uk": "AI/data-driven оптимізація росту рослин"},
+        "znuArea": {"en": "AI/ML + HPC (general)", "uk": "AI/ML + HPC (загально)"},
+        "strength": "medium",
+        "rationale": {
+          "en": "ZNU's general AI/ML and HPC capacity transfers — but applying it to plant physiology and CEA requires domain expertise ZNU lacks.",
+          "uk": "Загальна спроможність ZNU у AI/ML і HPC переноситься — але застосування до фізіології рослин і CEA потребує доменної експертизи, якої у ЗНУ немає."
+        }
+      },
+      {
+        "grantTopic": {"en": "Greenhouses, vertical farms, hydroponics, aquaponics", "uk": "Теплиці, вертикальні ферми, hydroponics, aquaponics"},
+        "znuArea": {"en": "— (no documented agronomy / CEA / plant-science capacity)", "uk": "— (немає задокументованої агрономії / CEA / plant-science спроможності)"},
+        "strength": "low",
+        "rationale": {
+          "en": "No documented agriculture / plant biology / horticulture / aquaculture research at ZNU.",
+          "uk": "Немає задокументованих досліджень agriculture / plant biology / horticulture / aquaculture у ЗНУ."
+        }
+      }
+    ],
+    "resourceFit": {"en": "Weak. No CEA infrastructure, no agronomy labs.", "uk": "Слабкий. Немає CEA інфраструктури, немає agronomy лабораторій."},
+    "partnershipFit": {"en": "Weak. None of ZNU's partners is in CEA/agri-tech.", "uk": "Слабка. Жоден з партнерів ЗНУ не в CEA/agri-tech."},
+    "trackRecordFit": {"en": "Insufficient — no CL6 / agricultural research history.", "uk": "Недостатній — немає історії CL6 / agricultural research."},
+    "warContextRelevance": {
+      "en": "Moderate in principle (food security under wartime disruption) but doesn't change that the call is closed.",
+      "uk": "Помірна в принципі (продовольча безпека у воєнних умовах), але не змінює того, що конкурс закритий."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "shouldApply": "no",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "N/A — call closed (deadline 2026-04-14 has passed). Track the next iteration (likely HORIZON-CL6-2027-FARM2FORK) only if ZNU recruits or partners with an agronomy/CEA research group.",
+      "uk": "Н/Д — конкурс закритий (дедлайн 14.04.2026 минув). Слідкувати за наступною ітерацією (ймовірно HORIZON-CL6-2027-FARM2FORK) лише якщо ЗНУ найме чи партнериться з agronomy/CEA дослідницькою групою."
+    },
+    "strengths": [
+      {"en": "AI/ML capacity could in principle contribute predictive analytics to a CEA consortium.", "uk": "Спроможність AI/ML могла б теоретично долучитися до consortium-у CEA з прогнозною аналітикою."}
+    ],
+    "risks": [
+      {"en": "CALL ALREADY CLOSED (deadline 2026-04-14, today 2026-05-11). Cannot apply this cycle.", "uk": "КОНКУРС УЖЕ ЗАКРИТИЙ (дедлайн 14.04.2026, сьогодні 11.05.2026). Подати у цьому циклі неможливо."},
+      {"en": "Domain mismatch: no agronomy / CEA / plant-science capacity at ZNU.", "uk": "Доменна невідповідність: немає agronomy / CEA / plant-science спроможності у ЗНУ."}
+    ],
+    "rationale": {
+      "en": "The call submission deadline (2026-04-14) preceded today's date (2026-05-11) by ~4 weeks — the call is closed. Even if it were open, ZNU has no documented capacity in agronomy, plant science, horticulture, aquaculture, or CEA engineering, and the topic favours agri-tech and farmer-network consortia which ZNU's partner list does not include. Track FARM2FORK-2027 only if a strategic alignment with an agri-tech group emerges.",
+      "uk": "Дедлайн подачі (14.04.2026) на ~4 тижні раніше сьогоднішньої дати (11.05.2026) — конкурс закритий. Навіть якби був відкритий, у ЗНУ немає задокументованої спроможності в agronomy, plant science, horticulture, aquaculture, CEA-engineering, а топік сприяє agri-tech і farmer-network консорціумам, яких немає у списку партнерів ЗНУ. Відстежувати FARM2FORK-2027 лише при стратегічному alignment з agri-tech групою."
+    }
+  }
+}

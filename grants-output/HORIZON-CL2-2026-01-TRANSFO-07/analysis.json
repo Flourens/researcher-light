@@ -1,0 +1,126 @@
+{
+  "grantId": "HORIZON-CL2-2026-01-TRANSFO-07",
+  "fetchedAt": "2026-05-11T11:00:00Z",
+  "analyzedAt": "2026-05-11T11:10:00Z",
+  "grant": {
+    "title": {
+      "en": "Fostering competences for the green transition",
+      "uk": "Розвиток компетенцій для зеленого переходу"
+    },
+    "callIdentifier": "HORIZON-CL2-2026-01",
+    "type": {"en": "HORIZON RIA", "uk": "HORIZON Дослідницько-інноваційні дії (RIA)"},
+    "typeCode": "1",
+    "deadline": "2026-09-23",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-09-23 (~4.5 months from today). Lump-sum funding. 45-page Part B limit.",
+      "uk": "Однораундовий; дедлайн подачі 23.09.2026 (~4,5 міс). Lump-sum фінансування. Ліміт 45 сторінок Part B."
+    },
+    "budgetTotal": {"en": "EUR 12,000,000 envelope (3 expected grants)", "uk": "12 000 000 євро (3 гранти)"},
+    "budgetPerProject": {"en": "EUR 3,000,000 – 4,000,000", "uk": "3 000 000 – 4 000 000 євро"},
+    "expectedOutcome": {
+      "en": "Provide policymakers, education and training institutions, and social partners with a solid understanding of which competences young people and workers need to support the EU green transition. Actionable advice on education/training programmes for those competences. Guidance on the green↔digital transition interconnection.",
+      "uk": "Дати політикам, освітнім інституціям і соціальним партнерам розуміння того, які компетенції потрібні молоді й працівникам для підтримки зеленого переходу ЄС. Практичні поради щодо освітніх/тренінгових програм. Орієнтири щодо взаємозв'язку зеленого і цифрового переходів."
+    },
+    "scope": {
+      "en": "SSH-flavoured research on workforce competences for the green transition. Proposals MUST focus on ONE of 5 sectors: (1) sustainable agriculture and food production, (2) automotive, (3) ENERGY, (4) construction, (5) nature and climate adaptation. Use mixed quantitative + qualitative methods including SSH disciplines. Lifelong learning perspective. Address gender and disability dimensions. Explore synergies with NEB Facility and the European Partnership on Social Transformations and Resilience. Encourage clustering with H2020 Green Deal projects.",
+      "uk": "Дослідження в дусі SSH про компетенції робочої сили для зеленого переходу. Заявки ОБОВ'ЯЗКОВО фокусуються на ОДНОМУ з 5 секторів: (1) стале сільське господарство та виробництво їжі, (2) автомобільний, (3) ЕНЕРГЕТИКА, (4) будівництво, (5) природа й адаптація до клімату. Кількісні + якісні методи, у т.ч. SSH дисципліни. Перспектива lifelong learning. Адресувати гендерний і disability виміри. Синергії з NEB Facility і European Partnership on Social Transformations and Resilience. Заохочується кластеризація з проєктами H2020 Green Deal."
+    },
+    "topicsKeywords": [
+      {"en": "green skills / competences", "uk": "зелені навички / компетенції"},
+      {"en": "upskilling / reskilling", "uk": "upskilling / reskilling"},
+      {"en": "vocational education and training", "uk": "професійна освіта і навчання"},
+      {"en": "labour-market research (SSH)", "uk": "дослідження ринку праці (SSH)"},
+      {"en": "energy sector workforce", "uk": "робоча сила енергетичного сектору"},
+      {"en": "gender + disability inclusion", "uk": "гендерна + disability інклюзія"},
+      {"en": "lifelong learning", "uk": "lifelong learning"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Standard HE RIA minimum: 3 independent legal entities from 3 different MS/AC. No topic-specific extra requirement.",
+      "uk": "Стандартний мінімум HE RIA: 3 незалежні юр. особи з 3 різних держав-членів / асоційованих країн. Топіко-специфічних додаткових вимог немає."
+    },
+    "requiredCountries": {
+      "en": "EU MS + HE Associated Countries. Ukraine eligible.",
+      "uk": "Держави-члени ЄС + країни асоційовані з HE. Україна прийнятна."
+    },
+    "otherConstraints": {
+      "en": "Lump-sum reporting; detailed budget table mandatory. Multi-actor approach recommended (policy-makers, employers, training institutions). Mandatory clustering plan with other selected projects from this topic and from Green Deal H2020 calls.",
+      "uk": "Lump-sum звітування; обов'язкова таблиця детального бюджету. Рекомендований multi-actor підхід (політики, роботодавці, тренінгові установи). Обов'язковий план кластеризації з іншими обраними проєктами цього топіка та з конкурсів Green Deal H2020."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Workforce competences for the green transition in the ENERGY sector", "uk": "Компетенції робочої сили для зеленого переходу в ЕНЕРГЕТИЧНОМУ секторі"},
+        "znuArea": {"en": "Smart Grids + Renewable Energy + Hydropower + STEM/Engineering Education", "uk": "Smart grids + відновлювана енергетика + гідроенергетика + STEM/інженерна освіта"},
+        "strength": "high",
+        "rationale": {
+          "en": "ZNU has both halves of what this topic needs: technical energy expertise (so research questions can be grounded in real green-energy jobs) AND pedagogical/STEM-education capacity (so curriculum/training implications can be derived). Hydropower and Metallurgical Professional Colleges are direct vocational-education assets.",
+          "uk": "ЗНУ має обидві половини того, що потрібно цьому топіку: технічну енергетичну експертизу (щоб дослідження було «приземлене» в реальні зелено-енергетичні професії) ТА педагогічно-STEM спроможність (щоб виводити висновки для curriculum/тренінгу). Гідроенергетичний і Металургійний професійні коледжі — прямі активи для vocational-education."
+        }
+      },
+      {
+        "grantTopic": {"en": "Lifelong learning, vocational education and training (VET) accessibility", "uk": "Lifelong learning, доступність професійної освіти (VET)"},
+        "znuArea": {"en": "Pedagogical Sciences and Education Innovation + 14 Erasmus+ projects + blended/online learning under wartime", "uk": "Педагогічні науки та освітні інновації + 14 Erasmus+ проєктів + blended/online навчання у воєнних умовах"},
+        "strength": "high",
+        "rationale": {
+          "en": "ZNU is explicitly named as a TOP-10 Ukrainian university with a strong pedagogical-research profile and 14 Erasmus+ projects. The Erasmus+ portfolio is exactly the kind of operational evidence the topic asks for under VET accessibility. Wartime blended-learning experience is a unique data source for the 'flexible response to evolving labour market needs' research question.",
+          "uk": "ЗНУ явно позначений як ТОП-10 український університет з сильним педагогічно-дослідницьким профілем і 14 Erasmus+ проєктами. Портфоліо Erasmus+ — саме той операційний доказ, якого вимагає топік щодо доступності VET. Досвід воєнного blended-навчання — унікальне джерело даних для дослідницького питання про «гнучку відповідь на потреби ринку праці»."
+        }
+      },
+      {
+        "grantTopic": {"en": "Disadvantaged groups / disrupted workforce pathways", "uk": "Незахищені групи / порушені кар'єрні траєкторії"},
+        "znuArea": {"en": "Frontline-region operational context — displaced students/workers, women in disrupted economy", "uk": "Операційний контекст прифронтового регіону — переміщені студенти/працівники, жінки в порушеній економіці"},
+        "strength": "medium",
+        "rationale": {
+          "en": "The topic explicitly asks about pathways for disadvantaged groups, including NEETs and gender/disability dimensions. ZNU has frontline-region empirical context — displaced cohorts, women carrying disproportionate economic load, disrupted apprenticeship pipelines. A credible distinctive case study.",
+          "uk": "Топік явно питає про шляхи для незахищених груп, включно з NEET і гендерним/disability вимірами. У ЗНУ є прифронтовий емпіричний контекст — переміщені когорти, жінки з непропорційним економічним навантаженням, порушені apprenticeship-пайплайни. Переконливий унікальний case study."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Strong on both halves. Pedagogical research capacity + STEM-education + Engineering Institute (energy curricula). 1M+ volume library and HPC for quantitative SSH research. Two professional colleges (Hydropower, Metallurgical) anchor the vocational-education side.",
+      "uk": "Сильна по обох половинах. Педагогічно-дослідницька спроможність + STEM-освіта + Інженерний інститут (енергетичні курси). Бібліотека на 1М+ томів і HPC для кількісних SSH-досліджень. Два професійні коледжі (Гідроенергетичний, Металургійний) закріплюють vocational-education сторону."
+    },
+    "partnershipFit": {
+      "en": "Reasonable. NTNU (Norway) is a major engineering university with strong VET research traditions. Durham (UK — verify HE association) is SSH-strong. TU Bergakademie Freiberg covers German VET context. Min consortium (3 entities / 3 MS-AC) achievable: ZNU + NTNU + TU Freiberg. For a winning proposal, add at least one CEDEFOP-network partner or labour-economics specialist.",
+      "uk": "Прийнятна. NTNU — великий інженерний університет з сильними VET-традиціями. Durham (Велика Британія — перевірити HE-асоціацію) — сильні в SSH. TU Bergakademie Freiberg покриває німецький VET-контекст. Мін. консорціум (3 / 3 MS-AC) досяжний: ЗНУ + NTNU + TU Freiberg. Для виграшної пропозиції додати ще партнера з CEDEFOP-мережі чи labour-economics спеціаліста."
+    },
+    "trackRecordFit": {
+      "en": "Strong. 14 Erasmus+ projects + DAAD + UA-UK Twinning demonstrate exactly the kind of cross-EU education-research delivery capacity this topic looks for.",
+      "uk": "Сильний. 14 Erasmus+ проєктів + DAAD + UA-UK Twinning демонструють саме той тип крос-ЄС освітньо-дослідницької спроможності, на який цей топік дивиться."
+    },
+    "warContextRelevance": {
+      "en": "HIGH. The topic explicitly addresses workforce transitions and disadvantaged-group pathways — ZNU's frontline-region case is genuinely unique data for that research question.",
+      "uk": "ВИСОКА. Топік явно адресує перехід робочої сили й шляхи для незахищених груп — кейс прифронтового регіону ЗНУ — справді унікальні дані для цього дослідницького питання."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "WP leader on the ENERGY-sector empirical case (or co-coordinator if a stronger SSH-focused partner takes overall lead). ZNU's distinctive contributions: (1) frontline-region energy workforce data, (2) vocational-college pipeline from Hydropower + Metallurgical Colleges, (3) Erasmus+ infrastructure for cross-country comparison.",
+      "uk": "WP-лідер по емпіричному кейсу ЕНЕРГЕТИЧНОГО сектору (або співкоординатор, якщо сильніший SSH-партнер бере загальне лідерство). Унікальні внески ЗНУ: (1) дані про енергетичну робочу силу прифронтового регіону, (2) трубопровід професійних коледжів (Гідроенергетичний + Металургійний), (3) Erasmus+ інфраструктура для крос-кантрі порівняння."
+    },
+    "strengths": [
+      {"en": "Rare combo of technical (energy) + pedagogical strengths — most universities have one or the other.", "uk": "Рідкісне поєднання технічних (енергетика) + педагогічних сильних сторін — у більшості університетів є одне або інше."},
+      {"en": "Two vocational colleges (Hydropower, Metallurgical) are direct VET-pipeline evidence — exactly what the topic asks for.", "uk": "Два професійні коледжі (Гідроенергетичний, Металургійний) — прямий доказ VET-трубопроводу, саме те, що питає топік."},
+      {"en": "14 Erasmus+ projects = proven cross-EU education-research delivery.", "uk": "14 Erasmus+ проєктів = доведена крос-ЄС освітньо-дослідницька спроможність."},
+      {"en": "Wartime workforce-disruption case is a unique empirical asset.", "uk": "Кейс воєнного порушення робочої сили — унікальний емпіричний актив."},
+      {"en": "~4.5 months prep + lump-sum + €3-4M is operationally manageable.", "uk": "~4,5 міс підготовки + lump-sum + 3-4 млн євро — операційно посильно."}
+    ],
+    "risks": [
+      {"en": "Need a labour-economics quantitative-research lead in the consortium — ZNU profile doesn't visibly include this skill.", "uk": "Потрібен labour-economics кількісно-дослідницький лід у консорціумі — у профілі ЗНУ цей навик явно не вказаний."},
+      {"en": "Topic spans 5 sectors; competitors will be specialised (e.g. automotive-only consortia). Focus tightly on energy and don't dilute.", "uk": "Топік охоплює 5 секторів; конкуренти будуть спеціалізованими (наприклад, тільки автомобільні консорціуми). Чітко зосередитися на енергетиці й не розводити."},
+      {"en": "3 expected grants total — competition will be moderately intense among SSH-strong consortia.", "uk": "Очікується 3 гранти всього — конкуренція помірно інтенсивна серед SSH-сильних консорціумів."}
+    ],
+    "rationale": {
+      "en": "This is the cleanest fit in this batch for ZNU. The topic uniquely rewards the combination of technical energy expertise and pedagogical research, both of which ZNU genuinely has. The 4.5-month single-stage timeline is realistic, the budget tier (€3–4M) is appropriate for a 6–8-partner consortium, and ZNU's Erasmus+ track record is exactly what the evaluation criteria look for under 'capacity for cross-EU education-research delivery'. The recommended posture is WP-leader (not coordinator) on the energy-sector case, with a labour-economics partner brought in as quantitative-research lead. Begin partner-mapping immediately — ideally NTNU + TU Freiberg + one CEDEFOP-network / labour-econ partner.",
+      "uk": "Це найчистіша відповідність ЗНУ в цій партії. Топік унікально винагороджує поєднання технічної енергетичної експертизи й педагогічного дослідження — обидві у ЗНУ справді є. 4,5-місячний однораундовий таймлайн реалістичний, рівень бюджету (3–4 млн євро) підходить для консорціуму з 6–8 партнерів, а Erasmus+ track record ЗНУ — саме те, на що дивиться критерій оцінювання «спроможність до крос-ЄС освітньо-дослідницької делівері». Рекомендована позиція — WP-лідер (не координатор) у кейсі енергетичного сектору, з labour-economics партнером як кількісно-дослідницьким лідом. Негайно почати партнер-меппінг — ідеально NTNU + TU Freiberg + один партнер з CEDEFOP-мережі / labour-econ."
+    }
+  }
+}

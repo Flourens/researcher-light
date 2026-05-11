@@ -1,0 +1,420 @@
+GRANT CALL: Advanced innovative solutions for improved competitiveness and sustainability in controlled environment agriculture (CEA)
+Identifier: HORIZON-CL6-2026-02-FARM2FORK-06
+Call: HORIZON-CL6-2026-02 — Call 02 - single stage (2026)
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-04-14T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "112993": [
+      {
+        "action": "HORIZON-CL6-2026-02-COMMUNITIES-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "11800000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112992": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-07 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "3000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112994": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-04 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112979": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-08 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 7000000,
+        "maxContribution": 7000000,
+        "budgetYearMap": {
+          "2026": "14000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112978": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-09 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "11800000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112981": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-11 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "11000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112980": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112983": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112982": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5900000,
+        "maxContribution": 5900000,
+        "budgetYearMap": {
+          "2026": "11800000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112985": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-06 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112984": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-10 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 2000000,
+        "maxContribution": 2000000,
+        "budgetYearMap": {
+          "2026": "2000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112987": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-05 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112986": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-13 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112989": [
+      {
+        "action": "HORIZON-CL6-2026-02-CLIMATE-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "6000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112988": [
+      {
+        "action": "HORIZON-CL6-2026-02-CLIMATE-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "10000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112991": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-14 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "11000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ],
+    "112990": [
+      {
+        "action": "HORIZON-CL6-2026-02-FARM2FORK-12 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 2000000,
+        "maxContribution": 2000000,
+        "budgetYearMap": {
+          "2026": "2000000"
+        },
+        "plannedOpeningDate": "2026-01-14",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-14"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESTINATION ===
+Fair, healthy and environment-friendly food systems from primary production to consumption (2026-27)
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to all of the following expected outcomes:
+
+- farmers are supported in their transition into innovative controlled environment farming techniques and decision support tools for sustainable growth optimisation strategies;
+- the competitiveness and sustainability (including climate mitigation and adaptation) in controlled environment agriculture are improved benefiting all relevant actors.
+ Scope:
+
+Controlled Environment Agriculture (CEA) refers to any form of agriculture that controls and optimises environmental conditions such as temperature, humidity, carbon dioxide, light or nutrient concentration. Examples of CEA include greenhouses, vertical farms, grow rooms, building-integrated agriculture, hydroponics, aquaponics, aeroponics, as well as other innovative farming practices - both off land and land based - where technological advancements enable precise regulation of growing conditions farming.
+
+By developing innovative farming techniques that integrate the latest technological advancements including artificial intelligence (AI), this research should provide a competitive and sustainable transformation in response to global food security and sustainability challenges. Furthermore, it should also empower farmers and key stakeholders in the agricultural primary sector by enabling them to adopt sustainable, efficient, profitable, circular, and low-emission farming practices. By leveraging cutting-edge technology and AI-driven solutions, the activities should contribute to the overarching goals of climate neutrality and climate resilience, reinforcing the EU’s commitment to a sustainable agricultural future.
+
+Proposals should:
+
+- develop and assess advanced cost-effective innovative and sustainable solutions (including nature-based solutions) to address the key challenges (including climate change related and environmental) for crop optimisation in CEA. The assessment should address, among other, crop health and yield, energy efficiency, water use efficiency, nutrient management, environmental conditions, cost-effectiveness, automation and technology integration, sustainability and environmental impact, food safety, pest and disease management, scalability and adaptability;
+- develop data-driven decision-making smart automation and precision farming techniques, as well as predictive analytics for plant growth optimisation (e.g. via AI modelling);
+- explore appropriate new business and cooperation models adapted to proposed solutions, taking into account organisation and distribution concepts, and marketability of the resulting products. Consider requirements from relevant EU regulatory frameworks including where relevant needs for pre-market authorisation;
+- foster knowledge sharing including by training to test and adopt the innovative solutions, and informed advice for improved competitiveness and sustainability of CEA.
+ Proposals should develop innovative solutions in both conventional and organic production systems. The projects under this topic are relevant to the EU policies related to the EU Vision for Agriculture and Food, the Common Agricultural Policy, the EU Action Plan for the Development of Organic Production[1], the European Green Deal policies dealing with environment protection and climate change, and the Apply AI Strategy.
+
+Activities should fall under the concept of the multi-actor approach and allow for adequate involvement of relevant actors including farmers, SMEs, start-ups, scientists and developers.
+
+To effectively transition these innovations into the market, SMEs should actively be involved in this process. Activities are expected to achieve Technological Readiness Levels (TRL) 6-7 by the end of the project – see General Annex B.
+
+Proposals may involve financial support to third parties, particularly for SMEs providing and/or developing testing, or validating the proposed innovative technologies/solutions. A maximum 30% of EU funding should be allocated to this purpose.
+
+Proposals should capitalise on relevant research findings from past and ongoing research projects and especially seek synergy with the other project to be selected under this topic and with the project to be selected from the topic HORIZON-CL6-2025-02-FARM2FORK-08: Exploring the potential of controlled environment agriculture (CEA).
+
+Technology Readiness Level - Technology readiness level expected from completed projects
+
+Activities are expected to achieve TRL 6-7 by the end of the project – see General Annex B. Activities may start at any TRL.
+
+[1] https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021DC0141R%2801%29
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+﻿described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+The following additional eligibility criteria apply: the proposals must apply the multi-actor approach. See definition of the multi-actor approach in this work programme part.
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.
+
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+Beneficiaries may provide financial support to third parties (FSTP). The support to third parties can only be provided in the form of grants. The maximum amount to be granted to each third party is EUR 60 000.
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Information on financial support to third parties (HE)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 9. Food, Bioeconomy, Natural Resources, Agriculture and Environment
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement

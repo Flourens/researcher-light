@@ -1,0 +1,299 @@
+GRANT CALL: Sustainable, inclusive, affordable and beautiful solutions for thermal comfort in buildings
+Identifier: HORIZON-NEB-2026-01-REGEN-01
+Call: HORIZON-NEB-2026-01 — Beautiful, inclusive and sustainable neighbourhoods for communities
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-12-01T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113363": [
+      {
+        "action": "HORIZON-NEB-2026-01-REGEN-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113362": [
+      {
+        "action": "HORIZON-NEB-2026-01-BUSINESS-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 3500000,
+        "budgetYearMap": {
+          "2026": "10500000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113365": [
+      {
+        "action": "HORIZON-NEB-2026-01-BUSINESS-03 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "9000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113364": [
+      {
+        "action": "HORIZON-NEB-2026-01-PARTICIPATION-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "10000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113367": [
+      {
+        "action": "HORIZON-NEB-2026-01-REGEN-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113366": [
+      {
+        "action": "HORIZON-NEB-2026-01-BUSINESS-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3500000,
+        "maxContribution": 3500000,
+        "budgetYearMap": {
+          "2026": "7000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113369": [
+      {
+        "action": "HORIZON-NEB-2026-01-PARTICIPATION-03 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113368": [
+      {
+        "action": "HORIZON-NEB-2026-01-REGEN-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "10000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ],
+    "113370": [
+      {
+        "action": "HORIZON-NEB-2026-01-PARTICIPATION-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6300000,
+        "maxContribution": 6300000,
+        "budgetYearMap": {
+          "2026": "12600000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-12-01"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESTINATION ===
+Circular and regenerative approaches for the built environment (2026-27)
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to all of the following expected outcomes:
+
+- Significantly higher awareness of the construction ecosystem actors about solutions that are inspired by vernacular knowledge[1], nature-based solutions[1], bioclimatic design and/or frugal innovation[1].
+- The application of the developed solutions helps to achieve and maintain the thermal comfort in buildings while significantly reducing life cycle energy use, GHG emissions and costs compared to solutions that currently dominate the market. 
+ Scope:
+
+Reducing life cycle GHG emissions in buildings is key to meet the Green Deal’s objectives and make the built environment more sustainable[1]. However, achieving thermal comfort inside buildings with poor thermal resilience often relies on energy-intensive solutions, such as air conditioning which not only emits GHGs and represents significant energy costs, but also contributes to urban heat island effects, impacting the health and well-being in neighbourhoods[1], particularly for groups in a vulnerable situation such as the elderly and low-income households.
+
+There is therefore a need to further develop and demonstrate the effectiveness of beautiful[1], sustainable and affordable solutions for achieving thermal comfort in buildings that are inspired by vernacular principles, nature-based solutions, bioclimatic design and/or frugal innovation.
+
+Proposals are expected to address all of the following:
+
+- Develop and demonstrate at least two solutions for achieving thermal comfort in buildings based on vernacular principles, nature-based solutions, bioclimatic design and/or frugal innovation. Demonstrate the two solutions on new and/or existing buildings – including at least one cultural heritage building – in at least two different climatic zones located in different Member States and/or Associated Countries.
+- Evaluate the reduction in life cycle GHG emissions and life cycle costs as well as the improvement in affordability compared to solutions currently on the market.
+- Ensure the accessibility of the solution to groups in a vulnerable situation and the aesthetic appeal[7] of the solutions developed.
+- Identify barriers hindering the implementation, scalability and replicability of the proposed solutions, including regulatory aspects, and provide recommendations and guidance to overcome them.
+ Proposals are expected to follow a participatory[8] and transdisciplinary approach[1] through the integration of different actors and disciplines.
+
+Synergies should be explored and, as appropriate, pursued with other relevant initiatives such as the EU Mission on Adaptation to Climate Change. In particular, the topic HORIZON-MISS-2025-01-CLIMA-04: Testing and demonstrating innovative solutions to improve resilience to extreme heat, including addressing health impacts should be considered.
+
+Proposals are expected to allocate at least 0.8% of their budget for engaging with the Horizon Europe-funded 'New European Bauhaus hub for results and impact' to share their intermediate and final results, findings and learning, as well as to contribute to impact assessment.
+
+null
+
+Activities are expected to achieve TRL 5-7 by the end of the project – see General Annex B. Activities may start at any TRL.
+
+[1] See definition in the Glossary section of the NEB part of the HE WP26-27.
+
+[2] See definition in the Glossary section of the NEB part of the HE WP26-27.
+
+[3] See definition in the Glossary section of the NEB part of the HE WP26-27.
+
+[4] See definition in the Glossary section of the NEB part of the HE WP26-27.
+
+[5] See definition in the Glossary section of the NEB part of the HE WP26-27.
+
+[6] See definition in the Glossary section of the NEB part of the HE WP26-27.
+
+[7] See definition of "beautiful” in the Glossary section of the NEB part of the HE WP26-27.
+
+[8] See definition of “participatory process” in the Glossary section of the NEB part of the HE WP26-27.
+
+[9] See definition in the Glossary section of the NEB part of the HE WP26-27.
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+﻿described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 13. New European Bauhaus Facility (NEB)
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement
+
+=== DOCUMENT LINKS ===
+- HORIZON Innovation Actions: https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43956?topic=HORIZON-NEB-2026-01-REGEN-01

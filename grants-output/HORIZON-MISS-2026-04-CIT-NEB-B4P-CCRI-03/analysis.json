@@ -1,0 +1,113 @@
+{
+  "grantId": "HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
+  "fetchedAt": "2026-05-11T11:00:00Z",
+  "analyzedAt": "2026-05-11T11:20:00Z",
+  "grant": {
+    "title": {
+      "en": "Introducing circular economy models in the construction sector, from buildings to city scale",
+      "uk": "Впровадження моделей циркулярної економіки в будівельному секторі — від будівель до масштабу міст"
+    },
+    "callIdentifier": "HORIZON-MISS-2026-04",
+    "type": {"en": "HORIZON Innovation Actions (IA)", "uk": "HORIZON Інноваційні дії (IA)"},
+    "typeCode": "1",
+    "deadline": "2026-10-08",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-10-08. Lump-sum. TRL 7-8 expected at project end. Mandatory MOU with the Cities Mission Platform after kickoff.",
+      "uk": "Однораундовий; дедлайн 08.10.2026. Lump-sum. Очікується TRL 7-8 в кінці. Обов'язковий MOU з Cities Mission Platform після старту."
+    },
+    "budgetTotal": {"en": "EUR 47,500,000 envelope (5 expected grants)", "uk": "47 500 000 євро (5 грантів)"},
+    "budgetPerProject": {"en": "EUR 9,500,000 fixed", "uk": "9 500 000 євро фіксовано"},
+    "expectedOutcome": {
+      "en": "Measurable increase in district/city-level tools and solutions for circular construction; measurable reduction of material use and increase of reuse/recycling in construction; measurable reduction in energy, resource use and life-cycle GHG emissions of buildings and building stock through circular activities at building, district and city level.",
+      "uk": "Помітне збільшення інструментів і рішень на рівні району/міста для циркулярного будівництва; помітне скорочення використання матеріалів і збільшення повторного використання/переробки; помітне скорочення енергії, ресурсів і життєвого циклу GHG-викидів будівель за рахунок циркулярних активностей на рівні будівлі/району/міста."
+    },
+    "scope": {
+      "en": "Tools and solutions at district/city level for circularity in construction (urban mining, reuse/recycling of construction products, secondary biobased materials, adaptive design, repurposing). Diagnosis/characterisation of demolition waste + inventories of reclaimed materials + marketplace tools. Whole-life-cycle GHG inventories for EPBD recast. Demo in ≥3 cities each from a different MS/AC; ≥1 must be one of the 112 Cities Mission cities. Integrate Cities Mission, NEB, Built4People Partnership, CCRI initiatives.",
+      "uk": "Інструменти й рішення на рівні району/міста для циркулярності в будівництві (urban mining, повторне використання/переробка будівельних продуктів, вторинні bio-матеріали, адаптивний дизайн, перепрофілювання). Діагностика/характеристика будівельних відходів + інвентарі повторно використаних матеріалів + marketplace-інструменти. Whole-life-cycle GHG для EPBD recast. Демо у ≥3 містах кожне з іншої MS/AC; ≥1 з 112 міст Cities Mission. Інтегрувати Cities Mission, NEB, Built4People, CCRI."
+    },
+    "topicsKeywords": [
+      {"en": "circular economy in construction", "uk": "циркулярна економіка в будівництві"},
+      {"en": "urban mining", "uk": "urban mining"},
+      {"en": "demolition-waste reuse", "uk": "повторне використання будівельних відходів"},
+      {"en": "Cities Mission (one of 112 cities required)", "uk": "Cities Mission (1 з 112 міст обов'язково)"},
+      {"en": "Built4People Partnership", "uk": "Built4People партнерство"},
+      {"en": "New European Bauhaus", "uk": "New European Bauhaus"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "HARD topic-specific requirement: at least THREE cities (represented by a local authority or an entity with explicit local-authority consent), each from a different MS/AC, MUST participate as beneficiaries. At least ONE of the three must be one of the 112 EU Cities Mission cities. This is a structural eligibility gate, not a soft preference.",
+      "uk": "ЖОРСТКА топіко-специфічна вимога: щонайменше ТРИ міста (представлені органом місцевого самоврядування або суб'єктом із явною згодою місцевого органу), кожне з різної MS/AC, ПОВИННІ бути бенефіціарами. Щонайменше ОДНЕ з трьох — з 112 міст EU Cities Mission. Це структурний eligibility-гейт, не м'яка преференція."
+    },
+    "requiredCountries": {
+      "en": "EU MS + HE Associated Countries. Ukraine eligible at country level.",
+      "uk": "Держави-члени ЄС + країни асоційовані з HE. Україна прийнятна на країнному рівні."
+    },
+    "otherConstraints": {
+      "en": "Mandatory MOU with Cities Mission Platform after start. Clustering with related H2020/HE projects. TRL 7-8 at project end. Lump-sum funding model.",
+      "uk": "Обов'язковий MOU з Cities Mission Platform після старту. Кластеризація зі суміжними H2020/HE проєктами. TRL 7-8 на кінець. Lump-sum модель."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "City-level circular construction tools + life-cycle GHG inventories", "uk": "Інструменти циркулярного будівництва на рівні міст + life-cycle GHG-інвентарі"},
+        "znuArea": {"en": "Green Industrial Transformation + Industrial Ecology (general)", "uk": "Зелена індустріальна трансформація + промислова екологія (загально)"},
+        "strength": "low",
+        "rationale": {
+          "en": "ZNU's industrial-ecology orientation is on metallurgy/heavy industry, not on building stock / urban-scale construction materials. Methodological transfer is possible but the domain is not a match.",
+          "uk": "Орієнтація ЗНУ в industrial ecology — на металургію/важку промисловість, а не на будівельний фонд / урбан-масштабні будівельні матеріали. Методологічний перенос можливий, але домен не співпадає."
+        }
+      },
+      {
+        "grantTopic": {"en": "Urban-mining / secondary-materials recovery", "uk": "Urban mining / відновлення вторинних матеріалів"},
+        "znuArea": {"en": "Metallurgy / electrochemistry — secondary metal recovery", "uk": "Металургія / електрохімія — відновлення вторинних металів"},
+        "strength": "low",
+        "rationale": {
+          "en": "Tangential — ZNU can contribute to metals-recovery components of urban mining, but the topic targets construction-stream materials at scale (concrete, biomass, glass, insulation), where ZNU has no documented capacity.",
+          "uk": "Дотично — ЗНУ може долучитися до компонентів відновлення металів у urban mining, але топік цільований на потоки будівельних матеріалів у масштабі (бетон, біомаса, скло, ізоляція), де у ЗНУ немає задокументованої спроможності."
+        }
+      }
+    ],
+    "resourceFit": {
+      "en": "Weak. No documented architecture, building physics, urban planning, or construction-materials research capacity. HPC and AI/ML could in principle support city-scale digital twins for circular flows but ZNU has no track record on built-environment problems.",
+      "uk": "Слабкий. Немає задокументованої архітектурної, будівельної фізики, урбан-планувальної чи будівельно-матеріалознавчої дослідницької спроможності. HPC і ШІ/МН могли б підтримати міські цифрові двійники для циркулярних потоків, але у ЗНУ немає track-рекорду по проблемах built environment."
+    },
+    "partnershipFit": {
+      "en": "Critical gap: NONE of ZNU's listed partners (NTNU, Durham, TU Freiberg) bring the city-beneficiary requirement. The hard eligibility requires THREE cities — one of which must be a Cities Mission city (e.g. Madrid, Amsterdam, Lisbon, Helsinki etc.). Zaporizhzhia is NOT among the 112 Cities Mission cities (Kyiv and Lviv are the typical Ukrainian Mission cities; verify). Joining as technical partner on a city-led consortium is the only viable path.",
+      "uk": "Критична прогалина: ЖОДЕН з названих партнерів ЗНУ (NTNU, Durham, TU Freiberg) не закриває вимогу міста-бенефіціара. Жорстка вимога — ТРИ міста, одне з 112 Cities Mission (наприклад Мадрид, Амстердам, Лісабон, Гельсінкі). Запоріжжя НЕ серед 112 (типово від України — Київ і Львів; уточнити). Єдиний реалістичний шлях — долучитися як технічний партнер до консорціуму під керівництвом міст."
+    },
+    "trackRecordFit": {
+      "en": "Weak. No NetZeroCities / Cities Mission / NEB / Built4People / CCRI participation history in the participant profile. Such consortia are dominated by incumbents.",
+      "uk": "Слабкий. Немає історії участі в NetZeroCities / Cities Mission / NEB / Built4People / CCRI у профілі учасника. Такі консорціуми домінують інкумбенти."
+    },
+    "warContextRelevance": {
+      "en": "Moderate — frontline reconstruction needs circular building materials; this is a credible angle for a Ukrainian-city participation in a future call. But it doesn't change the eligibility gate for THIS call.",
+      "uk": "Помірна — прифронтова реконструкція потребує циркулярних будівельних матеріалів; це переконливий ракурс для участі українського міста у майбутньому конкурсі. Але це не змінює eligibility-гейт ДЛЯ ЦЬОГО конкурсу."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "partial",
+    "shouldApply": "no",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "Skip — or, if a Cities-Mission-city-led consortium reaches out, ZNU could appear as a peripheral technical partner contributing reconstruction-context data. Don't try to be a beneficiary; the city requirement is hard.",
+      "uk": "Пропустити — або, якщо консорціум під керівництвом міста Cities Mission напише сам, ЗНУ міг би увійти периферійним технічним партнером з даними контексту реконструкції. Не намагатися бути бенефіціаром — вимога щодо міст жорстка."
+    },
+    "strengths": [
+      {"en": "Ukraine HE-eligible at country level.", "uk": "Україна прийнятна на країнному рівні."},
+      {"en": "Reconstruction context provides a forward-looking narrative for circular construction.", "uk": "Контекст реконструкції дає forward-looking наратив для циркулярного будівництва."}
+    ],
+    "risks": [
+      {"en": "Hard eligibility: ≥3 cities as beneficiaries, ≥1 from 112 Cities Mission. ZNU is a university, not a city. None of its listed partners brings a city.", "uk": "Жорстка прийнятність: ≥3 міста як бенефіціари, ≥1 з 112 Cities Mission. ЗНУ — університет, не місто. Жоден з названих партнерів міста не приводить."},
+      {"en": "No documented built-environment / construction-materials / urban-planning research capacity.", "uk": "Немає задокументованої дослідницької спроможності built environment / будівельні матеріали / урбан-планування."},
+      {"en": "Field dominated by NetZeroCities / Built4People incumbents.", "uk": "Поле домінують NetZeroCities / Built4People інкумбенти."}
+    ],
+    "rationale": {
+      "en": "Topic-specific eligibility (≥3 cities as beneficiaries, ≥1 from 112 Cities Mission) is a hard structural blocker that ZNU's profile and partnership network do not currently overcome. The domain (city-scale circular construction) is also not a match for ZNU's industrial-ecology focus on metallurgy. Recommend skip. If reconstruction-of-Ukrainian-cities becomes a strategic theme for future HE-MISS calls, prioritize building city-level relationships (Kyiv, Lviv, plus an EU Cities Mission city) rather than chasing this specific topic.",
+      "uk": "Топіко-специфічна прийнятність (≥3 міста як бенефіціари, ≥1 з 112 Cities Mission) — жорсткий структурний блокер, який профіль і мережа партнерств ЗНУ зараз не подолає. Домен (циркулярне будівництво на масштабі міста) також не співпадає з industrial-ecology фокусом ЗНУ на металургії. Рекомендую пропустити. Якщо реконструкція українських міст стане стратегічною темою майбутніх HE-MISS, пріоритет — будувати зв'язки на рівні міст (Київ, Львів плюс місто з EU Cities Mission), а не гнатися за цим конкретним топіком."
+    }
+  }
+}

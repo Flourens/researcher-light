@@ -1,0 +1,561 @@
+GRANT CALL: Fostering competences for the green transition
+Identifier: HORIZON-CL2-2026-01-TRANSFO-07
+Call: HORIZON-CL2-2026-01 — Culture, Creativity and Inclusive Society 2026
+Type of Action: HORIZON  Research and Innovation Actions
+Deadline: 2026-09-23T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113371": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-06 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113373": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-03 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113372": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-09 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 3750000,
+        "maxContribution": 3750000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113375": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113374": [
+      {
+        "action": "HORIZON-CL2-2026-01-HERITAGE-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113377": [
+      {
+        "action": "HORIZON-CL2-2026-01-HERITAGE-07 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 4500000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "5000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113376": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-08 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113379": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-10 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 3500000,
+        "maxContribution": 3500000,
+        "budgetYearMap": {
+          "2026": "3500000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113378": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113381": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-07 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113380": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113383": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-04 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113382": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-03 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113385": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-10 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113384": [
+      {
+        "action": "HORIZON-CL2-2026-01-HERITAGE-06 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 5750000,
+        "budgetYearMap": {
+          "2026": "11500000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113387": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-05 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 4000000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "4500000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113386": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-08 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113389": [
+      {
+        "action": "HORIZON-CL2-2026-01-HERITAGE-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 4000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113388": [
+      {
+        "action": "HORIZON-CL2-2026-01-HERITAGE-05 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 3000000,
+        "maxContribution": 3750000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113391": [
+      {
+        "action": "HORIZON-CL2-2026-01-HERITAGE-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 4500000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113390": [
+      {
+        "action": "HORIZON-CL2-2026-01-HERITAGE-04 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113393": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-07 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113392": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-09 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "16000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113395": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-05 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113394": [
+      {
+        "action": "HORIZON-CL2-2026-01-TRANSFO-06 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 3300000,
+        "budgetYearMap": {
+          "2026": "10000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113396": [
+      {
+        "action": "HORIZON-CL2-2026-01-DEMOCRACY-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3500000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-12",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESTINATION ===
+Innovative Research on Social and Economic Transformations (2026-27)
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Projects should contribute to all of the following expected outcomes:
+
+- Provide policymakers, education and training institutions, and social partners with a solid understanding of which competences young people and workers need to support the EU economy towards the green transition to reach carbon neutrality and protect natural ecosystems.
+- Develop actionable advice to policymakers and education and training institutions about which education and training programmes and policy measures can promote the acquisition of those competences by young people and workers in a lifelong perspective, including the gender and disability dimensions.
+- Provide policymakers with guidance on how to address the interconnection between fostering the competences for the green transition and those for the digital transition. 
+ Scope:
+
+Environmental challenges have been one of the key drivers of labour demand and skills supply across all sectors for the past years. More data and analysis from research on competences that young people and workers need for the green transition are warranted to properly implement the Union of Skills and support people in upskilling and reskilling. The availability of robust quantitative data is still limited, both at national and international levels. Moreover, most available research on the green transition focuses on macro-level policies, overlooking how workers and communities can drive change.
+
+Fostering competences for the green transition also requires a better understanding of young people’s and workers’ attitudes, concerns and behaviours about climate change and climate action, biodiversity loss, pollution, circular economy and sustainable economic growth, as well as of new ways of developing capabilities and skills[1]. The transferability of skills across occupations and the need for upskilling and reskilling the current workforce are also key to advancing the green transition. These issues are interconnected with the ongoing digital transition.
+
+The ‘green transition’ embraces a wide and diverse set of sectors and activities without one specific set of generic competences (in other words skills vary strongly depending on the sector). For example, according to Cedefop[2], among high climate impact sectors the demand for skills for the green transition is the highest in energy. Therefore, proposals should focus on one of the following sectors, which are particularly affected by an increasing demand for green expertise: 1) sustainable agriculture and food production, 2) automotive industry, 3) energy and 4) construction, 5) nature and climate adaptation. 
+
+Proposals should use quantitative and qualitative methods (including from SSH disciplines) and apply a lifelong perspective to address several research questions, such as:
+
+- What are the most relevant competences required to actively contribute to the green transition in these industries?
+- Which assessment methods and frameworks are most effective in measuring readiness for green jobs and sustainable innovation?
+- What roles do digital skills and technological literacy play in equipping young people and workers for the green transition and how can education and training systems exploit the synergies between the competences for the green and digital transitions?
+- How can policymakers, education and training institutions and employers collaborate to identify and address skills shortages that may hinder the green transition?
+- How can vocational education and training systems become more accessible and flexible to respond effectively to evolving labour market needs for the green transition?
+- How to ensure that women and persons with disabilities benefit equally from the opportunities of the green transition?
+- How does an effective lifelong acquisition of competences for the green transition occur?
+-  How can we design and implement inclusive systems that improve career advice, and support the best decisions by all learners regarding t their career choices and pathways?
+- What works to get disadvantaged children onto the pathways that are proven to lead to upwards mobility (including helping those who are not in education, employment or training) and raising ambition where needed? At what age are interventions most effective?
+- How can policymakers best create collaborations with industry to increase training opportunities, to ensure learners are as prepared as much as possible for work, and to reduce barriers to those from disadvantaged backgrounds? 
+ Proposals should also consider the gender and disability dimensions in their analysis (ensuring that women, as well as persons with disability, benefit equally from employment and earning opportunities linked to the green transition). Clustering and cooperation among selected projects under this call topic and other relevant projects, for example from the Horizon 2020 European Green Deal Call and their results, are strongly encouraged.
+
+Proposals should also explore synergies with the New European Bauhaus (NEB) Facility, including notably the NEB Academy on skills for sustainable construction, and the European Partnership on Social Transformations and Resilience.
+
+[1]  GreenComp, the European competence framework on sustainability, provides a conceptual model on the knowledge, skills and attitudes which support sustainability in a lifelong learning context.
+
+[2]  https://www.cedefop.europa.eu/files/9197_en.pdf
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+As described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+The page limit for the Part B of the Research and Innovation (RIA) application using lump sum is 45 pages. In addition, it is mandatory to submit a detailed budget table, using the template available in the Submission System.
+
+### 2. Eligible Countries
+As described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+As described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+As described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+As described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+As described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+As described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.
+
+In addition, as described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ As described in the specific topic of the Work Programme.
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 5. Culture, Creativity and Inclusive Society
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement

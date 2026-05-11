@@ -1,0 +1,267 @@
+GRANT CALL: Full-scale demonstration of heat upgrade solutions in industrial processes
+Identifier: HORIZON-CL5-2026-09-D4-08
+Call: HORIZON-CL5-2026-09 — BATTERIES and ENERGY
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-09-15T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113409": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5250000,
+        "maxContribution": 5250000,
+        "budgetYearMap": {
+          "2026": "15750000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113408": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5250000,
+        "maxContribution": 5250000,
+        "budgetYearMap": {
+          "2026": "15750000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113410": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-08 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 9000000,
+        "maxContribution": 9000000,
+        "budgetYearMap": {
+          "2026": "18000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113403": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-04 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113405": [
+      {
+        "action": "HORIZON-CL5-2026-09-D3-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 93000000,
+        "maxContribution": 93000000,
+        "budgetYearMap": {
+          "2026": "93000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113404": [
+      {
+        "action": "HORIZON-CL5-2026-09-D2-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 9400000,
+        "maxContribution": 9400000,
+        "budgetYearMap": {
+          "2026": "9400000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113407": [
+      {
+        "action": "HORIZON-CL5-2026-09-D2-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 7100000,
+        "maxContribution": 7100000,
+        "budgetYearMap": {
+          "2026": "28300000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113406": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 7000000,
+        "maxContribution": 7000000,
+        "budgetYearMap": {
+          "2026": "28000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESTINATION ===
+Using energy in buildings and industry in an efficient, affordable and sustainable way (2026-27)
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to all of the following expected outcomes:
+
+- Based on the results of the project, at least one industrial sector with a significant heating demand in the EU and Associated Countries develops pathways and business models to measurably increase the recovery and upgrade of locally available heat for covering process needs and significantly or totally phasing out of fossil fuel use, while preserving or enhancing its global competitiveness.
+- Measurable improvement of renewable and/or industrial excess/waste heat recovery and upgrade solutions, possibly combined with thermal and/or electrical energy storage, in terms of energy efficiency, flexibility of electrical demand, climate and environment protection, reliability and safety, physical and cyber security, and profitability. 
+ Scope:
+
+This topic aims to satisfy the need for process heat in the more industrial sectors by upgrading excess/waste heat from the process itself, possibly combined with heat recovered in nearby locations or local renewable heat, as a cost-efficient way to improve energy efficiency and reduce the GHG emissions and air pollutants and the use of fossil fuels. Thermal and/or electrical energy storage can be integrated, if it can contribute to better matching heat sources with process needs and/or to offer more flexible electricity consumption from the grid.
+
+The temperature of the heat supplied to the process is not specified, but the proposals will be evaluated on their potential to enable the deployment of heat upgrade solutions in more sector(s) and process(es), where they are not yet state-of-the art.
+
+Projects must address all the following items:
+
+- Optimise and demonstrate physically within one or more operational industrial site(s), the transformation of process(es) in at least one industrial sector, by recovering excess/waste heat from the process itself, possibly combined with local renewable heat or heat recovered in nearby locations and local thermal and/or electrical energy storage, and by upgrading the heat (e.g. with heat pump) for use in the process(es).
+- Maximise the replicability and deployment of the concept/solution in the EU and Associated Countries’ plants in the same industrial sector. Already before starting the design phase, the needs of most EU and Associated Countries’ factories in the same industrial sector(s) should be surveyed and analysed in order to design a solution that can be adapted to meet most of them.
+- Identify common components, optimise and define a standardised version of them.
+- Develop open technical and economical guidelines and open tools for system design and business case development.
+- In case the targeted industrial sector(s) and process(es) has/have been covered by the actions under the topic LIFE-2024-CET-HEATPUMPS[1], this proposal should build on the results of these actions and if possible, cooperate with them, both for the definition of the solution to demonstrate and the dissemination channels.
+- Disseminate results notably (but not only) to the relevant communities in cluster 4 ‘Digital, Industry and Space’ private-public partnerships and to JRC Sevilla and INCITE for work on BREFs in the context of the IED2.0.
+ null
+
+Activities are expected to achieve TRL 7-8 by the end of the project – see General Annex B. Activities may start at any TRL.
+
+[1]  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/life-2024-cet-heatpumps
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+﻿described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.
+
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 8. Climate, Energy and Mobility
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement
+
+=== DOCUMENT LINKS ===
+- HORIZON Innovation Actions: https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43912?topic=HORIZON-CL5-2026-09-D4-08

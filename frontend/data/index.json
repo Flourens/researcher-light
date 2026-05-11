@@ -14,8 +14,8 @@
     },
     "deadline": "2026-05-18",
     "deadlineModel": {
-      "en": "Single submission per team (ONE shot). Submission deadline per grant.market = 2026-05-18 (~7 days from today) — VERIFY on Kaggle Overview > Timeline page before committing.",
-      "uk": "Одне сабмішн на команду (ОДНА спроба). Дедлайн подачі за grant.market — 18.05.2026 (≈7 днів від сьогодні). ПЕРЕВІРИТИ на Kaggle Overview > Timeline перед зобов’язанням."
+      "en": "Kaggle terminology: 'Close' = Final Submission Deadline (Foundational Rules §3.3) — the hard cut-off for a ready, working submission. ONE submission per team after that point. Close ≈ 2026-05-18 per grant.market (~7-8 days from today). WARNING: many Kaggle competitions also have a separate Entry Deadline (registration cut-off) ~7 days BEFORE Close — verify on Kaggle Overview > Timeline page IMMEDIATELY; if registration is already past or imminent, the whole opportunity is moot.",
+      "uk": "Термінологія Kaggle: «Close» = Final Submission Deadline (Foundational Rules §3.3) — жорсткий cut-off для готового, робочого submission. ОДНЕ submission на команду після цього моменту. Close ≈ 18.05.2026 за grant.market (~7-8 днів від сьогодні). УВАГА: багато Kaggle-конкурсів мають окремий Entry Deadline (дедлайн реєстрації) за ~7 днів ДО Close — НЕГАЙНО перевірити Kaggle Overview > Timeline; якщо реєстрація вже минула або ось-ось — вся можливість зникає."
     },
     "budgetPerProject": {
       "en": "Main Track: $50K / $25K / $15K / $10K. Impact Track: 5× $10K (Health & Sciences, Global Resilience, Future of Education, Digital Equity & Inclusivity, Safety & Trust). Special Technology Track: 5× $10K (Cactus, LiteRT, llama.cpp, Ollama, Unsloth). Main + Special Technology prizes STACK ($50K+$10K possible).",
@@ -26,6 +26,118 @@
     "znuFitsGrant": "yes",
     "grantFitsZnu": "partial",
     "analyzedAt": "2026-05-11T10:45:00Z"
+  },
+  {
+    "id": "HORIZON-CL2-2026-01-TRANSFO-07",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Fostering competences for the green transition",
+      "uk": "Розвиток компетенцій для зеленого переходу"
+    },
+    "callIdentifier": "HORIZON-CL2-2026-01",
+    "type": {
+      "en": "HORIZON RIA",
+      "uk": "HORIZON Дослідницько-інноваційні дії (RIA)"
+    },
+    "deadline": "2026-09-23",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-09-23 (~4.5 months from today). Lump-sum funding. 45-page Part B limit.",
+      "uk": "Однораундовий; дедлайн подачі 23.09.2026 (~4,5 міс). Lump-sum фінансування. Ліміт 45 сторінок Part B."
+    },
+    "budgetPerProject": {
+      "en": "EUR 3,000,000 – 4,000,000",
+      "uk": "3 000 000 – 4 000 000 євро"
+    },
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-05-11T11:10:00Z"
+  },
+  {
+    "id": "HORIZON-CL5-2026-09-D4-02",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Low disturbance prefabrication approaches for deep renovation of multi-storey buildings (Built4People Partnership)",
+      "uk": "Підходи з низькоінвазивної префабрикації для глибокої реновації багатоповерхових будівель (Партнерство Built4People)"
+    },
+    "callIdentifier": "HORIZON-CL5-2026-09 (BATTERIES and ENERGY)",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA), Built4People Partnership",
+      "uk": "HORIZON Інноваційні дії (IA), партнерство Built4People"
+    },
+    "deadline": "2026-09-15",
+    "deadlineModel": {
+      "en": "Single-stage; deadline 2026-09-15. Lump-sum. TRL 6-8 by project end. Demonstrate on 3 multi-storey (>5-storeys) buildings in 3 different MS/AC.",
+      "uk": "Однораундовий; дедлайн 15.09.2026. Lump-sum. TRL 6-8 на кінець. Демо на 3 багатоповерхових (>5 поверхів) будівлях у 3 різних MS/AC."
+    },
+    "budgetPerProject": {
+      "en": "EUR 7,000,000 fixed",
+      "uk": "7 000 000 євро фіксовано"
+    },
+    "shouldApply": "no",
+    "confidence": "high",
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "analyzedAt": "2026-05-11T11:35:00Z"
+  },
+  {
+    "id": "HORIZON-CL5-2026-09-D4-08",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Full-scale demonstration of heat upgrade solutions in industrial processes",
+      "uk": "Повномасштабна демонстрація рішень з апгрейду тепла у промислових процесах"
+    },
+    "callIdentifier": "HORIZON-CL5-2026-09 (BATTERIES and ENERGY)",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA)",
+      "uk": "HORIZON Інноваційні дії (IA)"
+    },
+    "deadline": "2026-09-15",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-09-15. Lump-sum. TRL 7-8 by project end. Activities may start at any TRL.",
+      "uk": "Однораундовий; дедлайн 15.09.2026. Lump-sum. TRL 7-8 на кінець. Старт з будь-якого TRL."
+    },
+    "budgetPerProject": {
+      "en": "EUR 9,000,000 fixed",
+      "uk": "9 000 000 євро фіксовано"
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-05-11T11:30:00Z"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-06",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Advanced innovative solutions for improved competitiveness and sustainability in controlled environment agriculture (CEA)",
+      "uk": "Передові інноваційні рішення для підвищення конкурентоспроможності та сталості в контрольованому середовищному сільському господарстві (CEA)"
+    },
+    "callIdentifier": "HORIZON-CL6-2026-02",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA)",
+      "uk": "HORIZON Інноваційні дії (IA)"
+    },
+    "deadline": "2026-04-14",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-04-14 — ALREADY CLOSED (today is 2026-05-11). The call ended ~4 weeks before this analysis. No way to apply to this specific topic in the current cycle.",
+      "uk": "Однораундовий; дедлайн подачі 14.04.2026 — ВЖЕ ЗАКРИТИЙ (сьогодні 11.05.2026). Конкурс закрився ~4 тижні тому. Подати на цей конкретний топік у поточному циклі неможливо."
+    },
+    "budgetPerProject": {
+      "en": "EUR 6,000,000 fixed",
+      "uk": "6 000 000 євро фіксовано"
+    },
+    "shouldApply": "no",
+    "confidence": "high",
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "analyzedAt": "2026-05-11T11:40:00Z"
   },
   {
     "id": "HORIZON-INFRA-2026-TECH-01-01",
@@ -82,6 +194,90 @@
     "znuFitsGrant": "partial",
     "grantFitsZnu": "partial",
     "analyzedAt": "2026-05-11T10:05:00Z"
+  },
+  {
+    "id": "HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Introducing circular economy models in the construction sector, from buildings to city scale",
+      "uk": "Впровадження моделей циркулярної економіки в будівельному секторі — від будівель до масштабу міст"
+    },
+    "callIdentifier": "HORIZON-MISS-2026-04",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA)",
+      "uk": "HORIZON Інноваційні дії (IA)"
+    },
+    "deadline": "2026-10-08",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-10-08. Lump-sum. TRL 7-8 expected at project end. Mandatory MOU with the Cities Mission Platform after kickoff.",
+      "uk": "Однораундовий; дедлайн 08.10.2026. Lump-sum. Очікується TRL 7-8 в кінці. Обов'язковий MOU з Cities Mission Platform після старту."
+    },
+    "budgetPerProject": {
+      "en": "EUR 9,500,000 fixed",
+      "uk": "9 500 000 євро фіксовано"
+    },
+    "shouldApply": "no",
+    "confidence": "high",
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-05-11T11:20:00Z"
+  },
+  {
+    "id": "HORIZON-MISS-2027-07-CLIMA-CIT-CCRI-02",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Deploying innovative wastewater management, treatment and valorisation solutions in European cities and regions in the context of climate change",
+      "uk": "Розгортання інноваційних рішень з управління, очищення та валоризації стічних вод у європейських містах і регіонах у контексті змін клімату"
+    },
+    "callIdentifier": "HORIZON-MISS-2027-07 (joint Cities Mission + Adaptation Mission call)",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA)",
+      "uk": "HORIZON Інноваційні дії (IA)"
+    },
+    "deadline": "2027-09-22",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2027-09-22 (~16 months from today — opens for proposals 2027-02-09). Mandatory MOU with Cities Mission Platform and Adaptation Mission Platform after kickoff. TRL 7-8 by project end.",
+      "uk": "Однораундовий; дедлайн подачі 22.09.2027 (~16 міс; відкривається для пропозицій 09.02.2027). Обов'язковий MOU з Cities Mission Platform і Adaptation Mission Platform після старту. TRL 7-8 на кінець."
+    },
+    "budgetPerProject": {
+      "en": "EUR 9,500,000 fixed",
+      "uk": "9 500 000 євро фіксовано"
+    },
+    "shouldApply": "no",
+    "confidence": "high",
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "analyzedAt": "2026-05-11T11:50:00Z"
+  },
+  {
+    "id": "HORIZON-NEB-2026-01-REGEN-01",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": {
+      "en": "Sustainable, inclusive, affordable and beautiful solutions for thermal comfort in buildings",
+      "uk": "Сталі, інклюзивні, доступні та красиві рішення для теплового комфорту в будівлях"
+    },
+    "callIdentifier": "HORIZON-NEB-2026-01 (New European Bauhaus)",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA), New European Bauhaus Facility",
+      "uk": "HORIZON Інноваційні дії (IA), фасилітет New European Bauhaus"
+    },
+    "deadline": "2026-12-01",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-12-01 (~6.7 months from today). Lump-sum. TRL 5-7 by project end.",
+      "uk": "Однораундовий; дедлайн подачі 01.12.2026 (~6,7 міс). Lump-sum. TRL 5-7 на кінець."
+    },
+    "budgetPerProject": {
+      "en": "EUR 4,000,000 fixed",
+      "uk": "4 000 000 євро фіксовано"
+    },
+    "shouldApply": "no",
+    "confidence": "high",
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "analyzedAt": "2026-05-11T11:45:00Z"
   },
   {
     "id": "ODEON",

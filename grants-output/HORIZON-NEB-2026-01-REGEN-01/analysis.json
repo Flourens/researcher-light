@@ -1,0 +1,111 @@
+{
+  "grantId": "HORIZON-NEB-2026-01-REGEN-01",
+  "fetchedAt": "2026-05-11T11:00:00Z",
+  "analyzedAt": "2026-05-11T11:45:00Z",
+  "grant": {
+    "title": {
+      "en": "Sustainable, inclusive, affordable and beautiful solutions for thermal comfort in buildings",
+      "uk": "Сталі, інклюзивні, доступні та красиві рішення для теплового комфорту в будівлях"
+    },
+    "callIdentifier": "HORIZON-NEB-2026-01 (New European Bauhaus)",
+    "type": {"en": "HORIZON Innovation Actions (IA), New European Bauhaus Facility", "uk": "HORIZON Інноваційні дії (IA), фасилітет New European Bauhaus"},
+    "typeCode": "1",
+    "deadline": "2026-12-01",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-12-01 (~6.7 months from today). Lump-sum. TRL 5-7 by project end.",
+      "uk": "Однораундовий; дедлайн подачі 01.12.2026 (~6,7 міс). Lump-sum. TRL 5-7 на кінець."
+    },
+    "budgetTotal": {"en": "EUR 12,000,000 envelope (3 expected grants)", "uk": "12 000 000 євро (3 гранти)"},
+    "budgetPerProject": {"en": "EUR 4,000,000 fixed", "uk": "4 000 000 євро фіксовано"},
+    "expectedOutcome": {
+      "en": "Higher awareness of construction-ecosystem actors about solutions inspired by vernacular knowledge, nature-based solutions, bioclimatic design and/or frugal innovation. Application of these solutions helps achieve and maintain thermal comfort while significantly reducing life-cycle energy use, GHG emissions and costs vs current market-dominant solutions.",
+      "uk": "Підвищення обізнаності акторів construction-ecosystem про рішення, натхненні vernacular knowledge, nature-based solutions, біокліматичним дизайном та/або frugal innovation. Застосування цих рішень допомагає досягти й підтримати тепловий комфорт при значному скороченні life-cycle енергоспоживання, GHG-викидів і вартості vs ринково-домінуючі рішення."
+    },
+    "scope": {
+      "en": "Develop and demonstrate ≥2 thermal-comfort solutions based on vernacular principles, nature-based solutions, bioclimatic design, and/or frugal innovation. Demo on new and/or existing buildings — INCLUDING at least one cultural heritage building — in at least two different climatic zones in different MS/AC. Evaluate life-cycle GHG/cost reductions vs market baseline. Ensure accessibility to vulnerable groups and aesthetic 'beauty' (NEB Glossary definition). Identify regulatory and other barriers. Participatory + transdisciplinary approach. Allocate ≥0.8% budget to NEB hub for results and impact.",
+      "uk": "Розробити і продемонструвати ≥2 рішення теплового комфорту на основі vernacular принципів, nature-based, біокліматичного дизайну та/або frugal innovation. Демо на нових та/або існуючих будівлях — ВКЛЮЧНО з ≥1 будівлею культурної спадщини — у ≥2 різних кліматичних зонах у різних MS/AC. Оцінити life-cycle GHG/витратні скорочення vs ринкова baseline. Доступність для вразливих груп і естетична «краса» (визначення з NEB Glossary). Ідентифікувати regulatory та інші бар'єри. Партиципативний + трансдисциплінарний підхід. Виділити ≥0,8% бюджету на NEB hub for results and impact."
+    },
+    "topicsKeywords": [
+      {"en": "vernacular knowledge", "uk": "vernacular knowledge"},
+      {"en": "nature-based solutions", "uk": "nature-based solutions"},
+      {"en": "bioclimatic design", "uk": "біокліматичний дизайн"},
+      {"en": "frugal innovation", "uk": "frugal innovation"},
+      {"en": "cultural heritage building (demo)", "uk": "будівля культурної спадщини (демо)"},
+      {"en": "thermal comfort without AC", "uk": "тепловий комфорт без AC"},
+      {"en": "New European Bauhaus", "uk": "New European Bauhaus"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Standard HE IA minimum (3 / 3 MS-AC). No topic-specific extra requirement, but topic implicitly requires building owners (incl. cultural-heritage owner) + architects + community partners as beneficiaries.",
+      "uk": "Стандартний мінімум HE IA (3 / 3 MS-AC). Топіко-специфічних додаткових вимог немає, але імпліцитно потрібні власники будівель (вкл. культурна спадщина) + архітектори + community партнери як бенефіціари."
+    },
+    "requiredCountries": {"en": "EU MS + HE AC. Ukraine eligible.", "uk": "Держави-члени ЄС + асоційовані з HE. Україна прийнятна."},
+    "otherConstraints": {
+      "en": "Lump-sum. ≥0.8% budget for NEB hub engagement. Demo in ≥2 climatic zones across MS/AC. Cultural-heritage building demo mandatory.",
+      "uk": "Lump-sum. ≥0,8% бюджету для NEB hub. Демо у ≥2 кліматичних зонах в MS/AC. Демо на культурно-спадщинній будівлі обов'язкове."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Bioclimatic / vernacular / frugal building design", "uk": "Біокліматичний / vernacular / frugal дизайн будівель"},
+        "znuArea": {"en": "— (no architecture, building physics, vernacular-knowledge, or heritage-conservation research)", "uk": "— (немає архітектури, building physics, vernacular-knowledge, heritage-conservation досліджень)"},
+        "strength": "low",
+        "rationale": {
+          "en": "Topic is owned by architecture / built-environment / NEB-aligned consortia. ZNU has no documented capacity in this domain.",
+          "uk": "Топік належить архітектурним / built-environment / NEB-орієнтованим консорціумам. У ЗНУ немає задокументованої спроможності в цьому домені."
+        }
+      },
+      {
+        "grantTopic": {"en": "Life-cycle GHG and cost evaluation", "uk": "Life-cycle GHG і cost оцінювання"},
+        "znuArea": {"en": "Green Industrial Transformation (industrial scope) + AI/HPC modelling", "uk": "Зелена індустріальна трансформація (промисловий scope) + AI/HPC моделювання"},
+        "strength": "low",
+        "rationale": {
+          "en": "Transferable methodology but applied to industrial, not building-scale, systems. Not the kind of LCA expertise this topic needs.",
+          "uk": "Переносна методологія, але прикладена до промислових, не будівельних, систем. Не той тип LCA-експертизи, який потрібен топіку."
+        }
+      },
+      {
+        "grantTopic": {"en": "Cultural heritage building demonstration", "uk": "Демо на культурно-спадщинній будівлі"},
+        "znuArea": {"en": "Top-1 in Humanities and Arts Research in Ukraine — but unclear if applied to architectural heritage", "uk": "Топ-1 в Україні з Humanities and Arts Research — але неясно, чи прикладається до архітектурної спадщини"},
+        "strength": "low",
+        "rationale": {
+          "en": "ZNU's Humanities-and-Arts top-rank is noted in the profile but specifics of heritage-conservation research are unstated. Could be a thin thread, not a real anchor.",
+          "uk": "Топ-1 ZNU у Humanities-and-Arts вказано у профілі, але специфіка heritage-conservation research не вказана. Може бути тонкою ниткою, не реальним якорем."
+        }
+      }
+    ],
+    "resourceFit": {"en": "Weak. No architectural design studios, no building-physics test cells.", "uk": "Слабкий. Немає архітектурних студій, немає building-physics test cells."},
+    "partnershipFit": {"en": "Weak. None of ZNU's listed partners is in NEB / Built4People / architectural-heritage network.", "uk": "Слабка. Жоден з партнерів ZNU не в NEB / Built4People / архітектурно-спадщинній мережі."},
+    "trackRecordFit": {"en": "Insufficient — no NEB / heritage / built-environment project history.", "uk": "Недостатній — немає історії NEB / heritage / built-environment проєктів."},
+    "warContextRelevance": {
+      "en": "Moderate in principle: Ukrainian heritage buildings damaged or stressed by wartime conditions are a relevant narrative, but topic asks for thermal-comfort solutions in heritage, not damage-recovery — narrative does not directly map.",
+      "uk": "Помірна в принципі: українські спадщинні будівлі, пошкоджені чи стресовані воєнними умовами, — релевантний наратив, але топік питає про рішення теплового комфорту у спадщині, не damage-recovery — наратив прямо не лягає."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "no",
+    "shouldApply": "no",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "Skip. If ZNU's Humanities-and-Arts faculty actually has architectural-heritage research, that should be confirmed first — but on the participant profile as given, this topic is outside ZNU's reach.",
+      "uk": "Пропустити. Якщо Humanities-and-Arts факультет ЗНУ справді має архітектурно-спадщинні дослідження, це треба підтвердити окремо — але на профілі учасника як він є, цей топік поза досяжністю."
+    },
+    "strengths": [
+      {"en": "Ukraine HE-eligible.", "uk": "Україна прийнятна для HE."},
+      {"en": "ZNU's Top-1-in-Humanities-and-Arts rank is a thin potential angle if any group there works on architectural heritage.", "uk": "Топ-1 ЗНУ в Humanities-and-Arts — тонкий потенційний ракурс, якщо якась група там працює над архітектурною спадщиною."}
+    ],
+    "risks": [
+      {"en": "No architecture / building-physics / heritage-conservation research in the participant profile.", "uk": "Немає archi / building-physics / heritage-conservation досліджень у профілі."},
+      {"en": "NEB-aligned topics are dominated by architecture schools (Politecnico Milano, TU Delft, ETH) and NEB-network NGOs.", "uk": "NEB-орієнтовані топіки домінують архітектурні школи (Politecnico Milano, TU Delft, ETH) і NEB-network NGOs."},
+      {"en": "Cultural-heritage building demo requirement is a hard structural barrier without an owner-partner.", "uk": "Вимога демо на культурно-спадщинній будівлі — жорсткий структурний бар'єр без власника-партнера."}
+    ],
+    "rationale": {
+      "en": "Domain and consortium-network are both far from ZNU's centre of gravity. Unless an unlisted architectural-heritage research group at ZNU steps forward, skip and refocus on TRANSFO-07 (the clean fit) or ODEON (the cleanest hackathon-style fit).",
+      "uk": "Домен і мережа консорціуму далекі від центру ваги ЗНУ. Якщо невказана архітектурно-спадщинна група ЗНУ не з'явиться, пропустити й переключитися на TRANSFO-07 (чистий fit) або ODEON (найчистіший hackathon-style fit)."
+    }
+  }
+}
