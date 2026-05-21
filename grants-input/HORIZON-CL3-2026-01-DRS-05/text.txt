@@ -1,0 +1,495 @@
+GRANT CALL: Climate security and civil preparedness – new ways to develop pre- and post-crisis climate-change related scenarios for a more resilient Europe
+Identifier: HORIZON-CL3-2026-01-DRS-05
+Call: HORIZON-CL3-2026-01 — Civil Security for Society 2026
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-11-05T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113345": [
+      {
+        "action": "HORIZON-CL3-2026-01-BM-03 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 1330000,
+        "maxContribution": 1330000,
+        "budgetYearMap": {
+          "2026": "1330000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113344": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "9000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113347": [
+      {
+        "action": "HORIZON-CL3-2026-01-BM-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113346": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-05 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4835000,
+        "maxContribution": 4835000,
+        "budgetYearMap": {
+          "2026": "9670000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113349": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-04 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "6000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113348": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "5000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113351": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-05 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "4500000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113350": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 1500000,
+        "maxContribution": 1500000,
+        "budgetYearMap": {
+          "2026": "3000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113353": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113352": [
+      {
+        "action": "HORIZON-CL3-2026-01-INFRA-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "9000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113355": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "3000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113354": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113357": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113356": [
+      {
+        "action": "HORIZON-CL3-2026-01-INFRA-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4835000,
+        "maxContribution": 4835000,
+        "budgetYearMap": {
+          "2026": "9670000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113359": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-06 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "3000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113358": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-02 - HORIZON-PCP HORIZON Pre-commercial Procurement",
+        "expectedGrants": 1,
+        "minContribution": 5830000,
+        "maxContribution": 5830000,
+        "budgetYearMap": {
+          "2026": "5830000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113361": [
+      {
+        "action": "HORIZON-CL3-2026-01-INFRA-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "4000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113360": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-03 - HORIZON-PPI HORIZON Public Procurement of Innovative Solutions",
+        "expectedGrants": 1,
+        "minContribution": 2000000,
+        "maxContribution": 2000000,
+        "budgetYearMap": {
+          "2026": "2000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113341": [
+      {
+        "action": "HORIZON-CL3-2026-01-BM-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113343": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "6000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113342": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "6000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to some or all of the following expected outcomes: 
+
+- Identification and prioritization of climate security scenarios, assessing cascading and compounding risks across multiple sectors;
+- Development and validation of advanced tools, technologies, and data-driven solutions for climate - and environmental - risk forecasting, crisis management, and adaptation, including risk analytical and assessment tools, weather alerts and forecasts;
+- Development and validation of advanced tools and technologies to assess and monitor climate-induced disasters, also providing risk information on adaptation and risk reduction measures;
+- Strengthened engagement with stakeholders, ensuring end-user involvement in defining requirements, testing, and validation of climate security solutions;
+- Development and validation of new risk-management tools, technologies and data, closer to operational environment. Focus on local and regional risk-management and climate adaptation work should be prioritized;
+- Pre-crisis analysis and post-crisis situational awareness in case of those disasters related to climate change (floods, fires, landslides, heat waves, etc.); 
+- Enhanced international cooperation, policy integration, and public awareness to improve climate security resilience and preparedness. Strengthen networks to exchange best practices and support the international dimension of the Preparedness Union Strategy and the Sendai Disaster Risk Reduction Framework. 
+ Scope:
+
+Climate change is a global challenge with profound security implications at the global, regional, and local levels. It exacerbates risks across multiple sectors, including agriculture, biodiversity, health, border security, economy, financial stability, transport, telecommunication and human displacement, leading to severe socio-economic consequences and destabilizing communities. The increasing frequency and intensity of climate-related disasters highlight the urgent need for a holistic, long-term strategy to address climate security, integrating risk assessment, crisis management, and adaptation measures, while also leveraging the expertise of the insurance sector.
+
+While climate services based on data analysis have reached a high level of trust among users, their application to civil security remains underdeveloped. Proposals should aim to develop methodologies, tools, and technologies that enhance situational awareness both before a crisis (pre-crisis) and after a crisis (post-crisis), enabling decision-makers and populations to respond effectively. Research should focus on defining priority climate security scenarios in the EU, identifying key stakeholders, and establishing essential indicators for informed decision-making.
+
+Efforts should be directed toward understanding and mitigating the impacts of floods, landslides, wildfires, and other climate-induced disasters. This includes developing improved methods and models for risk prevention and reduction, early detection, emergency response tactics, and rescue efforts under extreme conditions. The study of cascading effects and compounding disasters is critical, particularly regarding groups in a vulnerable situation such as older people, people with disabilities, and children. In this view, the proposals should build on the European Climate Risk Assessment (EUCRA[1]) and consolidated national risk assessments[2] as well as find synergies with project’s chosen for the similar EU Mission: Adaptation to Climate Change topic[3]. Both the European Preparedness Union Strategy, the European Water Resilience Strategy and the upcoming European Climate Adaptation Plan act as policy guidance.
+
+Diverse climate and environmental security scenarios should be developed, supported by innovative, reliable tools that leverage multiple data sources, enabling a comprehensive and adaptive response. Proposals should also integrate space programme components such as Copernicus and Galileo to improve data accuracy and crisis response capabilities. A strong emphasis on international cooperation should foster knowledge exchange, enhance policy integration, and share best practices. Proposals should support transnational collaboration within the EU, facilitate improved data-sharing mechanisms, and align with global initiatives such as the Sendai Disaster Risk Reduction Framework. Capacity-building efforts to strengthen resilience to climate-related security threats and ensure a coordinated approach to addressing worst-case climate scenarios, as identified in the Niinistö report[4].
+
+Projects may take into account the assets but also particular challenges faced by the European outermost regions and may include entities from these regions in the consortium’s composition.
+
+Where applicable, proposals should leverage the data and services available through European Research Infrastructures federated under the European Open Science Cloud, Copernicus, Destination Earth, as well as data from relevant Data Spaces. Particular efforts should be made to ensure that the data produced in the context of this topic is FAIR (Findable, Accessible, Interoperable and Re-usable). 
+
+Where relevant, funded projects are encouraged to liaise with the European Commission's Joint Research Centre, for complementary real-scale testing at the Reaction Wall and HopLab of the European Laboratory for Structural Assessment (ELSA).
+
+Technology Readiness Level - Technology readiness level expected from completed projects
+
+Activities are expected to achieve TRL 7-8 by the end of the project – see General Annex B.
+
+[1] https://www.eea.europa.eu/en/analysis/publications/european-climate-risk-assessment
+
+[2] COM/2024/130 final, Preventing and managing disaster risk in Europe, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52024DC0130
+
+[3] HORIZON-MISS-2026-01-CLIMA-04: Bridging the gap between disaster risk management and climate adaptation
+
+[4] https://commission.europa.eu/topics/defence/safer-together-path-towards-fully-prepared-union_en
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+The Joint Research Centre (JRC) may participate as member of the consortium selected for funding as a beneficiary with zero funding, or as an associated partner. The JRC will not participate in the preparation and submission of the proposal - see General Annex B.
+
+Due to the scope of this topic, relevant international organisations with headquarters in a Member State or Horizon Europe Associated Country are exceptionally eligible for funding.
+
+The following additional eligibility criteria apply:
+
+This topic requires the active involvement, as beneficiaries, of at least 3 authorities in charge of disaster risk[[Authorities in charge of disaster risk entail public bodies operating at the national level that hold legally defined responsibilities in the area of disaster risk management. This includes national civil protection authorities as well as other institutions that can demonstrate, through appropriate legal or administrative acts, a formal mandate to design, coordinate, or implement disaster risk prevention, preparedness, or response, measures.]] from at least 3 different EU Member States or Associated Countries. For these participants, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.
+
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+Some activities resulting from this topic may involve using classified background and/or producing of security sensitive results (EUCI and SEN). Please refer to the related provisions in section B Security — EU classified and sensitive information of the General Annexes.
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA) 
+
+HE Programme Guide 
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA 
+
+Call-specific instructions 
+
+Detailed budget table (HE LS) 
+
+Information on financial support to third parties (HE) 
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 6. Civil Security for Society
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual 
+
+Funding & Tenders Portal Terms and Conditions 
+
+Funding & Tenders Portal Privacy Statement
+
+=== DOCUMENT LINKS ===
+- HORIZON Innovation Actions: https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43994?topic=HORIZON-CL3-2026-01-DRS-05

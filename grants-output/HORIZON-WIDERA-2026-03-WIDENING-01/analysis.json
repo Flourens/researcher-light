@@ -1,0 +1,81 @@
+{
+  "grantId": "HORIZON-WIDERA-2026-03-WIDENING-01",
+  "kind": "grant",
+  "fetchedAt": "2026-05-11T13:42:00+00:00",
+  "analyzedAt": "2026-05-11T14:00:00+00:00",
+  "grant": {
+    "title": "Hop-On Facility",
+    "callIdentifier": "HORIZON-WIDERA-2026-03",
+    "type": "HORIZON Research and Innovation Actions (Widening)",
+    "typeCode": "1",
+    "deadline": "2026-09-24",
+    "deadlineModel": "single-stage; structurally a grant-agreement-amendment to an existing HE project",
+    "budgetTotal": "€30,000,000 (60 grants expected across the call)",
+    "budgetPerProject": "€200,000 – €600,000 (≥90% must go to the widening beneficiary; ≤10% as coordination fee to the host coordinator)",
+    "expectedOutcome": "System level: mobilise excellence in Widening countries, increase visibility of Widening-country beneficiaries, improve knowledge circulation, and boost participation in specific thematic domains. Consortium level: open established networks to new connections and partnerships, improve research excellence of the Widening institution in specific fields, enlarge outreach of the existing R&I action, and provide access to new talent pools. Widening-beneficiary level: develop new competencies and skills for transnational projects, including research management, dissemination, and exploitation.",
+    "scope": "Integrate one additional beneficiary from a Widening country into an ongoing Pillar II 'main' Work Programme or EIC Pathfinder collaborative R&I action, where that beneficiary contributes a relevant task, work package, or another visible and distinguishable activity. The application must demonstrate the R&I added value of the new beneficiary for the eligible already-funded action, with a detailed description of the new beneficiary's profile and complementarity. The additional beneficiary and activities are presented in a dedicated proposal template, with the existing project's Description of the Action uploaded as an annex. On success, the host consortium submits a grant-agreement amendment formalising accession.",
+    "topicsKeywords": [
+      "Widening participation",
+      "Hop-On / accession to existing HE project",
+      "Pillar II main Work Programme",
+      "EIC Pathfinder",
+      "grant-agreement amendment",
+      "Widening-country beneficiary",
+      "research management capacity-building"
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": "Exactly TWO applicants: (1) one legal entity established in a Widening country as the new beneficiary, (2) the coordinator of the 'eligible already funded action'. Coordinator submits the proposal.",
+    "requiredCountries": "Widening country status — Ukraine qualifies. NOTE: the host coordinator's project must NOT already include any Widening-country beneficiary, affiliated entity, or associated partner.",
+    "otherConstraints": "Host project must (a) be a Horizon Europe grant agreement under Pillar II 'main' Work Programme or EIC Pathfinder, (b) be managed by the European Commission or an Executive Agency, (c) have its first reporting period ongoing at submission deadline, (d) be between 1 and 12 months from its starting date at submission deadline. ≤10% of the maximum grant amount may be allocated to the coordinator as a coordination fee; ≥90% must go to the Widening beneficiary. Ex-aequo proposals prioritised by geographical diversity — Widening countries not yet represented higher up the ranking get priority."
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": "Mobilising Widening-country excellence into existing Pillar II projects (theme depends on host)",
+        "znuArea": "AI/ML + Smart Grids + Digital Twins + HPC (any of these can map to a host project)",
+        "strength": "high",
+        "rationale": "Hop-On is theme-agnostic; ZNU's research-area portfolio is broad enough to fit any Pillar II project in AI, energy, materials, or digital twins. The 'fit' is in the act of choosing the right host, not in the call text."
+      },
+      {
+        "grantTopic": "Capacity-building in research management, dissemination, and exploitation for the Widening beneficiary",
+        "znuArea": "Track record: 14 Erasmus+ projects + 3 Horizon MSCA + UA-UK Twinning + DAAD Ukraine Digital + LUTUR / UIHERP / THEA Lead / SUUN",
+        "strength": "high",
+        "rationale": "ZNU has an unusually deep international-projects track record for a Widening-country university; this is precisely what Hop-On evaluators look for as evidence the new beneficiary can absorb capacity and deliver."
+      },
+      {
+        "grantTopic": "Visibility and outreach for Widening-country participants in Pillar II domains",
+        "znuArea": "TOP-10 national research ranking + 1st in Humanities and Arts; ESG strategy; 30% staff with long-term mobility",
+        "strength": "medium",
+        "rationale": "Strong national profile and existing international mobility make ZNU a credible visibility booster, but Hop-On rewards specific thematic depth more than general reputation."
+      }
+    ],
+    "resourceFit": "Adequate for typical Pillar II contribution sizes (€200k–€600k). HPC lab, Azure cloud, materials/electrochemistry labs, and 535 academic staff give a wide menu of WP-scope options.",
+    "partnershipFit": "Excellent — the NTNU partnership (joint 2026–2028 roadmap) is exactly the kind of channel through which an eligible host coordinator should be identified. Durham and TU Bergakademie Freiberg add two more Horizon-active networks. The Nansen EDU agenda's 'EU proposals' workstream for 2026 maps directly onto this opportunity.",
+    "trackRecordFit": "Among the strongest fits in the entire ZNU portfolio for this call: 14 Erasmus+, 3 Horizon MSCA, UA-UK Twinning, DAAD Ukraine Digital, and 30% of academic staff with long-term mobility experience. Hop-On evaluators explicitly reward this profile.",
+    "warContextRelevance": "Medium — Hop-On is not war-context-specific, but ZNU's continuity-under-wartime evidence is a credible 'why Widening-country inclusion matters now' narrative, and it strengthens the case that bringing ZNU into a relevant Pillar II project mobilises real, hard-won expertise rather than a paper participation."
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "recommendedRole": "Additional Widening beneficiary (the only role this instrument supports). ZNU must identify the host project and persuade its coordinator to submit the proposal.",
+    "strengths": [
+      "Eligibility is structurally clean — Ukraine = Widening country, with no extra practitioner or sectoral constraints",
+      "Track record (3 MSCA + 14 Erasmus+ + UA-UK Twinning + DAAD) is exactly what Hop-On evaluators reward",
+      "Two-applicant structure dramatically lowers consortium-building overhead vs. a full IA",
+      "≥90% of grant goes to the Widening beneficiary — financially efficient",
+      "Ex-aequo priority for under-represented Widening countries — Ukraine fits this lever"
+    ],
+    "risks": [
+      "Hard prerequisite: a Pillar II / EIC Pathfinder host project must (i) exist, (ii) currently have NO Widening-country beneficiary, and (iii) be 1–12 months from its starting date AT the 2026-09-24 deadline — i.e., the host project must have started between roughly 2025-09-24 and 2026-08-24",
+      "ZNU does not choose alone — the host coordinator must agree and submit the proposal",
+      "Finding a host requires active outreach (CORDIS search of recently-launched Pillar II actions, NTNU/Durham/TUBAF networking) starting now — every month of delay shrinks the pool",
+      "Per-grant ticket €200k–600k is modest by Pillar II standards; useful for capacity building but not a flagship project on its own",
+      "≤10% coordinator fee is a low incentive — coordinators have to be convinced on R&I added-value grounds, not money"
+    ],
+    "rationale": "This is the lowest-friction Horizon instrument available to ZNU right now: eligibility is unambiguous (Ukraine = Widening country), the consortium is only two applicants, and ZNU's documented track record is precisely the profile Hop-On evaluators want to see funded. The verdict 'yes' is anchored on those facts. The real work is upstream of the application: ZNU must identify a Pillar II 'main' Work Programme or EIC Pathfinder action that (a) was awarded recently enough that its first reporting period is still ongoing in September 2026, (b) does not yet include any Widening-country participant, and (c) has scope where ZNU's AI Lab / smart-grid / digital-twin / metallurgy strengths add visible R&I value. NTNU's network is the obvious starting point — the Nansen-EDU 2026–2028 roadmap already lists EU proposals as a 2026 priority, and NTNU likely coordinates or partners in several CL4/CL5 Pillar II actions launched in late 2025 / early 2026. Recommended immediate action: a CORDIS search filtered to 'started 2025-09 – 2026-08, Pillar II, no Ukrainian beneficiary' to enumerate candidate hosts, then a structured outreach via NTNU, Durham, TUBAF. With ≈4.5 months to deadline, identifying the host within ≈8 weeks leaves enough runway to draft a strong R&I-added-value justification."
+  }
+}

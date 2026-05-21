@@ -1,0 +1,297 @@
+GRANT CALL: AI-driven forecasting algorithms for Grid and Consumer friendly Energy Sharing – Societal Readiness pilot
+Identifier: HORIZON-CL5-2026-03-D3-22
+Call: HORIZON-CL5-2026-03 — BATTERIES and ENERGY
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-03-31T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "112880": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-29 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 5,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "25000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112871": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-21 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112873": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-19 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 4000000,
+        "maxContribution": 12000000,
+        "budgetYearMap": {
+          "2026": "24000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112872": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-22 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112875": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-13 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 10500000,
+        "maxContribution": 10500000,
+        "budgetYearMap": {
+          "2026": "31500000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112874": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "9000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112877": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-20 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 7000000,
+        "maxContribution": 7000000,
+        "budgetYearMap": {
+          "2026": "14000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112876": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-18 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 10000000,
+        "maxContribution": 10000000,
+        "budgetYearMap": {
+          "2026": "20000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112879": [
+      {
+        "action": "HORIZON-CL5-2026-03-D2-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 4700000,
+        "maxContribution": 4700000,
+        "budgetYearMap": {
+          "2026": "14200000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "112878": [
+      {
+        "action": "HORIZON-CL5-2026-03-D3-12 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2025-12-18",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-03-31"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESTINATION ===
+Ensuring more efficient, sustainable, secure, and competitive renewable and decarbonised energy supply (2026-27)
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Projects are expected to contribute to all the following expected outcomes:
+
+- Develop and test AI-driven forecasting algorithms that use machine learning processes to optimise the value of collective self-consumption through energy sharing for communities and citizens
+- Upscale AI tools and models for grid balancing and forecasting to ensure consumer participation in a distributed energy system.
+- Analysis of social interactions using advanced methods like game-theoretic models to highlight the role of active consumers and communities in energy systems.
+- Deeper understanding of the needs and concerns of diverse social groups involved in or potentially affected by the R&I development of the technology, thereby increasing the potential for beneficial societal uptake and building trust in results and outcomes.
+- Improvement of operation and maintenance of the grid and distributed assets. 
+ Scope:
+
+AI-driven forecasting algorithms and machine learning can optimize bidirectional energy transfers involving flexibility services that can help energy communities and jointly acting customers evolve in their role as active participants in the energy system, while ensuring the reduced burdens on DSOs and residual suppliers. Innovations in machine learning forecasting can help balance energy systems and enable active participation in a decentralized, resilient, and digitalized European energy landscape, optimizing self-consumption and reducing energy costs for consumers.
+
+This topic is a Societal-Readiness pilot:
+
+- Proposals should follow the instructions applying to the Societal Readiness pilot, as described in the introduction of the Horizon Europe Main Work Programme 2026-2027 for Climate, Energy and Mobility. They entail the use of an interdisciplinary approach to deepening consideration and responsiveness of R&I activities to societal needs and concerns.
+- This topic requires effective contribution of the relevant SSH expertise, including the involvement of SSH experts in the consortium, to meaningfully support Societal Readiness. Specifically, SSH expertise is expected to facilitate the socio-technological interface and enable the design of project objectives with Societal Readiness related activities.
+ Selected projects are expected to contribute to the BRIDGE initiative [1] and actively participate in its activities.
+
+null
+
+Activities are expected to achieve TRL 6-8 by the end of the project – see General Annex B. Activities may start at any TRL.
+
+[1] https://bridge-smart-grid-storage-systems-digital-projects.ec.europa.eu/
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+﻿described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+In line with the “restriction on control in innovation actions in critical technology areas” delineated in General Annex B of the General Annexes, entities established in an eligible country but which are directly or indirectly controlled by China or by a legal entity established in China are not eligible to participate in the action.
+
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.
+
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 8. Climate, Energy and Mobility
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement

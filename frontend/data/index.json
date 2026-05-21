@@ -1,5 +1,33 @@
 [
   {
+    "id": "AID4SME-OC2",
+    "kind": "grant",
+    "sourceUrl": "https://aid4sme.eu/open-call-2/",
+    "title": {
+      "en": "AID4SME Open Call #2 — cascade funding under HORIZON-CL4-2024-DIGITAL-EMERGING-01-04 (Industrial leadership in AI, Data and Robotics; AI Data and Robotics Partnership)",
+      "uk": "AID4SME Open Call #2 — каскадне фінансування у межах HORIZON-CL4-2024-DIGITAL-EMERGING-01-04 (промислове лідерство в AI, даних і робототехніці; партнерство AI, Data and Robotics)"
+    },
+    "callIdentifier": "HORIZON-CL4-2024-DIGITAL-EMERGING-01-04 / AID4SME-OC2",
+    "type": {
+      "en": "Competitive call (FSTP — Financial Support to Third Parties) under the AID4SME Innovation Action (IA, GA 101189562)",
+      "uk": "Каскадний конкурс (FSTP — фінансова підтримка третіх сторін) у межах Innovation Action AID4SME (GA 101189562)"
+    },
+    "deadline": "2026-07-15",
+    "deadlineModel": {
+      "en": "Single-stage cascade call. Submission window 15 May 2026 → 15 July 2026 17:00 Brussels (OPEN, SEDIA status 31094502). Sub-grant project duration 14 months across 4 stages (Plan M1; Development M2–M8; Test M9–M10; Assessment M11–M14). Programme execution Nov 2026 → Dec 2027.",
+      "uk": "Одноетапний каскадний конкурс. Вікно подання 15 травня 2026 → 15 липня 2026 17:00 Брюссель (ВІДКРИТО, статус SEDIA 31094502). Тривалість суб-гранту — 14 місяців у 4 етапи (Plan M1; Development M2–M8; Test M9–M10; Assessment M11–M14). Виконання програми — листопад 2026 → грудень 2027."
+    },
+    "budgetPerProject": {
+      "en": "Max €200,000 EU contribution per project (70% funding rate of total eligible costs). Disbursed as lump sums 30% / 40% / 30% at end of periods 1/2/3. Costs: personnel + purchase (incl. equipment depreciation only) + travel; 25% flat indirect on personnel+purchase. Subcontracting NOT eligible.",
+      "uk": "Макс. €200 000 внеску ЄС на проєкт (рівень фінансування 70% прийнятних витрат). Виплата лумп-сумами 30% / 40% / 30% наприкінці періодів 1/2/3. Витрати: персонал + закупівлі (обладнання — лише амортизація) + відрядження; 25% непрямих витрат на персонал+закупівлі. Субконтракт НЕ прийнятний."
+    },
+    "shouldApply": "maybe",
+    "confidence": "high",
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-05-21T05:05:00Z"
+  },
+  {
     "id": "GEMMA-4-GOOD-HACKATHON",
     "kind": "hackathon",
     "sourceUrl": "https://www.kaggle.com/competitions/gemma-4-good-hackathon",
@@ -54,6 +82,38 @@
     "znuFitsGrant": "yes",
     "grantFitsZnu": "yes",
     "analyzedAt": "2026-05-11T11:10:00Z"
+  },
+  {
+    "id": "HORIZON-CL3-2026-01-INFRA-03",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": "Targeted innovative capabilities for the resilience of critical entities to natural and human-induced disasters, including hybrid scenarios",
+    "callIdentifier": "HORIZON-CL3-2026-01",
+    "type": "HORIZON Innovation Actions",
+    "deadline": "2026-11-05",
+    "deadlineModel": "single-stage; lump sum; TRL 6-7 expected by project end",
+    "budgetPerProject": "€4,500,000 (lump sum)",
+    "shouldApply": "maybe",
+    "confidence": "high",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-05-11T13:55:00+00:00"
+  },
+  {
+    "id": "HORIZON-CL3-2026-02-CS-ECCC-02",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": "Enhancing the Security, Privacy and Robustness of AI Models and Systems (SecureAI)",
+    "callIdentifier": "HORIZON-CL3-2026-02-CS-ECCC",
+    "type": "HORIZON Innovation Actions (Indirectly managed by ECCC)",
+    "deadline": "2026-09-15",
+    "deadlineModel": "single-stage; lump sum; ECCC-managed cybersecurity action",
+    "budgetPerProject": "€3,000,000 – €4,000,000 (lump sum)",
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-05-11T13:58:00+00:00"
   },
   {
     "id": "HORIZON-CL5-2026-09-D4-02",
@@ -278,6 +338,22 @@
     "znuFitsGrant": "no",
     "grantFitsZnu": "no",
     "analyzedAt": "2026-05-11T11:45:00Z"
+  },
+  {
+    "id": "HORIZON-WIDERA-2026-03-WIDENING-01",
+    "kind": "grant",
+    "sourceUrl": "",
+    "title": "Hop-On Facility",
+    "callIdentifier": "HORIZON-WIDERA-2026-03",
+    "type": "HORIZON Research and Innovation Actions (Widening)",
+    "deadline": "2026-09-24",
+    "deadlineModel": "single-stage; structurally a grant-agreement-amendment to an existing HE project",
+    "budgetPerProject": "€200,000 – €600,000 (≥90% must go to the widening beneficiary; ≤10% as coordination fee to the host coordinator)",
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-05-11T14:00:00+00:00"
   },
   {
     "id": "ODEON",

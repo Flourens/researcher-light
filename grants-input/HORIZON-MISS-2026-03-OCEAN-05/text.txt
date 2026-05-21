@@ -1,0 +1,208 @@
+GRANT CALL: Regional  (sea-basins) components of the EU Digital Twin Ocean
+Identifier: HORIZON-MISS-2026-03-OCEAN-05
+Call: HORIZON-MISS-2026-03 — Supporting the implementation of the Restore our Ocean and Waters Mission
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-09-23T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113031": [
+      {
+        "action": "HORIZON-MISS-2026-03-OCEAN-05 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 4000000,
+        "maxContribution": 4850000,
+        "budgetYearMap": {
+          "2026": "19400000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113033": [
+      {
+        "action": "HORIZON-MISS-2026-03-OCEAN-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 7000000,
+        "maxContribution": 7750000,
+        "budgetYearMap": {
+          "2026": "31000000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113032": [
+      {
+        "action": "HORIZON-MISS-2026-03-OCEAN-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 7000000,
+        "maxContribution": 7750000,
+        "budgetYearMap": {
+          "2026": "31000000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113035": [
+      {
+        "action": "HORIZON-MISS-2026-03-OCEAN-04 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 2500000,
+        "maxContribution": 2900000,
+        "budgetYearMap": {
+          "2026": "2900000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ],
+    "113034": [
+      {
+        "action": "HORIZON-MISS-2026-03-OCEAN-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 7000000,
+        "maxContribution": 7750000,
+        "budgetYearMap": {
+          "2026": "31000000"
+        },
+        "plannedOpeningDate": "2026-02-04",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-23"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to all of the following expected outcomes:
+
+- Additional regional and local assets (data, models, digital twins) are made available on the DTO core infrastructure, EDITO;
+- New digital twin applications, emphasising on regional and local conditions and addressing regional considerations, including stakeholders needs, availability of data, etc.;
+- Enhanced digital twin regional capabilities, creating in the EU DTO core infrastructure, EDITO, the conditions to directly support policy implementation, including marine environmental policy, and Blue Economy applications which build on the regional characteristics of the sea-basin;
+- Development of regional what-if-scenarios libraries, including confidence thresholds and related analysis, quantifying the necessary conditions to increase confidence levels, etc.;
+- Support to monitoring and sustainable management of regional seas with new tailor-made services for regional seas.
+ Scope:
+
+Proposals should establish regional components within the EDITO core infrastructure of the EU Digital Twin of the Ocean (EU DTO). These regional components should foster the development of local digital twins’ applications: customized digital tools designed to address the unique priorities of specific local stakeholder communities.
+
+For each sea-basin (one project per lighthouse), the objective is to:
+
+- Identify, aggregate and integrate existing regional data (through EMODnet), tools, modelling and local digital twin assets that are not yet widely public (including inland waters assets that are relevant for the integrated source-to-sea approach with emphasis on land-sea connections[1]) and take the necessary action to make them available through EDITO, following all necessary interoperability and standardisation protocols. Under-represented data types (biologging, acoustic telemetry, etc.) are of particular interest;
+- Develop regional digital twin services (tailored applications and services that address region-specific challenges, including for instance small islands challenges, coastal resilience, biodiversity conservation and restoration, pollution, climate change adaptation, fisheries and aquaculture and other sectors of the blue economy). These services should target both policy relevant questions and questions related to the development of a regional sustainable and competitive Blue Economy. To support predictive capacities, regional digital twin developments should in particular look for the integration of long-term ecological and biodiversity monitoring datasets, ensuring that modelling and scenarios are grounded in empirical, time-series observations;
+- Foster regional stakeholder engagement (regional authorities, regional sea conventions, industry partners, and local communities) to bring in existing assets (databases, local or regional models) co-design and validate digital twin applications for effective policy-making and operational decision support;
+- Improve intensive adoption of innovative algorithms of Artificial Intelligence and big data management;
+- Through the aforementioned engagement, and via co-creation processes, develop a range of what-if-scenarios, assess their confidence levels and identify actions towards the improvement of said confidence.
+ [1]  For instances assets identified in the IDEATION CSA and funded under “HORIZON-MISS-2023-OCEAN-01-09 towards the integration of inland waters into the Digital Twin Ocean”. https://cordis.europa.eu/project/id/101157371
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+﻿described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+International organisations with headquarters in a Member State or associated country/non-associated third country are exceptionally eligible for funding as several international institutions are active in the management of regional sea-basins and could both contribute to the regional DTOs with their own assets and be the end-users.
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+To ensure a balanced portfolio covering the 4 different Mission basins[[For the purposes of Mission Ocean and waters, Member States/Associated Countries, are considered to be part of a given sea/river basin if they have a coast/riverbank on the relevant sea/river or contain river basins flowing into the relevant sea]] (1. Atlantic and Arctic sea basin, 2. Mediterranean Sea basin, 3. Baltic and North Sea basin, 4. Danube River basin, including Black Sea), grants will be awarded to applications not only in order of ranking but at least also to one proposal that is the highest ranked within each sea basin, provided that the applications attain all thresholds.
+
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+Beneficiaries will be subject to the following additional obligations regarding open science practices: if projects collect in-situ data and marine observation, beneficiaries must make them openly available through the European Marine Observation and Data network (EMODnet), based on the FAIR (Findable, Accessible, Interoperable, Reusable) principles.
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+HE MGA
+
+Call-specific instructions
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 12. Missions
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement
+
+Funding & Tenders Portal Online Manual 
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement
+
+=== DOCUMENT LINKS ===
+- HORIZON Innovation Actions: https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43692?topic=HORIZON-MISS-2026-03-OCEAN-05

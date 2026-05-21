@@ -1,0 +1,142 @@
+{
+  "totalResults": 1,
+  "results": [
+    {
+      "apiVersion": "2.146",
+      "reference": "14143COMPETITIVE_CALLen",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45704318",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "AID4SME Open Call 2",
+      "weight": 12.62665,
+      "groupById": "1",
+      "content": "<b>AID4SME</b> Open Call 2",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "61DA36AE4FBE8B192E422FD830E047871CB7CD3AD0046566520BD2906C4B12F1",
+      "metadata": {
+        "es_SortDate": [
+          "2026-05-15T00:00:00.000+0000"
+        ],
+        "beneficiaryAdministration": [
+          "<p class=\"ql-align-justify\">Apply online to AID4SME - Open Call #2 via F6S submission system by the indicative deadline: <u><a href=\"https://www.f6s.com/aid4sme-oc-2/apply\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.f6s.com/aid4sme-oc-2/apply</a></u></p><p class=\"ql-align-justify\">The AID4SME - Open Call #2 Evaluation process will consist of:</p><ol><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Admissibility/eligibility check</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>In/out challenge scope check</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Expert evaluation</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Online interviews</li></ol>"
+        ],
+        "sortStatus": [
+          "1"
+        ],
+        "description": [
+          "<p class=\"ql-align-justify\">The AID4SME - Open Call #2 is looking for Technology Developers to develop, test and validate Artificial Intelligence (AI) and Data solutions in the framework of the AID4SME project.</p><p class=\"ql-align-justify\">Applicants must submit their proposals to one of the following challenges:</p><ol><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C1.1 Augmented sensing solution</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C2.1 Product-production Digital Twins</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C2.2 Automated monitoring hygiene inspection for refurbishment</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C2.3 Energy system Digital Twin decision support tool</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C3.2 Automated machine selection for parts production</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C3.3 Battery production digital work instructions & skill capturing</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C3.4 Automated warehouse and internal logistics management</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C4.1 Smart energy management of unplanned machine downtime</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C4.2 Semi-automated EV battery disassembly for recycling</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>C4.3 Co-bot refrigerator door assembly solutions</li></ol><p class=\"ql-align-justify\"><strong>The AID4SME Programme #2 is organised in 4 stages of 14 months</strong>. Stage 1 - Plan from 01 November 2026 to 31 November 2026, Stage 2 - Development from 01 December 2026 to 30 June 2027, Stage 3 - Test from 01 July 2027 to 31 August 2027, and Stage 4 - Assessment from 01 September 2027 to 31 December 2027.</p><p class=\"ql-align-justify\">During these phases, beneficiaries will have the support of a mentor to monitor project progress and facilitate communication with technical partners.</p><p class=\"ql-align-justify\"><strong>The programme will select up to 12 applications</strong>, each addressing one of the challenges/topics defined in Section 3 - Challenges of the Annex 1. Guidelines for Applicants, providing a maximum contribution of EUR 200 000.00, to be paid in form of lump sums at the end of Periods 1, 2 and 3 (30% + 40% + 30%) (section7.1.2).</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Industrial leadership in AI, Data and Robotics boosting competitiveness and the green transition (AI Data and Robotics Partnership) (IA)[[https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662906/IPOL_STU(2021)662906_EN.pdf]]"
+        ],
+        "type": [
+          "8"
+        ],
+        "esST_checksum": [
+          "61DA36AE4FBE8B192E422FD830E047871CB7CD3AD0046566520BD2906C4B12F1"
+        ],
+        "duration": [
+          "14 months"
+        ],
+        "destinationDetails": [
+          "<p class=\"ql-align-justify\">Apply online to AID4SME - Open Call #2 via F6S submission system by the indicative deadline: <u><a href=\"https://www.f6s.com/aid4sme-oc-2/apply\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.f6s.com/aid4sme-oc-2/apply</a></u></p><p class=\"ql-align-justify\">The AID4SME - Open Call #2 Evaluation process will consist of:</p><ol><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Admissibility/eligibility check</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>In/out challenge scope check</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Expert evaluation</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Online interviews</li></ol>"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "45704318"
+        ],
+        "callccm2Id": [
+          "14143"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "14143COMPETITIVE_CALLen"
+        ],
+        "projectAcronym": [
+          "AID4SME"
+        ],
+        "callTitle": [
+          "AID4SME Open Call 2"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "budget": [
+          "2350000"
+        ],
+        "identifier": [
+          "HORIZON-CL4-2024-DIGITAL-EMERGING-01-04"
+        ],
+        "furtherInformation": [
+          "<p class=\"ql-align-justify\">The AID4SME - Open Call #2 documentation kit can be consulted at <u><a href=\"https://aid4sme.eu/open-call-2/\" rel=\"noopener noreferrer\" target=\"_blank\">https://aid4sme.eu/open-call-2/</a></u></p><p class=\"ql-align-justify\">Relevant files for the Submission Stage:</p><ol><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Annex 1. Guidelines for Applicants</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Annex 1.1 Challenges Description</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Annex 2. Proposal Template</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Annex 7. Application form (read only)</li></ol><p class=\"ql-align-justify\">The AID4SME Consortium will provide information to the applicants via the Open Call #2 and F6S page, so that all information (questions and answers) are visible to all participants.</p><ol><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Project website: <u><a href=\"https://aid4sme.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">https://aid4sme.eu/</a></u></li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Open call application form:\t<u><a href=\"https://www.f6s.com/aid4sme-oc-2/apply\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.f6s.com/aid4sme-oc-2/apply</a></u></li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Contact us: <u><a href=\"mailto:aid4sme_ocs_helpdesk@f6s.com\" rel=\"noopener noreferrer\" target=\"_blank\">aid4sme_ocs_helpdesk@f6s.com</a></u></li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Online Q&A/ discussion board: <u><a href=\"https://www.f6s.com/aid4sme-oc-2/discuss\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.f6s.com/aid4sme-oc-2/discuss</a></u></li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>F6S platform support team: <u><a href=\"mailto:support@f6s.com\" rel=\"noopener noreferrer\" target=\"_blank\">support@f6s.com</a> </u><em>(for issues with the submission, resubmission, access to the platform, etc.)</em></li></ol><p><br></p><p><strong><em>Binding information: </em></strong><em>In the unlikely occurrence of a contradiction between the information provided via the OC channels (e-mail, webinars or other means) and the information included in the Annex 1_Guidelines for Applicants, the latter is binding.</em></p>"
+        ],
+        "caName": [
+          "AID4SME Open Call 2"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "esDA_FirstIngestDate": [
+          "2026-05-13T15:18:51.393+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2026-07-15T17:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2026-05-19T14:00:23.575+0200"
+        ],
+        "closingDate": [
+          "2026-05-19T00:00:00Z"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45704318"
+        ],
+        "es_Combine": [
+          "1"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45704318"
+        ],
+        "esDA_QueueDate": [
+          "2026-05-19T14:00:23.557+0200"
+        ],
+        "projectName": [
+          "enabling SMEs to develop AI and DATA solutions through support of a Community of Practice and low-TRL and high-TRL playgrounds"
+        ],
+        "projectId": [
+          "101189562"
+        ],
+        "startDate": [
+          "2026-05-15T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "status": [
+          "31094502"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "<b>AID4SME</b> Open Call 2"
+      ],
+      "citation": "Industrial leadership in AI, Data and Robotics boosting competitiveness and the green transition (AI Data and Robotics Partnership) (IA)[[https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662906/IPOL_STU(2021)662906_EN.pdf]]. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45704318",
+      "score": 12.62665
+    }
+  ]
+}

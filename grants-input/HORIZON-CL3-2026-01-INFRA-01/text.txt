@@ -1,0 +1,493 @@
+GRANT CALL: Tools and processes to support stress tests of critical infrastructure
+Identifier: HORIZON-CL3-2026-01-INFRA-01
+Call: HORIZON-CL3-2026-01 — Civil Security for Society 2026
+Type of Action: HORIZON Innovation Actions
+Deadline: 2026-11-05T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113345": [
+      {
+        "action": "HORIZON-CL3-2026-01-BM-03 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 1330000,
+        "maxContribution": 1330000,
+        "budgetYearMap": {
+          "2026": "1330000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113344": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "9000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113347": [
+      {
+        "action": "HORIZON-CL3-2026-01-BM-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113346": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-05 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4835000,
+        "maxContribution": 4835000,
+        "budgetYearMap": {
+          "2026": "9670000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113349": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-04 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "6000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113348": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "5000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113351": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-05 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "4500000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113350": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 1500000,
+        "maxContribution": 1500000,
+        "budgetYearMap": {
+          "2026": "3000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113353": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113352": [
+      {
+        "action": "HORIZON-CL3-2026-01-INFRA-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2026": "9000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113355": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "3000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113354": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113357": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "8000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113356": [
+      {
+        "action": "HORIZON-CL3-2026-01-INFRA-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4835000,
+        "maxContribution": 4835000,
+        "budgetYearMap": {
+          "2026": "9670000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113359": [
+      {
+        "action": "HORIZON-CL3-2026-01-FCT-06 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "3000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113358": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-02 - HORIZON-PCP HORIZON Pre-commercial Procurement",
+        "expectedGrants": 1,
+        "minContribution": 5830000,
+        "maxContribution": 5830000,
+        "budgetYearMap": {
+          "2026": "5830000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113361": [
+      {
+        "action": "HORIZON-CL3-2026-01-INFRA-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2026": "4000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113360": [
+      {
+        "action": "HORIZON-CL3-2026-01-SSRI-03 - HORIZON-PPI HORIZON Public Procurement of Innovative Solutions",
+        "expectedGrants": 1,
+        "minContribution": 2000000,
+        "maxContribution": 2000000,
+        "budgetYearMap": {
+          "2026": "2000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113341": [
+      {
+        "action": "HORIZON-CL3-2026-01-BM-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2026": "12000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113343": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "6000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ],
+    "113342": [
+      {
+        "action": "HORIZON-CL3-2026-01-DRS-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2026": "6000000"
+        },
+        "plannedOpeningDate": "2026-05-06",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-11-05"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to some or all of the following outcomes:
+
+- Critical infrastructure operators and authorities have access to efficient, adaptable, resilient and reliable tools and processes enabling or improving virtual and physical stress tests of their respective assets/ and operations;
+- Critical entities have broader and deeper understanding of their technical and operational vulnerabilities and adaptive capabilities, improving the scenario building and stress tests exercises;
+- Systems allowing notification and collaboration under stress conditions are available for relevant stakeholders;
+- Critical entities are better equipped for post-incident investigations, including data collection, analysis and improved learning, management and sharing in a secure manner;
+- Improved operational procedures including incidents management and training curricula are developed. 
+ Scope:
+
+The resilience of critical entities is of paramount importance as disruptions to these systems can have significant consequences for the whole economy, public health, security or safety. These systems, responsible for providing essential services for modern society, are increasingly complex and interconnected, making them vulnerable to a range of threats, including cyber-attacks, physical attacks, malfunctions, human-induced or natural disasters.
+
+The objective of this topic is to facilitate the stress testing of critical infrastructure by providing specialized tools and methodologies and support validation. This will enable the identification and testing of technical and operational vulnerabilities, inform of effective solutions to mitigate these risks, and facilitate the collection and analysis of data to enhance resilience plans that shall be established by each critical entity. Building on the insights gained from previous exercises, the ultimate goal is to establish more robust and comprehensive stress testing protocols, thereby ensuring the reliability and integrity of critical infrastructure.
+
+The proposed solutions may, among others, support simulation and modelling, multi-hazard and multi-threat scenario building, data analytics, including geospatial information, Digital Twins, assessment of risks and adaptive capabilities, as well as impact of human factors.
+
+These solutions should be designed to be inclusive and accessible, considering the needs of diverse users and stakeholders. Solutions should allow flexible configuration taking into account the evolving nature of threats and hazards. If feasible they should also be adaptable to different sectors and should support stress testing under diverse environmental and geographical conditions, including operation in harsh and remote environments. Moreover, they should comply with the relevant legislative frameworks and allow application of the developed tools under the current regime taking into account the sensitivity and confidentiality of the processed information.
+
+Coordination among the successful proposals from this topic and projects funded under HORIZON-CL3-2025-01-INFRA-01: Open topic for improved preparedness for, response to and recovery from large-scale disruptions of critical infrastructures and HORIZON-CL3-2025-01-INFRA-02: Open topic for role of the human factor for resilience of European critical entities, should be envisaged in order to avoid duplication, share resources and exploit complementarities and opportunities for increased impact.
+
+In this topic the integration of the gender dimension (sex and gender analysis) in research and innovation content should be addressed only if relevant in relation to the objectives of the research effort.
+
+Where relevant, funded projects are encouraged to liaise with the European Commission's Joint Research Centre, for complementary real-scale testing at the Reaction Wall and HopLab of the European Laboratory for Structural Assessment (ELSA).
+
+Technology Readiness Level - Technology readiness level expected from completed projects
+
+Activities are expected to achieve TRL 6-7 by the end of the project – see General Annex B.
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+In line with the “restriction on control in innovation actions in critical technology areas” delineated in General Annex B of the General Annexes, entities established in an eligible country but which are directly or indirectly controlled by China or by a legal entity established in China are not eligible to participate in the action.
+
+Subject to restrictions for the protection of European communication networks.
+
+The Joint Research Centre (JRC) may participate as member of the consortium selected for funding as a beneficiary with zero funding, or as an associated partner. The JRC will not participate in the preparation and submission of the proposal - see General Annex B.
+
+The following additional eligibility conditions apply:
+
+This topic requires involvement as beneficiaries of at least 3 relevant practitioners from EU Member States or Associated Countries. Depending on the specific proposal submitted, these practitioners should represent one or several of the following portfolios:
+
+- critical infrastructure operator,
+- authority responsible for critical infrastructure resilience,
+- civil protection authority,
+- law enforcement or private companies providing security for critical infrastructure.
+ For these participants, applicants must fill in the table “Information about security practitioners” in the application form with all the requested information, following the template provided in the submission IT tool.
+
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.
+
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+Some activities resulting from this topic may involve using classified background and/or producing of security sensitive results (EUCI and SEN). Please refer to the related provisions in section B Security — EU classified and sensitive information of the General Annexes.
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA) 
+
+HE Programme Guide 
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA 
+
+Call-specific instructions 
+
+Detailed budget table (HE LS) 
+
+Information on financial support to third parties (HE) 
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 6. Civil Security for Society
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual 
+
+Funding & Tenders Portal Terms and Conditions 
+
+Funding & Tenders Portal Privacy Statement
+
+=== DOCUMENT LINKS ===
+- HORIZON Innovation Actions: https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43994?topic=HORIZON-CL3-2026-01-INFRA-01

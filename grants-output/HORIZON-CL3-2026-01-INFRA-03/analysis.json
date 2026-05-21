@@ -1,0 +1,86 @@
+{
+  "grantId": "HORIZON-CL3-2026-01-INFRA-03",
+  "kind": "grant",
+  "fetchedAt": "2026-05-11T13:42:00+00:00",
+  "analyzedAt": "2026-05-11T13:55:00+00:00",
+  "grant": {
+    "title": "Targeted innovative capabilities for the resilience of critical entities to natural and human-induced disasters, including hybrid scenarios",
+    "callIdentifier": "HORIZON-CL3-2026-01",
+    "type": "HORIZON Innovation Actions",
+    "typeCode": "1",
+    "deadline": "2026-11-05",
+    "deadlineModel": "single-stage; lump sum; TRL 6-7 expected by project end",
+    "budgetTotal": "€9,000,000 (2 grants expected under this topic)",
+    "budgetPerProject": "€4,500,000 (lump sum)",
+    "expectedOutcome": "Improved understanding of systemic vulnerabilities of critical entities (physical, digital, operational, cross-sectoral) against compound natural and human-made disaster risks; verification of measures countering NaTech risks; demonstration of advanced technological solutions that enhance public and private critical-service providers' ability to prepare for, respond to, and recover from complex, multi-hazard scenarios — including cascading or hybrid NaTech events; deployment of common platforms and operational tools for dynamic risk assessment and decision support between public authorities, first responders, and critical-infrastructure operators; strengthened multi-level and cross-border cooperation frameworks for integrated emergency and continuity management.",
+    "scope": "Targeted high-tech capabilities addressing specific preparedness, operational, and recovery gaps in the resilience of critical entities under multi-hazard and NaTech conditions, including hybrid scenarios. Solutions must move beyond generic resilience frameworks toward sector-specific, interoperable, modular technological and governance solutions deployed and tested in realistic operational settings. Proposals must be grounded in existing risk assessments and lessons learned from recent disruptive events; deliver measurable improvements in technological and organisational resilience by identifying and prioritising critical capability gaps where cascading and cross-sectoral risks arise; design adaptive continuity-planning and decision-making tools that enhance situational awareness, support dynamic response coordination, and maintain service continuity in fast-evolving crisis scenarios. Cross-border, multi-actor coordination mechanisms must be demonstrated through simulations or real-operational-environment testing involving public authorities, emergency responders, and critical-service operators. International cooperation is encouraged for cross-border infrastructure regions. Coordination expected with HORIZON-CL3-2025-01-INFRA-01, HORIZON-CL3-2025-01-INFRA-02, and HORIZON-CL3-2024-DRS-01-04 projects. If satellite EO / PNT data is used, beneficiaries must use Copernicus and/or Galileo/EGNOS.",
+    "topicsKeywords": [
+      "critical entities resilience",
+      "NaTech (natural hazard triggered technological)",
+      "hybrid scenarios",
+      "multi-hazard / cascading risks",
+      "dynamic risk assessment & decision support",
+      "civil protection / first responders",
+      "cross-border continuity management",
+      "TRL 6-7 demonstration"
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": "Standard HE IA minimum (3 independent legal entities from 3 different MS/AC) PLUS topic-specific requirement: at least 3 relevant practitioners from EU MS / Associated Countries as beneficiaries",
+    "requiredCountries": "EU Member States and Associated Countries (Ukraine eligible as AC). Entities directly or indirectly controlled by China are NOT eligible under the 'restriction on control in innovation actions in critical technology areas' clause.",
+    "otherConstraints": "Practitioner portfolios required (one or several): critical infrastructure operator; authority responsible for critical infrastructure resilience; civil protection authority; first responders' organisations/agencies; authority in charge of managing NaTech events; law enforcement or private security companies for critical infrastructure. Application must include the 'Information about security practitioners' table. Lump-sum funding. May involve EUCI/SEN-classified material. EU may object to ownership transfer / exclusive licensing of results up to 4 years post-action."
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": "Dynamic risk assessment & decision-support tools for critical entities under multi-hazard / hybrid scenarios",
+        "znuArea": "Artificial Intelligence and Machine Learning + Smart Grids and Renewable Energy Systems",
+        "strength": "high",
+        "rationale": "ZNU's AI & Automated Systems Lab plus the documented smart-grid expertise map directly to AI-driven situational-awareness, anomaly detection, and decision-support tooling for grid / critical-service operators."
+      },
+      {
+        "grantTopic": "Digital simulation of cascading / cross-sectoral disruptions",
+        "znuArea": "Digital Twins for Industrial and Energy Systems + HPC and Parallel Computing",
+        "strength": "high",
+        "rationale": "Digital twins of energy/industrial systems are an explicit ZNU research area, and the Laboratory of Parallel and Distributed Computing supports the compute load for multi-hazard simulations."
+      },
+      {
+        "grantTopic": "Organisational resilience and continuity planning under hybrid threats",
+        "znuArea": "warContext — frontline-region operational continuity (blended learning, ESG strategy, Azure migration, solar/cogeneration)",
+        "strength": "high",
+        "rationale": "ZNU is a real-world case study of an institution maintaining critical educational and research operations under live hybrid threat — exactly the operational evidence base this topic asks for."
+      },
+      {
+        "grantTopic": "Cross-border coordination among public authorities, responders, and operators",
+        "znuArea": "Pedagogical Sciences and Education Innovation (for capacity-building components)",
+        "strength": "low",
+        "rationale": "Limited direct overlap; relevant only if the project includes practitioner training streams."
+      }
+    ],
+    "resourceFit": "Laboratory of Parallel and Distributed Computing + Azure cloud + solar/cogeneration + 10 educational/research buildings provide compute, secure-cloud, and resilient-ops infrastructure adequate for TRL 6-7 demonstrators. No specialised civil-protection simulator on site — that capability would come from practitioner partners.",
+    "partnershipFit": "ZNU's documented partners (NTNU, Durham, TU Bergakademie Freiberg) cover the academic minimum but do NOT cover the topic-specific 'at least 3 practitioners' requirement. ZNU must bring or recruit Ukrainian critical-infrastructure operators (Ukrenergo, regional DSO, water utilities) and/or the State Emergency Service of Ukraine (SES/DSNS), and/or partner with an EU civil-protection authority via NTNU's Norwegian network. This is the binding gap.",
+    "trackRecordFit": "3 active Horizon MSCA + 14 Erasmus+ + UA-UK Twinning + the Ukrainian state-budget project 'AI in logistics systems for national security' (3.59M UAH) all support technical and managerial credibility. The national-security AI project is particularly on-point.",
+    "warContextRelevance": "Very high — 'human-induced disasters, including hybrid scenarios' is essentially written for frontline operational contexts. ZNU's Zaporizhzhia location, ESG strategy, Azure cloud migration, and continuity-under-attack track record give the consortium evidence and lessons-learned that few EU partners can match."
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "partial",
+    "shouldApply": "maybe",
+    "confidence": "high",
+    "recommendedRole": "WP lead on AI / digital-twin decision-support; co-lead on the 'lessons from frontline operational continuity' evidence base. Coordinator role is not realistic without prior IA coordination history.",
+    "strengths": [
+      "Direct alignment of AI Lab, smart-grid, digital-twin, and HPC capabilities with the topic's core technical asks",
+      "Frontline-region operational data is a genuine, hard-to-replicate value-add for 'hybrid scenarios'",
+      "'AI in logistics systems for national security' is a directly-cited adjacent track-record asset",
+      "Deadline (≈178 days from today) leaves realistic prep time for a single-stage IA"
+    ],
+    "risks": [
+      "Topic-specific requirement of ≥3 practitioner beneficiaries is the binding constraint — ZNU's current partnerships are academic-only",
+      "Lump-sum IA with €4.5M ticket size implies a serious consortium track record; ZNU would need a coordinator with prior CL3 experience",
+      "Possible EUCI/SEN classified-information handling requirement — verify ZNU has or can establish the needed facility security clearance",
+      "Copernicus/Galileo mandate if EO/PNT data is used — minor but to be planned for"
+    ],
+    "rationale": "Strong technical fit between the AI & Automated Systems Lab, smart-grid, digital-twin, and HPC capabilities and the topic's call for AI-driven dynamic risk assessment, decision support, and cascading-impact simulation. ZNU's frontline operational evidence base directly addresses the 'human-induced disasters, including hybrid scenarios' angle, which is a rare differentiator in the EU consortium pool. The deciding factor is the topic-specific eligibility constraint of ≥3 practitioner beneficiaries (critical-infrastructure operators, civil-protection authorities, first responders, etc.) — ZNU's existing NTNU/Durham/TUBAF network is academic-only and does not satisfy this. Therefore: pursue as Partner / WP lead, but only after securing (a) a CL3-experienced EU coordinator (engage NTNU's Norwegian civil-protection network) and (b) Ukrainian operational practitioners (Ukrenergo / DSNS / regional energy operators) ready to join as beneficiaries. The €4.5M ticket and the EUCI/SEN possibility raise the operational bar; lump-sum simplifies financial reporting but requires precise WP scoping up front. Verdict 'maybe' reflects high technical fit with a real but solvable consortium gap; this would shift to 'yes' the moment a CL3 coordinator commits and at least one Ukrainian practitioner is on board."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "grantId": "HORIZON-CL3-2026-02-CS-ECCC-02",
+  "kind": "grant",
+  "fetchedAt": "2026-05-11T13:42:00+00:00",
+  "analyzedAt": "2026-05-11T13:58:00+00:00",
+  "grant": {
+    "title": "Enhancing the Security, Privacy and Robustness of AI Models and Systems (SecureAI)",
+    "callIdentifier": "HORIZON-CL3-2026-02-CS-ECCC",
+    "type": "HORIZON Innovation Actions (Indirectly managed by ECCC)",
+    "typeCode": "1",
+    "deadline": "2026-09-15",
+    "deadlineModel": "single-stage; lump sum; ECCC-managed cybersecurity action",
+    "budgetTotal": "€21,200,000 (5 grants expected)",
+    "budgetPerProject": "€3,000,000 – €4,000,000 (lump sum)",
+    "expectedOutcome": "Robust AI models and systems capable of resisting different classes of adversarial manipulation; innovative defence mechanisms for AI models and systems against new attack families; methodologies for detecting and mitigating attacks such as data poisoning, backdoor exploitation, and misclassification; AI systems leveraging privacy-enhancing technologies that maintain data confidentiality and regulatory compliance, enabling trusted in-house AI deployments (e.g., for governments and enterprises).",
+    "scope": "Strengthen the resilience of AI systems and algorithms against adversarial attacks, backdoor injections, and data poisoning. Develop real-time anomaly detection, mitigation techniques, and robust federated learning, in synergy with AI transparency efforts and in compliance with the AI Act. Three pillars: (1) Develop robust AI models resistant to adversarial attacks — adversarial training, robust optimisation, defence mechanisms enhancing trustworthiness; (2) Improve detection of manipulated or poisoned training data — anomaly detection, provenance tracking, automated data validation; (3) Address 'Private AI' — federated learning, secure aggregation, computing on encrypted data, quantum-safe homomorphic encryption, secure inference in deep learning, all within trusted execution boundaries (on-premise or regulated cloud) for government and enterprise sensitive-use settings.",
+    "topicsKeywords": [
+      "robust AI models",
+      "adversarial attacks / training",
+      "data poisoning / backdoor detection",
+      "federated learning",
+      "privacy-enhancing technologies (PETs)",
+      "homomorphic encryption",
+      "secure aggregation",
+      "AI Act compliance",
+      "trusted execution environments",
+      "anomaly detection"
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": "Standard HE IA minimum (3 independent legal entities from 3 different MS/AC). ECCC-managed actions typically expect strong cybersecurity-cluster credentials.",
+    "requiredCountries": "Participation restricted to legal entities established in EU Member States and Associated Countries. Entities directly or indirectly controlled by a non-eligible country (or non-eligible-country entity) shall not participate. Ukraine, as an Associated Country, is eligible.",
+    "otherConstraints": "Strategic-autonomy / security-restricted call: Ownership Control Declaration required. May involve EUCI/SEN classified background or security-sensitive results. Lump-sum funding. ECCC (European Cybersecurity Competence Centre) is the indirect granting authority — proposals are evaluated with strategic-autonomy considerations in mind."
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": "Robust AI models resistant to adversarial attacks; anomaly detection on training data",
+        "znuArea": "Artificial Intelligence and Machine Learning + Computer Science and Software Engineering",
+        "strength": "high",
+        "rationale": "Directly maps to ZNU's AI & Automated Systems Lab capabilities (model development, optimisation algorithms) and the Faculty of Mathematics's documented AI/ML expertise."
+      },
+      {
+        "grantTopic": "Private AI — federated learning, secure aggregation, secure inference",
+        "znuArea": "AI/ML + HPC and Parallel Computing (Laboratory of Parallel and Distributed Computing)",
+        "strength": "medium",
+        "rationale": "Federated learning and secure computation require both AI/ML and distributed-computing expertise, both of which ZNU has, although homomorphic-encryption / quantum-safe crypto are not explicit ZNU specialisations."
+      },
+      {
+        "grantTopic": "AI for safety-critical and national-security contexts",
+        "znuArea": "Track record: 'AI in logistics systems for national security' (3.59M UAH state-budget project)",
+        "strength": "medium",
+        "rationale": "ZNU has a documented project explicitly applying AI to national-security logistics — directly adjacent to the topic's enterprise/government use cases."
+      },
+      {
+        "grantTopic": "AI Act compliance, trustworthy AI",
+        "znuArea": "AI/ML + Pedagogical Sciences (for governance / policy education streams)",
+        "strength": "low",
+        "rationale": "No explicit regulatory-AI compliance expertise documented in the ZNU profile."
+      }
+    ],
+    "resourceFit": "Laboratory of Parallel and Distributed Computing supports adversarial-training and federated-learning experiments. Azure cloud provides a regulated-cloud testbed relevant for 'trusted execution boundaries'. No on-prem HSM or quantum-safe-crypto facility documented — these would have to come from a cybersecurity-cluster partner.",
+    "partnershipFit": "NTNU is a strong candidate — Norway has active AI-security research and a cybersecurity ecosystem (NORCICS centre etc.). Durham and TU Bergakademie Freiberg add academic depth but not cybersecurity-cluster specialisation. ZNU would benefit from a partner from an ECCC-affiliated national cybersecurity competence centre (e.g., one of the NCCs).",
+    "trackRecordFit": "3 active Horizon MSCA + 14 Erasmus+ + DAAD Ukraine Digital demonstrate research-management capability. The 'AI in logistics systems for national security' UA state-budget project is directly relevant. No prior CL3 cybersecurity project documented — this is a track-record gap when bidding against established cybersecurity-cluster coordinators.",
+    "warContextRelevance": "High — Ukraine has operational, non-simulated data on AI-and-system attacks in wartime conditions (disinformation models, deepfake detection, drone counter-AI, OSINT pipelines under adversarial pressure). This is a genuine differentiator for the 'real-world adversarial robustness' pillar."
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "shouldApply": "yes",
+    "confidence": "medium",
+    "recommendedRole": "Partner / WP lead on adversarial robustness or federated-learning workstream, with Ukrainian operational data as the differentiator. Coordinator role not realistic without prior CL3 cybersecurity history.",
+    "strengths": [
+      "Direct AI Lab core fit on at least two of the three topic pillars (adversarial robustness, federated/private AI)",
+      "Adjacent track record: 'AI in logistics systems for national security' provides credible references",
+      "Ukrainian wartime operational data on AI-under-attack is rare and valuable for evaluators",
+      "≈127 days to deadline is enough to join a forming consortium and contribute a well-scoped WP"
+    ],
+    "risks": [
+      "ECCC-managed cybersecurity calls are competitive — strong cybersecurity-cluster credentials are usually expected, which ZNU does not yet have",
+      "Strategic-autonomy / Ownership Control Declaration and EUCI/SEN handling raise the operational compliance bar",
+      "Quantum-safe homomorphic encryption is a specialised sub-field that ZNU does not currently cover; a partner with PETs / cryptography depth is needed",
+      "No documented cryptography / hardware-security lab at ZNU — risk of being scoped out of the 'Private AI' pillar without strong partners"
+    ],
+    "rationale": "This is the cleanest direct fit between the topic call and the AI & Automated Systems Lab's stated capabilities — adversarial robustness, anomaly detection on training data, and federated learning are all within reach for the existing AI/ML and distributed-computing teams. The 'AI in logistics systems for national security' project and Ukraine's frontline operational context together give ZNU a credible, hard-to-replicate evidence base for the real-world-adversarial-pressure angle. The honest gap is on cryptography / PETs depth (homomorphic encryption, secure aggregation, hardware-rooted trust) — these require a specialised partner from an ECCC-affiliated cybersecurity competence centre, ideally surfaced via NTNU's Norwegian or a German (BSI-linked) network. With ≈4 months of prep, the realistic ambition is Partner / WP lead in a consortium led by an experienced CL3 cybersecurity coordinator. Verdict 'yes' is conditional on lining up that coordinator within ≈6 weeks; otherwise the call risks slipping to 'maybe' as the timeline shortens."
+  }
+}

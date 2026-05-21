@@ -1,0 +1,269 @@
+GRANT CALL: Researching the technical, social & economic factors impacting the energy performance of Smart Buildings (Built4People Partnership)
+Identifier: HORIZON-CL5-2026-09-D4-01
+Call: HORIZON-CL5-2026-09 — BATTERIES and ENERGY
+Type of Action: HORIZON  Research and Innovation Actions
+Deadline: 2026-09-15T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "113409": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5250000,
+        "maxContribution": 5250000,
+        "budgetYearMap": {
+          "2026": "15750000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113408": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5250000,
+        "maxContribution": 5250000,
+        "budgetYearMap": {
+          "2026": "15750000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113410": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-08 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 9000000,
+        "maxContribution": 9000000,
+        "budgetYearMap": {
+          "2026": "18000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113403": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-04 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2026": "15000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113405": [
+      {
+        "action": "HORIZON-CL5-2026-09-D3-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 93000000,
+        "maxContribution": 93000000,
+        "budgetYearMap": {
+          "2026": "93000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113404": [
+      {
+        "action": "HORIZON-CL5-2026-09-D2-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 9400000,
+        "maxContribution": 9400000,
+        "budgetYearMap": {
+          "2026": "9400000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113407": [
+      {
+        "action": "HORIZON-CL5-2026-09-D2-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 7100000,
+        "maxContribution": 7100000,
+        "budgetYearMap": {
+          "2026": "28300000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ],
+    "113406": [
+      {
+        "action": "HORIZON-CL5-2026-09-D4-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 7000000,
+        "maxContribution": 7000000,
+        "budgetYearMap": {
+          "2026": "28000000"
+        },
+        "plannedOpeningDate": "2026-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-09-15"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESTINATION ===
+Using energy in buildings and industry in an efficient, affordable and sustainable way (2026-27)
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to all of the following expected outcomes:
+
+- Increased evidence of factors such as physiological, behavioural, social, environmental and cultural that influence how different user and demographic groups perceive and use smart, secured, integrated energy efficient building systems, and how it affects the building whole-life cycle and energy savings, as well as occupant satisfaction, health and well-being;
+- The design and operation of smart building systems and smart buildings are improved making them more user-friendly and effective.
+ Scope:
+
+Significant investments have been made in developing hardware and software for smart buildings. There is still limited understanding how smart buildings solutions impact the energy performance of buildings and users’ comfort in practice. Research is required on the technical, social, and economic factors that influence how different groups – defined by their social, educational, age, and financial status – use and interact with smart buildings and systems. The whole-life cycle impacts of smart building have to be better understood, from design and construction to operation, maintenance, end-of-life and circular re-use, to ensure delivery of sustainable and cost-effective smart building solutions.
+
+Proposals are expected to address all of the following:
+
+- Research and quantify how existing and novel smart building solutions meet the needs of different social and economic groups (based on their gender, age, educational and financial status, etc.);
+- Identify major barriers and enablers for the use of smart building solutions among different socio-demographic and socio-economic groups, and research how it impacts the energy performance of buildings;
+- Validate of findings in at least three different categories of existing buildings (e.g. private residential, social housing, commercial building, office building, etc.), each one in a different Member State or Associated Country.
+- Develop actionable recommendations tailored to key stakeholders (such as equipment providers, architects, building owners and facility managers) to support the design, deployment and operation of inclusive, user-centric smart building solutions.
+ This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities.
+
+This topic implements the co-programmed European Partnership on ‘People-centric sustainable built environment’ (Built4People). As such, projects resulting from this topic will be expected to contribute to the objectives of Built4People, transfer knowledge to its network of innovation clusters[1] and report on results in support of the monitoring of the Built4People KPIs.
+
+Selected proposals could consider the involvement of the European Commission's Joint Research Centre (JRC) whose contribution could consist of scientific advice and technical analysis of solutions and technologies, support to the transfer of research output to standards, and access to the European Laboratory for Structural Assessment research infrastructure for full-scale testing of buildings.
+
+null
+
+Activities are expected to achieve TRL 4-5 by the end of the project – see General Annex B. Activities may start at any TRL.
+
+[1]  https://built4people.eu/b4pic_network/
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+﻿described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+The Joint Research Centre (JRC) may participate as member of the consortium selected for funding as a beneficiary with zero funding, or as an associated partner. The JRC will not participate in the preparation and submission of the proposal - see General Annex B.
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA)
+
+Evaluation form templates — will be used with the necessary adaptations 
+
+Standard evaluation form (HE RIA, IA)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 8. Climate, Energy and Mobility
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement
+
+=== DOCUMENT LINKS ===
+- HORIZON  Research and Innovation Actions: https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43913?topic=HORIZON-CL5-2026-09-D4-01

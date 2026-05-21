@@ -1,0 +1,158 @@
+GRANT CALL: Twinning
+Identifier: HORIZON-WIDERA-2026-02-WIDENING-01
+Call: HORIZON-WIDERA-2026-02 — Twinning
+Type of Action: HORIZON Coordination and Support Actions
+Deadline: 2026-04-09T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2027",
+    "2026"
+  ],
+  "budgetTopicActionMap": {
+    "112974": [
+      {
+        "action": "HORIZON-WIDERA-2026-02-WIDENING-01 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 210,
+        "minContribution": 800000,
+        "maxContribution": 1500000,
+        "budgetYearMap": {
+          "2026": "223000000",
+          "2027": "41500000"
+        },
+        "plannedOpeningDate": "2026-01-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2026-04-09"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Twinning actions aim to enhance networking activities between the research institutions and research infrastructures of the Widening countries acting as co-ordinators by linking it with at least two internationally leading research institutions from two different Member States or Associated Countries. Twinning actions intend to raise the research profile of the institution from the Widening country and its staff, including strengthening the research management capacity.
+
+Proposals are expected to contribute to all of the following expected outcomes:
+
+- Improved research excellence and capacities in Widening countries closing the research and innovation gap within the European Union;
+- Enhanced strategic collaboration between the research institutions or higher education establishments of the Widening countries and at least two internationally leading research institutions or higher education establishments at European Union level;
+- Raised reputation, research profile and attractiveness of the coordinating institution, and improved research profile of its staff;
+- Strengthened research management capacities of the coordinating institution;
+- Development of novel approaches in R&I collaboration with increased mobility (inwards and outwards) of researchers.
+ Scope:
+
+Twinning proposals should clearly outline the strategy for stepping up and stimulating scientific excellence and innovation capacity in a defined area of research and innovation as well as the scientific excellence of the partners involved. This strategy should include arrangements for formulating joint research and innovation activities and projects in the scientific area of choice and describe how Twinning will take this research to a new level.
+
+This should be supported by a comprehensive set of activities such as, but not limited to, short-term staff exchanges, expert visits and short term on-site or virtual trainings, workshops; conference attendance, organisation of joint summer schools, dissemination and outreach activities. As far as appropriate these activities should take into account the gender equality plans of the participants.
+
+Proposals should also focus on strengthening the research management capacities of the coordinating institution. This should take the form of a dedicated work package or task, placing emphasis to specific activities, in view of helping the staff of the coordinating institution to improve their broader research management capacities as defined in the European Competence Framework for Research Managers[1], including establishing/upgrading a dedicated team within the coordinating institution. This will be achieved by fully utilising the experience and best practices of the internationally leading partners and is expected to be a concrete deliverable of the Twinning exercise.
+
+A research and innovation component not exceeding 30% of the total Horizon Europe grant (including the indirect costs) may be included, which should be presented in a dedicated workpackage (WP1) entitled ‘Research component’. At least 50% of the budget for this component should be allocated to the coordinator. A research and innovation component involves the development and implementation of new ideas, methods, or technologies and advances the current state of the art in a particular field by pushing the boundaries of knowledge and creating novel solutions. All training related to research and innovation that advances beyond the state of the art should be budgeted and included in this work package.
+
+The proposals should illustrate quantitatively and qualitatively the expected impact of the twinning exercise within the coordinating institution (and possibly at regional/national level) based on indicators such as scientific production and peer recognition, collaboration agreements with the non-academic sector, attracting and mobilising investments from the private sector, intellectual property developed, new innovative products or services, number of international students, number of female scientists and their roles in the research institutions.
+
+The proposal should demonstrate how the leading scientific institutions in the consortium will contribute in terms of provision of access to new research avenues, creativity and the development of new approaches, as well as acting as a source for increased gender equality, inclusiveness and mobility (inwards and outwards) of qualified scientists and young researchers including doctoral candidates.
+
+This action is open for participation of the JRC that can contribute with specific expertise, where relevant, for the development of R&I strategies depending on the R&I domain chosen by the project, technology transfer and IPR management as well as linking up to regional smart specialisation strategy.
+
+The duration of the Twinning project should be up to 3 years.
+
+[1]  RM Comp: The European Competence Framework for Research Managers - European Commission
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+Described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+### 2. Eligible Countries
+Described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+The following additional eligibility criteria apply:
+
+In order to achieve the expected outcomes, participation as coordinators to the call is limited to legal entities established in Widening countries, as defined in the Horizon Europe regulation.
+
+The Joint Research Centre (JRC) may participate as member of the consortium selected for funding as a beneficiary with zero funding, or as an associated partner. The JRC will not participate in the preparation and submission of the proposal - see General Annex B.
+
+Described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+Described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+The following rules for dealing with ex-aequo applications apply: in the first place, ex-aequo proposals will be prioritised according to geographical diversity criteria, defined as proposals with coordinators established in a Widening country, not otherwise represented as coordinator higher up the ranking list. The method described in Points 1), 2), 3) and 5) of General Annexes Part F (Procedure/Evaluation procedure and ranking) will then be applied to the remaining equally ranking proposals in the group. This rule establishing the priority order serves to better spread the impact of the action and to strengthen the efficiency of the ‘Widening participation and spreading excellence’ programme.
+
+Are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+Are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+Described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ Described in the specific topic of the Work Programme
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE CSA) 
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+HE MGA
+
+Lump Sum MGA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2026-2027 – 1. General Introduction
+
+HE Main Work Programme 2026-2027 – 11. Widening participation and strengthening the European Research Area
+
+HE Main Work Programme 2026-2027 – 15. General Annexes
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement 
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement

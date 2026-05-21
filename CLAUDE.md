@@ -22,6 +22,7 @@ Local pipeline that fetches EU Horizon grant topics from the EC F&T Portal, comp
 | `scripts/update_index.py` | Rebuild `frontend/data/index.json` from all `analysis.json` files |
 | `.claude/skills/eu-grant-fetcher/SKILL.md` | SEDIA API reference (endpoints, query bodies, response structure) |
 | `.claude/skills/grant-analysis/SKILL.md` | Analysis checklist + `analysis.json` schema + verdict rules |
+| `.claude/skills/grant-shortlister/SKILL.md` | Self-directed top-5 search for ZNU + AI Lab; generates keywords, runs search, ranks and shortlists |
 
 ## Standard flow for scenario 1
 

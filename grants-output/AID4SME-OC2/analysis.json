@@ -1,0 +1,152 @@
+{
+  "grantId": "AID4SME-OC2",
+  "kind": "grant",
+  "sourceUrl": "https://aid4sme.eu/open-call-2/",
+  "fetchedAt": "2026-05-21T05:02:00Z",
+  "analyzedAt": "2026-05-21T05:05:00Z",
+  "grant": {
+    "title": {
+      "en": "AID4SME Open Call #2 — cascade funding under HORIZON-CL4-2024-DIGITAL-EMERGING-01-04 (Industrial leadership in AI, Data and Robotics; AI Data and Robotics Partnership)",
+      "uk": "AID4SME Open Call #2 — каскадне фінансування у межах HORIZON-CL4-2024-DIGITAL-EMERGING-01-04 (промислове лідерство в AI, даних і робототехніці; партнерство AI, Data and Robotics)"
+    },
+    "callIdentifier": "HORIZON-CL4-2024-DIGITAL-EMERGING-01-04 / AID4SME-OC2",
+    "type": {
+      "en": "Competitive call (FSTP — Financial Support to Third Parties) under the AID4SME Innovation Action (IA, GA 101189562)",
+      "uk": "Каскадний конкурс (FSTP — фінансова підтримка третіх сторін) у межах Innovation Action AID4SME (GA 101189562)"
+    },
+    "typeCode": "8",
+    "deadline": "2026-07-15",
+    "deadlineModel": {
+      "en": "Single-stage cascade call. Submission window 15 May 2026 → 15 July 2026 17:00 Brussels (OPEN, SEDIA status 31094502). Sub-grant project duration 14 months across 4 stages (Plan M1; Development M2–M8; Test M9–M10; Assessment M11–M14). Programme execution Nov 2026 → Dec 2027.",
+      "uk": "Одноетапний каскадний конкурс. Вікно подання 15 травня 2026 → 15 липня 2026 17:00 Брюссель (ВІДКРИТО, статус SEDIA 31094502). Тривалість суб-гранту — 14 місяців у 4 етапи (Plan M1; Development M2–M8; Test M9–M10; Assessment M11–M14). Виконання програми — листопад 2026 → грудень 2027."
+    },
+    "budgetTotal": {
+      "en": "€2,350,000 indicative total for OC#2 across up to 12 selected sub-projects.",
+      "uk": "€2 350 000 індикативний загальний бюджет OC#2 на до 12 відібраних суб-проєктів."
+    },
+    "budgetPerProject": {
+      "en": "Max €200,000 EU contribution per project (70% funding rate of total eligible costs). Disbursed as lump sums 30% / 40% / 30% at end of periods 1/2/3. Costs: personnel + purchase (incl. equipment depreciation only) + travel; 25% flat indirect on personnel+purchase. Subcontracting NOT eligible.",
+      "uk": "Макс. €200 000 внеску ЄС на проєкт (рівень фінансування 70% прийнятних витрат). Виплата лумп-сумами 30% / 40% / 30% наприкінці періодів 1/2/3. Витрати: персонал + закупівлі (обладнання — лише амортизація) + відрядження; 25% непрямих витрат на персонал+закупівлі. Субконтракт НЕ прийнятний."
+    },
+    "expectedOutcome": {
+      "en": "Up to 12 SME- or start-up-led sub-projects delivering combined AI + data solutions for large-scale resource-optimisation challenges in European industry, with measurable contribution to the European Green Deal. Each sub-project targets one of 10 pre-defined challenges across 4 domains (Data Collection, Insights, Decision Support, Automation) and a defined KPI set.",
+      "uk": "До 12 суб-проєктів під керівництвом SMEs/стартапів, що дають комбіновані рішення AI + дані для індустріальних викликів великомасштабної оптимізації ресурсів, з вимірюваним внеском у European Green Deal. Кожен суб-проєкт обирає один із 10 викликів у 4 доменах (Data Collection, Insights, Decision Support, Automation) і відповідний набір KPI."
+    },
+    "scope": {
+      "en": "AID4SME provides a Community of Practice plus low-TRL playgrounds (from 4 scientific partners) and high-TRL playgrounds (from 4 industry partners covering automotive, white goods, battery and energy sectors) for selected sub-projects. Open Call #2 invites applications against 10 specific challenges: C1.1 Augmented sensing; C2.1 Product-production Digital Twins; C2.2 Hygiene-inspection for refurbishment; C2.3 Energy-system Digital Twin decision-support tool; C3.2 Automated machine selection for parts production; C3.3 Battery production digital work instructions & skill capturing; C3.4 Automated warehouse and internal logistics management; C4.1 Smart energy management of unplanned machine downtime; C4.3 Semi-automated EV battery disassembly for recycling; C4.4 Co-bot refrigerator door assembly. Submission via F6S only (https://www.f6s.com/aid4sme-oc-2/apply). Up to 2 proposals per challenge selected; ranking by domain.",
+      "uk": "AID4SME надає Community of Practice плюс playground'и низького TRL (від 4 наукових партнерів) і високого TRL (від 4 промислових партнерів: автомобілі, побутова техніка, акумулятори, енергетика) обраним суб-проєктам. Open Call #2 збирає заявки на 10 викликів: C1.1 Augmented sensing; C2.1 Product-production Digital Twins; C2.2 Hygiene-inspection для рефурбіш; C2.3 Energy-system Digital Twin decision-support tool; C3.2 Automated machine selection для виробництва деталей; C3.3 Battery production digital work instructions & skill capturing; C3.4 Automated warehouse and internal logistics management; C4.1 Smart energy management of unplanned machine downtime; C4.3 Semi-automated EV battery disassembly для рециклінгу; C4.4 Co-bot refrigerator door assembly. Подача — лише через F6S (https://www.f6s.com/aid4sme-oc-2/apply). До 2 пропозицій на виклик; ранжування — за доменом."
+    },
+    "topicsKeywords": [
+      {"en": "Cascade funding (FSTP)", "uk": "Каскадне фінансування (FSTP)"},
+      {"en": "SME / Start-up-led, with optional non-funded research partner", "uk": "Лід — SME / Start-up, опційно нефінансований research-партнер"},
+      {"en": "Combined AI + data solutions for industrial resource optimisation", "uk": "Комбіновані рішення AI + дані для оптимізації промислових ресурсів"},
+      {"en": "Digital Twins (product-production, energy-system)", "uk": "Цифрові двійники (виробничі, енергетичних систем)"},
+      {"en": "Smart energy management / machine downtime", "uk": "Smart-управління енергією / простої обладнання"},
+      {"en": "EV battery disassembly & recycling", "uk": "Розбирання та переробка EV-акумуляторів"},
+      {"en": "Automated warehouse and internal logistics", "uk": "Автоматизований склад та внутрішня логістика"},
+      {"en": "European Green Deal contribution required", "uk": "Внесок у European Green Deal — обов'язковий"},
+      {"en": "Low-TRL + high-TRL playgrounds", "uk": "Playground'и низького та високого TRL"},
+      {"en": "F6S submission (aid4sme-oc-2)", "uk": "Подача через F6S (aid4sme-oc-2)"},
+      {"en": "70% funding rate, lump-sum payments", "uk": "Рівень фінансування 70%, лумп-сум виплати"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Single applicant or consortium of up to 2 SMEs/Start-ups (lead must be SME/Start-up). Optional additional non-funded consortium members allowed: industry organisations, integrators/engineering services, AND research institutions, research infrastructures, non-profit organisations, charitable (scientific) foundations and public research centres. ZNU fits the 'public research centre / research institution' category as a non-funded member.",
+      "uk": "Один заявник або консорціум до 2 SMEs/Start-ups (лід — SME/Start-up). Додатково можна включати нефінансованих членів консорціуму: промислові організації, інтегратори/інженерні сервіси, А ТАКОЖ дослідницькі установи, дослідницькі інфраструктури, неприбуткові організації, наукові благодійні фонди та публічні дослідницькі центри. ZNU підходить під категорію «публічний дослідницький центр / дослідницька установа» як нефінансований член."
+    },
+    "requiredCountries": {
+      "en": "EU Member States with valid VAT, plus Horizon Europe Associated Countries (per the official v3.1 list dated 11-07-2024). Ukraine is an HE Associated Country → eligible for participation. UK and Switzerland were NOT associated at the time AID4SME signed its GA (Nov 2024) and are excluded by the GA's frozen reference list.",
+      "uk": "Країни-члени ЄС з дійсним VAT плюс асоційовані країни Horizon Europe (за офіційним переліком v3.1 від 11-07-2024). Україна — асоційована країна HE, тож участь дозволена. Велика Британія та Швейцарія НЕ були асоційованими на момент підписання GA AID4SME (листопад 2024) і виключені «замороженим» переліком GA."
+    },
+    "otherConstraints": {
+      "en": "FUNDING-ELIGIBILITY GATE: only SMEs and Start-ups can receive financial support. ZNU as a public university cannot receive funding directly. To engage with OC#2 funding, ZNU must enter as a non-funded research-institution member of a consortium led by an SME/Start-up. One application limit per SME/Start-up entity; research institutions (incl. ZNU) are NOT limited by the maximum-application cap and may appear in multiple SME-led proposals. Mandatory deliverables: IP Agreement with playground owners (M4), Test & Validation Report (M10), Business plan and exploitation roadmap (M14). Application language: English only. Submission only via F6S. A valid VAT for the funded entity is mandatory. KYC required of selected entities. AID4SME OC#1 winners are excluded from OC#2.",
+      "uk": "ШЛЮЗ ФІНАНСУВАННЯ: лише SMEs та Start-ups можуть отримати фінпідтримку. ZNU як державний університет не може отримати фінансування напряму. Щоб увійти у фінансоване OC#2, ZNU має зайти як нефінансований член-дослідницька установа в консорціумі, очолюваному SME/Start-up. Ліміт 1 заявка на SME/Start-up; дослідницькі установи (включаючи ZNU) НЕ обмежені цим лімітом і можуть бути присутні в кількох SME-led пропозиціях. Обов'язкові deliverables: IP-угода з playground-власниками (M4), Test & Validation Report (M10), Business plan and exploitation roadmap (M14). Мова заявки — лише англійська. Подача — лише через F6S. Дійсний VAT для фінансованої сутності — обов'язковий. KYC для обраних. Переможці AID4SME OC#1 не мають права на OC#2."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "C2.3 Energy-system Digital Twin decision-support tool", "uk": "C2.3 Decision-support інструмент на основі цифрового двійника енергетичної системи"},
+        "znuArea": {"en": "Smart Grids and Renewable Energy + Digital Twins for Industrial and Energy Systems", "uk": "Smart Grids та ВДЕ + цифрові двійники промислових та енергетичних систем"},
+        "strength": "high",
+        "rationale": {"en": "ZNU's smart-grid and digital-twin research lines are a direct, named match. The Laboratory of Parallel and Distributed Computing supplies the modelling/optimisation backbone.", "uk": "Лінії smart-grid та цифрових двійників ZNU — прямий, поіменований збіг. Лабораторія паралельних і розподілених обчислень дає опору з моделювання/оптимізації."}
+      },
+      {
+        "grantTopic": {"en": "C4.1 Smart energy management of unplanned machine downtime", "uk": "C4.1 Smart-управління енергією при незапланованих простоях обладнання"},
+        "znuArea": {"en": "Smart Grids + AI/ML + HPC", "uk": "Smart Grids + AI/ML + HPC"},
+        "strength": "high",
+        "rationale": {"en": "Combines real-time energy-system management (ZNU's named expertise) with AI/ML on parallel hardware (the Lab of Parallel and Distributed Computing).", "uk": "Поєднує реальне-часове управління енергосистемою (поіменована експертиза ZNU) з AI/ML на паралельному залізі (Лабораторія паралельних і розподілених обчислень)."}
+      },
+      {
+        "grantTopic": {"en": "C2.1 Product-production Digital Twins", "uk": "C2.1 Цифрові двійники виробничого процесу"},
+        "znuArea": {"en": "Digital Twins for Industrial and Energy Systems + Materials/metallurgy labs", "uk": "Цифрові двійники промислових та енергетичних систем + лабораторії матеріалів/металургії"},
+        "strength": "high",
+        "rationale": {"en": "ZNU's digital-twin work for industrial systems, plus an Engineering Institute with metallurgy and thermochemical processing capability, can host realistic test cases for a SME's production digital twin.", "uk": "Робота ZNU з цифровими двійниками промислових систем плюс Інженерний інститут з можливостями металургії та термохімічної обробки дають реалістичні тест-кейси для виробничого цифрового двійника SME."}
+      },
+      {
+        "grantTopic": {"en": "C3.4 Automated warehouse and internal logistics management", "uk": "C3.4 Автоматизований склад та внутрішня логістика"},
+        "znuArea": {"en": "AI/ML + active state-funded grant 'AI in logistics systems for national security' (3.59M UAH)", "uk": "AI/ML + чинний держгрант «AI у логістичних системах національної безпеки» (3,59 млн грн)"},
+        "strength": "medium",
+        "rationale": {"en": "ZNU has a running AI-for-logistics grant — the topic aligns, but the AID4SME challenge is industrial-warehouse-flavoured, not security-flavoured, so reuse needs translation.", "uk": "ZNU має чинний грант з AI-логістики — тема збігається, але виклик AID4SME — промислово-складський, а не безпековий, тож переніс потребує адаптації."}
+      },
+      {
+        "grantTopic": {"en": "C4.3 Semi-automated EV battery disassembly for recycling", "uk": "C4.3 Напівавтоматизоване розбирання EV-акумуляторів для рециклінгу"},
+        "znuArea": {"en": "Green Metal Industry + Electrochemistry (electrolyzer engineering) + Catalysis", "uk": "Green Metal Industry + електрохімія (інженерія електролізерів) + каталіз"},
+        "strength": "medium",
+        "rationale": {"en": "ZNU's electrochemistry / catalysis work on Al-Mg fluoride-oxide melts and industrial gas purification is adjacent to battery-material recovery; not identical, but a credible playground for chemistry/electrochemistry side-experiments.", "uk": "Електрохімія/каталіз ZNU на Al-Mg фторид-оксидних розплавах та очищення промислових газів — суміжне з відновленням батарейних матеріалів; не ідентично, але правдивий playground для побічних експериментів з хімії/електрохімії."}
+      },
+      {
+        "grantTopic": {"en": "Cross-cutting: Community of Practice / low-TRL playgrounds", "uk": "Наскрізне: Community of Practice / playground'и низького TRL"},
+        "znuArea": {"en": "HPC lab + Engineering Institute labs + Azure cloud + 10 educational research buildings", "uk": "HPC-лабораторія + лабораторії Інженерного інституту + Azure-хмара + 10 навчально-наукових корпусів"},
+        "strength": "medium",
+        "rationale": {"en": "ZNU could offer additional low-TRL playground capacity (computational, materials, electrochemistry) on top of what AID4SME's 4 scientific partners already provide — extension role, not substitute.", "uk": "ZNU міг би запропонувати додатковий ресурс playground'ів низького TRL (обчислювальний, матеріалів, електрохімії) поверх 4 наукових партнерів AID4SME — роль розширення, не заміни."}
+      }
+    ],
+    "resourceFit": {
+      "en": "Strong. HPC (Lab of Parallel and Distributed Computing), Azure cloud, solar power, VR setup, materials/electrochemistry labs and the digital-twin pipeline all align with the challenge KPIs around resource optimisation and Green-Deal alignment. Resources are a real asset that ZNU can bring to an SME lead.",
+      "uk": "Сильний. HPC (Лабораторія паралельних і розподілених обчислень), Azure-хмара, сонячна енергетика, VR, лабораторії матеріалів/електрохімії та пайплайн цифрових двійників відповідають KPIs про оптимізацію ресурсів і узгодження з Green Deal. Ресурси — реальна цінність, яку ZNU може принести SME-ліду."
+    },
+    "partnershipFit": {
+      "en": "Mixed. Existing ZNU partnerships (NTNU, Durham, TU Bergakademie Freiberg) are universities and cannot lead an OC#2 application either. The realistic path is to identify a Ukrainian or EU AI/data SME (e.g., via Ukrainian Startup Fund alumni, DAAD Ukraine Digital alumni, or Erasmus+ industry partners) and join as a non-funded research partner. Without an SME lead, ZNU cannot enter OC#2.",
+      "uk": "Змішано. Чинні партнери ZNU (NTNU, Durham, TU Bergakademie Freiberg) — університети і теж не можуть лідирувати в OC#2. Реалістичний шлях — знайти український або європейський AI/data-SME (через Ukrainian Startup Fund alumni, DAAD Ukraine Digital alumni, індустріальних партнерів Erasmus+) і зайти як нефінансований research-партнер. Без SME-ліда ZNU не зайде в OC#2."
+    },
+    "trackRecordFit": {
+      "en": "Relevant: 3 active Horizon MSCA projects show ZNU can execute under Horizon admin rules; the AI-in-logistics state grant proves applied AI capability; UA-UK Twinning and DAAD Ukraine Digital show working partnerships with non-UA partners. None of this converts ZNU into a SME, but it makes ZNU a credible research-institution member.",
+      "uk": "Релевантно: 3 чинні Horizon MSCA-проєкти показують, що ZNU виконує під Horizon-правилами; держгрант з AI-логістики підтверджує прикладну AI-спроможність; UA-UK Twinning та DAAD Ukraine Digital показують робочі партнерства з не-UA партнерами. Жоден з цих фактів не робить ZNU SME, але робить його достовірним членом-дослідницькою установою."
+    },
+    "warContextRelevance": {
+      "en": "Useful for the Impact criterion (Section 5.3.1, 2.3 'green alignment, social and environmental sustainability'): ZNU's frontline-region resilience, ESG strategy, Azure migration, and solar-on-roof story support a credible social-impact narrative. Not a tie-breaker, but a real bonus.",
+      "uk": "Корисно для критерію Impact (Section 5.3.1, 2.3 «green alignment, social and environmental sustainability»): прифронтова стійкість ZNU, ESG-стратегія, міграція в Azure, дахові сонячні станції — підтримують переконливий наратив соціального впливу. Не вирішальний фактор, але реальний бонус."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "partial",
+    "shouldApply": "maybe",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "Non-funded research-institution / public-research-centre consortium member, supporting an SME or Start-up lead. ZNU does NOT submit on its own — its role is to join an existing or to-be-built SME-led proposal as a co-applicant providing HPC, digital-twin modelling, energy-systems expertise, and access to materials/electrochemistry labs. ZNU may appear in multiple SME-led proposals (research institutions are exempt from the 1-application cap).",
+      "uk": "Нефінансований член-дослідницька установа / публічний дослідницький центр, що підтримує лід-SME або стартап. ZNU НЕ подається самостійно — його роль увійти в існуючу або зібрану з нуля SME-led пропозицію як співзаявник, що дає HPC, моделювання цифрових двійників, експертизу енергосистем і доступ до лабораторій матеріалів/електрохімії. ZNU може бути присутній у кількох SME-led пропозиціях (дослідницькі установи звільнені від ліміту 1 заявки)."
+    },
+    "strengths": [
+      {"en": "Multiple high-strength thematic matches against the 10 OC#2 challenges (C2.1, C2.3, C4.1 are direct hits; C3.4 and C4.3 are adjacent). ZNU is genuinely useful to a SME competing in those challenges.", "uk": "Кілька збігів високої сили проти 10 викликів OC#2 (C2.1, C2.3, C4.1 — прямі; C3.4 та C4.3 — суміжні). ZNU справді корисний SME, що змагається в цих викликах."},
+      {"en": "Resource stack (HPC, Azure, materials/electrochemistry labs, solar+cogeneration, VR) maps to the Green-Deal-alignment Impact criterion, which carries 30% weight in expert evaluation.", "uk": "Ресурсний стек (HPC, Azure, лабораторії матеріалів/електрохімії, сонячна+когенерація, VR) відображає критерій Impact щодо узгодження з Green Deal — 30% ваги в експертній оцінці."},
+      {"en": "Ukraine is a confirmed Horizon Europe Associated Country on the v3.1 11-07-2024 list — no eligibility risk on country grounds.", "uk": "Україна — підтверджена асоційована країна Horizon Europe у переліку v3.1 від 11-07-2024 — жодного ризику прийнятності за країною."},
+      {"en": "Research-institution role is exempt from the 1-application cap, so ZNU can fan out across several SME-led bids without competing with itself.", "uk": "Роль дослідницької установи звільнена від ліміту 1 заявки — ZNU може долучитися до кількох SME-led заявок без внутрішньої конкуренції."},
+      {"en": "Track record (3 active Horizon MSCA, AI-in-logistics state grant, UA-UK Twinning, DAAD) gives credible Section-5.3 Criterion 4 'Team / capacity of entities' points to any SME-led application.", "uk": "Доробок (3 чинні Horizon MSCA, держгрант з AI-логістики, UA-UK Twinning, DAAD) дає переконливі бали в Criterion 4 «Team / capacity of entities» Section 5.3 для будь-якої SME-led заявки."}
+    ],
+    "risks": [
+      {"en": "Hard funding gate: ZNU receives ZERO direct funding from OC#2 — value of joining is in-kind (visibility, mentorship pipeline, access to AID4SME's industry/DIH network, future spin-off opportunities). Need to confirm that ZNU leadership accepts an unfunded participation before investing partnering effort.", "uk": "Жорсткий шлюз фінансування: ZNU отримує НУЛЬ прямого фінансування від OC#2 — цінність участі — in-kind (видимість, наставництво, доступ до мережі індустрії/DIH AID4SME, майбутні можливості спінофф). Слід підтвердити, що керівництво ZNU приймає неоплачувану участь, перш ніж вкладати зусилля в партнерство."},
+      {"en": "Timeline pressure: today is 2026-05-21, submission deadline 2026-07-15 — ~8 weeks. The realistic mode is to join a SME's existing draft, not initiate a new one. Identifying an SME lead, agreeing IPR and signing a Consortium Declaration of Honour (Annex 5) inside 6–7 weeks is tight.", "uk": "Тиск термінів: сьогодні 2026-05-21, дедлайн подання 2026-07-15 — ~8 тижнів. Реалістичний режим — приєднатися до чинного драфту SME, а не починати з нуля. Знайти SME-ліда, домовитися про IPR і підписати Consortium Declaration of Honour (Annex 5) за 6–7 тижнів — щільно."},
+      {"en": "No spin-off SME in ZNU's orbit is documented in the participant profile. Action item: confirm whether any Zaporizhzhia or wider-Ukraine AI/data SME could lead — Ukrainian Startup Fund alumni and DAAD Ukraine Digital alumni are the obvious search pools.", "uk": "У профілі ZNU немає документованого SME-спіноффа. Action item: перевірити, чи є якийсь запорізький або ширше-український AI/data-SME, що міг би лідирувати — Ukrainian Startup Fund alumni та DAAD Ukraine Digital alumni — очевидні пули пошуку."},
+      {"en": "Subcontracting is NOT eligible — any work ZNU contributes must be inside the consortium structure, not as a paid subcontractor of an SME.", "uk": "Субконтракт НЕ прийнятний — будь-яка робота ZNU має бути в структурі консорціуму, не як платний підрядник SME."},
+      {"en": "Challenge C4.3 (EV battery disassembly) and C3.3 (battery production digital work instructions) overlap with ZNU's Green Metal Industry line but are sensitive battery-supply-chain topics where playground owners are large EU industry partners — relationship-building with playground owners is required by the M4 IPR Agreement deliverable.", "uk": "Виклики C4.3 (розбирання EV-акумуляторів) та C3.3 (digital work instructions для виробництва акумуляторів) перетинаються з лінією Green Metal Industry ZNU, але це чутливі battery-supply-chain теми, де playground-власники — великі EU-промислові партнери; вибудовування стосунків з playground-власниками обов'язкове через deliverable IPR Agreement (M4)."}
+    ],
+    "rationale": {
+      "en": "Correction to the earlier reading: AID4SME Open Call #2 is OPEN with a submission deadline of 15 July 2026 17:00 Brussels (SEDIA status 31094502; the OC#1 entry I initially fetched was the closed 2025 call, but the URL the user provided pointed at the OC#2 listing). The Annex 1 Guidelines for Applicants (v1.0, 2026-05-13) confirm the verdict logic.\n\nFunding eligibility is restricted to SMEs and Start-ups (Section 4.1.1), so ZNU as a public university cannot be a funded applicant. However, Section 4.1.2 explicitly allows research institutions, research infrastructures, non-profit organisations and public research centres to participate as non-funded consortium members. That opens a real role for ZNU: join an SME-led bid as a research partner that brings HPC, digital-twin and smart-grid expertise, plus access to materials/electrochemistry labs and the Azure cloud / solar / VR infrastructure. Multiple OC#2 challenges line up tightly with ZNU's research areas — C2.3 (Energy-system Digital Twin decision-support tool), C4.1 (Smart energy management of machine downtime), C2.1 (Product-production Digital Twins) are direct fits, with C3.4 (logistics) and C4.3 (EV battery disassembly) as adjacent fits. The 30%-weighted Impact criterion explicitly asks for green alignment and social sustainability, which ZNU's frontline-region resilience story supports.\n\nThe verdict is `maybe`, not `yes`, because the participation is conditional on finding a SME or Start-up willing to lead a proposal targeting one of the OC#2 challenges and to take ZNU on as a non-funded research-institution member. With ~8 weeks to the deadline, the realistic mode is joining an existing SME draft (per the skill's '≥6 weeks if joining as a partner on an existing draft' threshold), not initiating a new consortium from scratch. Concrete next steps: (1) survey Ukrainian Startup Fund alumni, DAAD Ukraine Digital alumni, and ZNU's Erasmus+ industry contacts for AI/data SMEs already preparing an OC#2 submission; (2) confirm ZNU leadership accepts unfunded participation (in-kind value: visibility, AID4SME industry/DIH network, future spin-off opportunities); (3) shortlist 1–3 challenges where ZNU's HPC + digital-twin + smart-grid contribution is most differentiated (C2.3, C4.1, C2.1) and pitch ZNU as the research partner to candidate SME leads. Research institutions are exempt from the 1-application cap, so ZNU may appear in several SME-led proposals without internal conflict.\n\nNo direct funding to ZNU under OC#2 — value is strategic positioning, network access, and pipeline-building for future RIA/IA topics (e.g., HORIZON-CL4-2026-04-DIGITAL-EMERGING-01 and -02, already in grants-input/) where universities can be funded leads.",
+      "uk": "Виправлення попереднього прочитання: AID4SME Open Call #2 ВІДКРИТИЙ з дедлайном подання 15 липня 2026 17:00 Брюссель (статус SEDIA 31094502; запис OC#1, який я спочатку зафечив, був закритим конкурсом 2025 року, але URL від користувача вказував на лістинг OC#2). Annex 1 Guidelines for Applicants (v1.0, 2026-05-13) підтверджує логіку вердикту.\n\nПрийнятність фінансування обмежена SMEs та Start-ups (Section 4.1.1), тож ZNU як державний університет не може бути фінансованим заявником. Однак Section 4.1.2 явно дозволяє дослідницьким установам, дослідницьким інфраструктурам, неприбутковим організаціям і публічним дослідницьким центрам брати участь як нефінансовані члени консорціуму. Це відкриває реальну роль для ZNU: увійти в SME-led заявку як research-партнер, який дає HPC, експертизу цифрових двійників та smart-grid, плюс доступ до лабораторій матеріалів/електрохімії та інфраструктури Azure / сонячна / VR. Кілька викликів OC#2 тісно збігаються з дослідницькими напрямами ZNU — C2.3 (Energy-system Digital Twin decision-support tool), C4.1 (Smart energy management of machine downtime), C2.1 (Product-production Digital Twins) — прямі збіги, з C3.4 (логістика) та C4.3 (розбирання EV-акумуляторів) — суміжні. Критерій Impact з вагою 30% явно вимагає green alignment і соціальної стійкості, що підтримує наратив прифронтової стійкості ZNU.\n\nВердикт — `maybe`, не `yes`, бо участь умовна на знаходження SME або стартапу, готового лідирувати заявку на один з викликів OC#2 і взяти ZNU як нефінансованого члена-дослідницьку установу. За ~8 тижнів до дедлайну реалістичний режим — приєднатися до чинного драфту SME (за порогом скіла «≥6 тижнів, якщо приєднуєшся як партнер до чинного драфту»), не починати новий консорціум з нуля. Конкретні наступні кроки: (1) обстежити Ukrainian Startup Fund alumni, DAAD Ukraine Digital alumni та індустріальні контакти Erasmus+ ZNU на AI/data-SMEs, що вже готують подачу на OC#2; (2) підтвердити, що керівництво ZNU приймає неоплачувану участь (in-kind цінність: видимість, мережа індустрії/DIH AID4SME, майбутні можливості спінофф); (3) шортлистувати 1–3 виклики, де внесок ZNU з HPC + цифровими двійниками + smart-grid найбільш диференційований (C2.3, C4.1, C2.1) і презентувати ZNU як research-партнера кандидатам-SME-лідам. Дослідницькі установи звільнені від ліміту 1 заявки, тож ZNU може бути присутній у кількох SME-led пропозиціях без внутрішнього конфлікту.\n\nПрямого фінансування ZNU за OC#2 не буде — цінність у стратегічному позиціонуванні, доступі до мережі та підготовці пайплайну для майбутніх RIA/IA-топіків (наприклад, HORIZON-CL4-2026-04-DIGITAL-EMERGING-01 та -02, які вже у grants-input/), де університети можуть бути фінансованими лідами."
+    }
+  }
+}
