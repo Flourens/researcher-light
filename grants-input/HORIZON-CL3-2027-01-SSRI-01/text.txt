@@ -1,0 +1,576 @@
+GRANT CALL: Accelerating uptake through open proposals for advanced SME innovation
+Identifier: HORIZON-CL3-2027-01-SSRI-01
+Call: HORIZON-CL3-2027-01 — Civil Security for Society 2027
+Type of Action: HORIZON Innovation Actions
+Deadline: 2027-11-04T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2027"
+  ],
+  "budgetTopicActionMap": {
+    "113197": [
+      {
+        "action": "HORIZON-CL3-2027-01-BM-03 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 3500000,
+        "maxContribution": 3500000,
+        "budgetYearMap": {
+          "2027": "14000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113196": [
+      {
+        "action": "HORIZON-CL3-2027-01-SSRI-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 1500000,
+        "maxContribution": 1500000,
+        "budgetYearMap": {
+          "2027": "4500000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113199": [
+      {
+        "action": "HORIZON-CL3-2027-01-SSRI-03 - HORIZON-PCP HORIZON Pre-commercial Procurement",
+        "expectedGrants": 1,
+        "minContribution": 5830000,
+        "maxContribution": 5830000,
+        "budgetYearMap": {
+          "2027": "5830000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113198": [
+      {
+        "action": "HORIZON-CL3-2027-01-BM-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2027": "8000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113201": [
+      {
+        "action": "HORIZON-CL3-2027-01-INFRA-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 6000000,
+        "maxContribution": 6000000,
+        "budgetYearMap": {
+          "2027": "12000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113200": [
+      {
+        "action": "HORIZON-CL3-2027-01-DRS-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3835000,
+        "maxContribution": 3835000,
+        "budgetYearMap": {
+          "2027": "7670000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113203": [
+      {
+        "action": "HORIZON-CL3-2027-01-FCT-05 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2027": "8000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113202": [
+      {
+        "action": "HORIZON-CL3-2027-01-SSRI-02 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 2,
+        "minContribution": 1000000,
+        "maxContribution": 1000000,
+        "budgetYearMap": {
+          "2027": "2000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113205": [
+      {
+        "action": "HORIZON-CL3-2027-01-BM-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2027": "8000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113204": [
+      {
+        "action": "HORIZON-CL3-2027-01-FCT-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4500000,
+        "maxContribution": 4500000,
+        "budgetYearMap": {
+          "2027": "9000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113207": [
+      {
+        "action": "HORIZON-CL3-2027-01-DRS-04 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2027": "8000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113206": [
+      {
+        "action": "HORIZON-CL3-2027-01-DRS-03 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2027": "9000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113209": [
+      {
+        "action": "HORIZON-CL3-2027-01-DRS-02 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2027": "6000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113208": [
+      {
+        "action": "HORIZON-CL3-2027-01-FCT-03 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2027": "6000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113211": [
+      {
+        "action": "HORIZON-CL3-2027-01-FCT-01 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 7833000,
+        "maxContribution": 7833000,
+        "budgetYearMap": {
+          "2027": "7833000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113210": [
+      {
+        "action": "HORIZON-CL3-2027-01-FCT-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2027": "6000000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ],
+    "113212": [
+      {
+        "action": "HORIZON-CL3-2027-01-INFRA-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 3835000,
+        "maxContribution": 3835000,
+        "budgetYearMap": {
+          "2027": "7670000"
+        },
+        "plannedOpeningDate": "2027-05-05",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2027-11-04"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Project results are expected to contribute to some or all of the following expected outcomes:
+
+- Development of a mature technological solution addressing EU security policy priorities in the areas addressed by the Cluster 3 work programme and in particular the destination of fighting crime and terrorism, disaster resilient societies, border management and resilient infrastructure;
+- Facilitate increased and sustained collaboration between small and medium-sized enterprises (SMEs), public research partners, and academia, leading to improved knowledge transfer within the European innovative SME ecosystem;
+- Mitigate difficulties in access to finance and new international markets, thereby enhancing the growth and expansion of European innovative SMEs.
+ Scope:
+
+Europe’s 25 million small and medium enterprises (SMEs) are the backbone of the EU economy. SMEs can bring innovation to societal challenges, including the security of EU citizens. Innovative SMEs and high-tech start-ups can transform and modernise EU security capabilities.
+
+However, despite the innovation capacity of EU SMEs, these often experience difficulties in finding their way to the public markets. These include red tape in public contracts, access to new customers, access to finance, industrial competition and Intellectual Property (IP) valorisation. These difficulties are exacerbated in markets that show restrictions of different kind, as it is the case of security.
+
+Knowing that SMEs require additional support to reach the security buyers and that the collaboration opportunities offered by the projects of the Pillar II of Horizon Europe can be a catalyst for uptake, this topic aims to offer a collaborative environment for small and medium innovators to tailor their innovations to the specific needs of civil security end-users, taking into account the urge to address the diverse needs of all citizens, regardless of gender, age or ability.
+
+Applicants are invited to submit proposals for technology development along with the following principles:
+
+- Focus on mature technological solutions addressing EU security policy priorities in the areas addressed by the Cluster 3 Work Programme;
+- Fostering collaboration between SMEs from different Member States and Associated Countries;
+- Involving security end-users in the role of validator and potential first-adopter of the proposed innovations;
+- Fostering collaboration schemes between small companies and research and technology organisations and/or big industrial players aimed at fostering innovative technology transfer or creating innovative business models that facilitate access to market and strengthen the innovation capacity of EU SMEs and start-ups in the domain of civil security.
+ Examples of activities to plan in the proposed projects include, but are not limited to: assimilating market requirements; facilitating access to additional funding; approaching potential public buyers; assess competitive landscape; supporting in innovation management (methodological and process innovation, business model innovation, market innovation); assist in IP management and exploitation; provide guidance for expansion to future markets, etc.
+
+The participation of research and technology organisations should not focus on own technology development but on supporting the small industrial players in accelerating the technology transfer of innovative security solutions for their further development and production.
+
+It is encouraged that one SME takes the coordinator role[1]. If the coordinator is not an SME, this should be duly justified.
+
+The projects should have a maximum estimated duration of 2 years.
+
+Under this topic, projects should address one of the following areas addressed by the Cluster 3 work programme: Fighting Crime and Terrorism (FCT, Option A), Disaster-Resilient Society (DRS, Option B), Resilient Infrastructure (INFRA, Option C), Border Management (BM, Option D).
+
+Some (indicative and non-exhaustive) examples of domains that could be addressed under the FCT area are: mobile forensics; deepfake detection; detection of counterfeiting (fake items, fake currency bills) or falsified/forged documents (passports, ID cards); detection and countering of advanced forms of malware, as well as non-cash payment frauds and other cyber-scams.
+
+Some (indicative and non-exhaustive) examples of domains that could be addressed under the DRS area are: data and satellite/remote sensing information exploitation, positioning and localisation tracking and tracing, monitoring and surveillance for disaster prevention.
+
+Some (indicative and non-exhaustive) examples of domains that could be addressed under the INFRA area are: physical access control, autonomous systems used for infrastructure protection, positioning and localisation tracking and tracing, monitoring and surveillance of environments and activities.
+
+Some (indicative and non-exhaustive) examples of domains that could be addressed under the BM area are: facilitated border checks; secure documents and identity management for border crossings; border surveillance; detection of drugs, explosives, Chemical, Biological, Radiological and Nuclear (CBRN), weapons and/or other dangerous materials in customs environment; detection of stolen, smuggled, illicit or illegal goods (cigarettes, art, cultural goods, wildlife) in a customs environment.
+
+Where relevant, proposals are invited to consider legal aspects to support the operationalization, policy integration, and institutional transformation of security solutions. This might include, for instance, the design of legal, policy, and/or standardization pathways to support the operational uptake of security solutions.
+
+This topic contributes to the Strategic Technologies for Europe Platform (STEP[2]) and addresses civil security technologies falling under the sectors of “Digital technologies and deep-tech innovation”[3]. This topic contributes to the objectives stated in the STEP Regulation, e.g., to support the European industry and boost investment in critical technologies in Europe, and, to contribute to reducing or preventing the strategic dependencies of the Union.
+
+Finally, proposals are expected to address all applicable considerations expressed in the Introduction of the Strengthened Security Research and Innovation Destination.
+
+null
+
+Activities are expected to achieve TRL 6-8 by the end of the project – see General Annex B.
+
+[1] If a MIDCAP is included in the proposal, it could also take the role of coordinator.
+
+[2] OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj
+
+[3] https://strategic-technologies.europa.eu/index_en
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+### 1. Admissibility Conditions: Proposal page limit and layout
+described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes.
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System.
+
+DELETE ME Please add hyperlinks as embedded links where needed (underscored text). Send the call document through the document publication form to receive the hyperlink within 2 business days max. DELETE ME
+
+### 2. Eligible Countries
+described in Annex B of the Work Programme General Annexes.
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+### 3. Other Eligible Conditions
+In line with the “restriction on control in innovation actions in critical technology areas” delineated in General Annex B of the General Annexes, entities established in an eligible country but which are directly or indirectly controlled by China or by a legal entity established in China are not eligible to participate in the action.
+
+Subject to restrictions for the protection of European communication networks.
+
+The following additional eligibility conditions apply:
+
+Consortia must include, as beneficiaries:
+
+- A minimum of three (3) to a maximum of seven (7) partners.
+
+- At least 2 SMEs[[See Commission Recommendation 2003/361/EC concerning the definition of micro, small and medium-sized enterprises, as well as the User Guide for SME definition.]] from 2 different Member States.
+
+- At least 1 end-user organisation in the areas addressed by the proposal, namely one of the following options:
+
+- Option A "Fighting Organised Crime and Terrorism’’
+- Option B ‘"Disaster-Resilient Society’’
+- Option C "Resilient Infrastructure’’ and
+- Option D ‘"Border Management’’.
+ Participation of non-SME industries and Research and Technology Organisations (RTOs) is not excluded, but it must be limited to 15% of the proposed budget.
+
+At least 50% of the proposed budget must be allocated to SMEs.
+
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+described in Annex B of the Work Programme General Annexes.
+
+### 4. Financial and operational capacity and exclusion
+described in Annex C of the Work Programme General Annexes.
+
+### 5a. Evaluation and award: Award criteria, scoring and thresholds
+Eligible proposals submitted under this topic and exceeding all the evaluation thresholds will be awarded a STEP Seal [https://strategic-technologies.europa.eu/about/step-seal_en].
+
+are described in Annex D of the Work Programme General Annexes.
+
+### 5b. Evaluation and award: Submission and evaluation processes
+are described in Annex F of the Work Programme General Annexes and the Online Manual.
+
+### 5c. Evaluation and award: Indicative timeline for evaluation and grant agreement
+described in Annex F of the Work Programme General Annexes.
+
+### 6. Legal and financial set-up of the grants
+The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.
+
+Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This decision is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf]].
+
+described in Annex G of the Work Programme General Annexes.
+
+### Specific conditions
+ described in the [specific topic of the Work Programme]
+
+### Application and evaluation forms and model grant agreement (MGA):
+ Application form templates — the application form specific to this call is available in the Submission System
+
+Standard application form (HE RIA, IA) 
+
+Standard application form (HE RIA IA Stage 1)
+
+Standard application form (HE RIA IA Stage 1 BLIND) 
+
+Standard application form (HE CSA)
+
+Standard application form (HE CSA Stage 1)
+
+Standard application form (HE CSA Stage 1 BLIND) 
+
+Standard application form (HE RI)
+
+Standard application form (HE PCP)
+
+Standard application form (HE PPI)
+
+Standard application form (HE COFUND)
+
+Standard application form (HE FPA)
+
+Standard application form (HE MSCA PF)
+
+Standard application form (HE MSCA DN)
+
+Standard application form (HE MSCA SE)
+
+Standard application form (HE MSCA COFUND)
+
+Standard application form (HE MSCA COFUND CE) 
+
+Standard application form (HE ERC STG)
+
+Standard application form (HE ERC COG)
+
+Standard application form (HE ERC ADG)
+
+Standard application form (HE ERC POC)
+
+Standard application form (HE ERC SYG)
+
+Standard application form (HE EIC PATHFINDER CHALLENGES)
+
+Standard application form (HE EIC PATHFINDER OPEN)
+
+Standard application form (HE EIC TRANSITION)
+
+Standard application form (HE EIC STEP) 
+
+Standard application form (HE EIC Accelerator stage 2 - full proposal)
+
+Standard application form (HE EIC Accelerator stage 1 - short proposal)
+
+Evaluation form templates — will be used with the necessary adaptations
+
+Standard evaluation form (HE RIA, IA)
+
+Standard evaluation form (HE CSA)
+
+Standard evaluation form (HE RIA, IA and CSA Stage 1)
+
+Standard evaluation form (HE RIA, IA and CSA Stage 1 BLIND) 
+
+Standard evaluation form (HE PCP PPI)
+
+Standard evaluation form (HE COFUND)
+
+Standard evaluation form (HE FPA)
+
+Standard evaluation form (HE MSCA)
+
+Standard evaluation form (HE EIC PATHFINDER CHALLENGES)
+
+Standard evaluation form (HE EIC PATHFINDER OPEN)
+
+Standard evaluation form (HE EIC TRANSITION)
+
+Standard evaluation form (HE EIC Accelerator stage 1 - short proposal)
+
+Standard evaluation form (HE EIC Accelerator stage 2 - full proposal)
+
+Guidance
+
+HE Programme Guide
+
+Model Grant Agreements (MGA)
+
+HE MGA
+
+HE Unit MGA
+
+Lump Sum MGA
+
+Operating Grants MGA
+
+Framework Partnership Agreement FPA
+
+Call-specific instructions
+
+Detailed budget table (HE LS)
+
+Information on financial support to third parties (HE)
+
+Information on clinical studies (HE)
+
+Guidance: "Lump sums - what do I need to know?"
+
+### Additional documents:
+ HE Main Work Programme 2025 – 1. General Introduction
+
+HE Main Work Programme 2023–2025 – 2. Marie Skłodowska-Curie Actions
+
+HE Main Work Programme 2025 – 3. Research Infrastructures
+
+HE Main Work Programme 2025 – 4. Health
+
+HE Main Work Programme 2025 – 5. Culture, creativity and inclusive society
+
+HE Main Work Programme 2025 – 6. Civil Security for Society
+
+HE Main Work Programme 2025 – 7. Digital, Industry and Space
+
+HE Main Work Programme 2025 – 8. Climate, Energy and Mobility
+
+HE Main Work Programme 2025 – 9. Food, Bioeconomy, Natural Resources, Agriculture and Environment
+
+HE Main Work Programme 2025 – 10. European Innovation Ecosystems (EIE)
+
+HE Main Work Programme 2025 – 11. Widening participation and strengthening the European Research Area
+
+HE Main Work Programme 2025 – 12. Missions
+
+HE Main Work Programme 2025 – 13. New European Bauhaus Facility (NEB)
+
+HE Main Work Programme 2025 – 14. General Annexes
+
+HE Main Work Programme 2023–2025 – 13. General Annexes
+
+EIC Work Programme 2025
+
+ERC Work Programme 2026
+
+HE Programme Guide
+
+HE Framework Programme 2021/695
+
+HE Specific Programme Decision 2021/764 
+
+EU Financial Regulation 2024/2509
+
+Decision authorising the use of lump sum contributions under the Horizon Europe Programme
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+EU Grants AGA — Annotated Model Grant Agreement
+
+Funding & Tenders Portal Online Manual
+
+Funding & Tenders Portal Terms and Conditions
+
+Funding & Tenders Portal Privacy Statement

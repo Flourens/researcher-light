@@ -1,0 +1,125 @@
+{
+  "grantId": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-04",
+  "kind": "grant",
+  "participant": "DICEUS",
+  "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-04",
+  "fetchedAt": "2026-07-26T09:05:00Z",
+  "analyzedAt": "2026-07-26T09:45:00Z",
+  "grant": {
+    "title": {
+      "en": "Apply AI: Challenge-Driven AI Innovation Booster in Apply AI prioritised sectors (RIA) (Partnership in AI, Data and Robotics)",
+      "uk": "Apply AI: Challenge-Driven бустер AI-інновацій у пріоритетних секторах Apply AI (RIA) (Партнерство в AI, Data and Robotics)"
+    },
+    "callIdentifier": "HORIZON-CL4-2027-04 — DIGITAL",
+    "type": {
+      "en": "HORIZON Research and Innovation Actions (RIA); implements the ADRA partnership",
+      "uk": "HORIZON Дослідницько-інноваційні дії (RIA); реалізує партнерство ADRA"
+    },
+    "typeCode": "1",
+    "deadline": "2027-03-18",
+    "deadlineModel": {
+      "en": "Single-stage; CONSORTIUM proposal deadline 2027-03-18 (opens 2026-11-17). NOTE: this deadline is for the organisers that RUN the competition, not for the SMEs that receive money. The FSTP grants to third-party SMEs are distributed by the funded projects in later stages (expected 2028+). TRL 2 → 5.",
+      "uk": "Однораундовий; дедлайн пропозиції КОНСОРЦІУМУ 18.03.2027 (відкриття 17.11.2026). УВАГА: цей дедлайн — для організаторів, що ПРОВОДЯТЬ конкурс, а не для МСП, які отримують кошти. FSTP-гранти третім сторонам (МСП) розподіляються профінансованими проєктами на пізніших етапах (очікується 2028+). TRL 2 → 5."
+    },
+    "budgetTotal": {
+      "en": "EUR 42,000,000 (3 grants of EUR 14,000,000 each)",
+      "uk": "42 000 000 євро (3 гранти по 14 000 000 євро кожен)"
+    },
+    "budgetPerProject": {
+      "en": "EUR 14,000,000 to each ORGANISING consortium. Of this, FSTP to third parties: Stage 2 = 10 × EUR 300,000; Stage 3 = 4 × EUR 2,250,000 (EUR 9M total). Max per third party across stages ≈ EUR 2.55M.",
+      "uk": "14 000 000 євро кожному КОНСОРЦІУМУ-ОРГАНІЗАТОРУ. З них FSTP третім сторонам: Етап 2 = 10 × 300 000 євро; Етап 3 = 4 × 2 250 000 євро (разом 9 млн євро). Максимум на одну третю сторону за етапами ≈ 2,55 млн євро."
+    },
+    "expectedOutcome": {
+      "en": "Challenge-oriented, AI-powered breakthroughs in Apply AI Strategy prioritised sectors; increased competitiveness/visibility of the AI community; increased adoption of AI across three domains: healthcare, advanced manufacturing (incl. AI-powered robotics), and in-vehicle autonomous driving.",
+      "uk": "Прориви на основі ШІ, орієнтовані на виклики, у пріоритетних секторах Apply AI Strategy; підвищення конкурентоспроможності/видимості ШІ-спільноти; ширше впровадження ШІ у трьох доменах: охорона здоров'я, передове виробництво (вкл. ШІ-робототехніку) та автономне водіння."
+    },
+    "scope": {
+      "en": "Each funded consortium runs a multi-stage competition in ONE of three sectors (healthcare / advanced manufacturing / autonomous driving). User-industry companies from that sector must be core partners. Third parties — single SMEs or small SME-led teams — compete: Stage 1 open call → top 10 to Stage 2 (EUR 300k FSTP each) → top 4 to Stage 3 grand finale (EUR 2.25M FSTP each). Consortium provides data access, technical/business support and exploitation pathways. Links to AI-on-demand platform, AI Factories/Data Labs, TEFs and EDIHs.",
+      "uk": "Кожен профінансований консорціум проводить багатоетапний конкурс в ОДНОМУ з трьох секторів (охорона здоров'я / передове виробництво / автономне водіння). Компанії-користувачі з цього сектору мають бути ключовими партнерами. Треті сторони — окремі МСП або невеликі команди на чолі з МСП — змагаються: Етап 1 open call → топ-10 на Етап 2 (по 300 тис. євро FSTP) → топ-4 на Етап 3, гранд-фінал (по 2,25 млн євро FSTP). Консорціум надає доступ до даних, технічну/бізнес-підтримку та шляхи експлуатації. Зв'язки з платформою AI-on-demand, AI Factories/Data Labs, TEF та EDIH."
+    },
+    "topicsKeywords": [
+      {"en": "Apply AI Strategy", "uk": "Apply AI Strategy"},
+      {"en": "FSTP cascade / challenge competition", "uk": "каскад FSTP / конкурс-виклик"},
+      {"en": "healthcare AI", "uk": "ШІ в охороні здоров'я"},
+      {"en": "advanced manufacturing AI", "uk": "ШІ у передовому виробництві"},
+      {"en": "autonomous driving AI", "uk": "ШІ автономного водіння"},
+      {"en": "SME-led AI solutions", "uk": "ШІ-рішення на чолі з МСП"},
+      {"en": "AI, Data and Robotics Partnership (ADRA)", "uk": "Партнерство AI, Data and Robotics (ADRA)"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "For the ORGANISING consortium: standard RIA minimum (≥3 entities from 3 MS/AC) plus mandatory user-industry partners from the chosen sector. For DICEUS as a THIRD PARTY: a single SME (or SME-led small team) — no consortium needed to compete in the later open call.",
+      "uk": "Для КОНСОРЦІУМУ-ОРГАНІЗАТОРА: стандартний мінімум RIA (≥3 суб'єкти з 3 держав-членів/асоційованих країн) плюс обов'язкові партнери-користувачі з обраного сектору. Для DICEUS як ТРЕТЬОЇ СТОРОНИ: окреме МСП (або невелика команда на чолі з МСП) — консорціум не потрібен для участі в пізнішому open call."
+    },
+    "requiredCountries": {
+      "en": "Participation limited to MS, Iceland, Norway and additional associated countries (Canada, Israel, Republic of Korea, New Zealand, Switzerland, United Kingdom). Control-by-non-eligible-country restrictions apply. DICEUS (EU) is eligible.",
+      "uk": "Участь обмежена державами-членами, Ісландією, Норвегією та додатковими асоційованими країнами (Канада, Ізраїль, Республіка Корея, Нова Зеландія, Швейцарія, Велика Британія). Діють обмеження щодо контролю неприйнятною країною. DICEUS (ЄС) прийнятний."
+    },
+    "otherConstraints": {
+      "en": "Each proposal targets exactly ONE of the three sectors. Results pre-competitive. The three sectors are healthcare, advanced manufacturing, autonomous driving — insurance/finance is NOT a target sector.",
+      "uk": "Кожна пропозиція охоплює рівно ОДИН із трьох секторів. Результати доконкурентні. Три сектори — охорона здоров'я, передове виробництво, автономне водіння; страхування/фінанси НЕ є цільовим сектором."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "FSTP cascade mechanism for single SMEs (up to ~EUR 2.55M direct)", "uk": "Механізм каскаду FSTP для окремих МСП (до ~2,55 млн євро напряму)"},
+        "znuArea": {"en": "fundingInterests: DIRECT single-SME / cascade FSTP (preferred track)", "uk": "fundingInterests: ПРЯМЕ фінансування окремого МСП / каскад FSTP (пріоритетний трек)"},
+        "strength": "high",
+        "rationale": {"en": "The INSTRUMENT is exactly what DICEUS wants — large direct FSTP money to a single SME, no full consortium. Mechanistically a perfect fit for DICEUS's stated preference.", "uk": "ІНСТРУМЕНТ — саме те, чого хоче DICEUS: великі прямі FSTP-кошти окремому МСП без повного консорціуму. Механічно ідеально відповідає заявленій перевазі DICEUS."}
+      },
+      {
+        "grantTopic": {"en": "Healthcare AI: predictive analytics, patient care", "uk": "ШІ в охороні здоров'я: предиктивна аналітика, догляд за пацієнтами"},
+        "znuArea": {"en": "Predictive analytics / AI in a regulated vertical", "uk": "Предиктивна аналітика / ШІ у регульованій вертикалі"},
+        "strength": "low",
+        "rationale": {"en": "DICEUS has health-INSURANCE underwriting AI, but the sector target is clinical/diagnostic/robotic-surgery healthcare — adjacent at best, not DICEUS's product line.", "uk": "DICEUS має ШІ для андеррайтингу медичного СТРАХУВАННЯ, але ціль сектору — клінічна/діагностична охорона здоров'я/роботизована хірургія — щонайбільше суміжне, не продуктова лінія DICEUS."}
+      },
+      {
+        "grantTopic": {"en": "Advanced manufacturing AI; autonomous driving AI", "uk": "ШІ у передовому виробництві; ШІ автономного водіння"},
+        "znuArea": {"en": "(none)", "uk": "(немає)"},
+        "strength": "low",
+        "rationale": {"en": "No DICEUS product or domain expertise in manufacturing or automotive.", "uk": "У DICEUS немає ані продукту, ані доменної експертизи у виробництві чи автопромі."}
+      }
+    ],
+    "resourceFit": {
+      "en": "As a third-party competitor DICEUS brings strong applied-AI engineering, but its data assets and use cases are insurance/finance — misaligned with the three eligible sectors. It could not credibly supply the healthcare/manufacturing/automotive domain data the challenges require.",
+      "uk": "Як третя сторона-учасник DICEUS приносить сильну прикладну ШІ-інженерію, але його дані та кейси — страхування/фінанси, що не збігається з трьома прийнятними секторами. Він не зможе переконливо надати доменні дані з охорони здоров'я/виробництва/автопрому, потрібні для викликів."
+    },
+    "partnershipFit": {
+      "en": "As an ORGANISER, DICEUS is not a user-industry in any of the three sectors and cannot anchor a consortium. As a THIRD PARTY, no consortium is needed — but domain fit is the blocker, not partners.",
+      "uk": "Як ОРГАНІЗАТОР DICEUS не є галуззю-користувачем у жодному з трьох секторів і не може бути опорою консорціуму. Як ТРЕТЯ СТОРОНА консорціум не потрібен — але блокером є доменна відповідність, а не партнери."
+    },
+    "trackRecordFit": {
+      "en": "Strong SME delivery record, but in insurance software — not evidence for healthcare/manufacturing/automotive challenges.",
+      "uk": "Сильний послужний список МСП, але у страховому ПЗ — не є доказом для викликів з охорони здоров'я/виробництва/автопрому."
+    },
+    "warContextRelevance": {"en": "n/a", "uk": "н/д"}
+  },
+  "verdict": {
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "partial",
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "Monitor only. Potentially a future FSTP third-party entrant in the HEALTHCARE stream IF a defensible health-insurance/health-data AI angle can be built — but this is a stretch and the open call would not launch until ~2028 (after the organising consortium is funded).",
+      "uk": "Лише моніторинг. Потенційно майбутній учасник-третя сторона FSTP у потоці ОХОРОНИ ЗДОРОВ'Я, ЯКЩО вдасться побудувати обґрунтований кут медичне страхування/медичні дані — але це натяжка, і open call запуститься не раніше ~2028 (після фінансування консорціуму-організатора)."
+    },
+    "strengths": [
+      {"en": "The FSTP cascade mechanism (up to ~EUR 2.55M to a single SME) is the ideal 'direct' funding shape for DICEUS.", "uk": "Механізм каскаду FSTP (до ~2,55 млн євро окремому МСП) — ідеальна «пряма» форма фінансування для DICEUS."},
+      {"en": "EU-eligible; SME-friendly by design.", "uk": "Прийнятний для ЄС; за задумом дружній до МСП."},
+      {"en": "If DICEUS ever builds a healthcare-data product line, this is the vehicle.", "uk": "Якщо DICEUS колись побудує продуктову лінію на медичних даних — це відповідний інструмент."}
+    ],
+    "risks": [
+      {"en": "Sector mismatch is decisive: the three eligible sectors (healthcare, manufacturing, autonomous driving) exclude insurance/finance — DICEUS's core.", "uk": "Невідповідність сектору є вирішальною: три прийнятні сектори (охорона здоров'я, виробництво, автономне водіння) виключають страхування/фінанси — ядро DICEUS."},
+      {"en": "DICEUS cannot be a consortium organiser (not a user-industry in these sectors); as a third party the domain-data requirement is a hard barrier.", "uk": "DICEUS не може бути організатором консорціуму (не є галуззю-користувачем у цих секторах); як третя сторона вимога доменних даних — жорсткий бар'єр."},
+      {"en": "Timing: the money reaches SMEs only after the organising projects are funded (open calls ~2028) — not actionable on the 2027-03-18 topic deadline.", "uk": "Час: кошти доходять до МСП лише після фінансування проєктів-організаторів (open calls ~2028) — не діє на дедлайн топіка 18.03.2027."},
+      {"en": "Would require a genuine pivot into clinical/health-data AI, which the current DICEUS profile does not support.", "uk": "Вимагатиме справжнього пивоту в клінічний ШІ/медичні дані, що поточний профіль DICEUS не підтримує."}
+    ],
+    "rationale": {
+      "en": "This topic is a textbook example of the RIGHT INSTRUMENT but the WRONG DOMAIN for DICEUS. The challenge-driven FSTP cascade delivers exactly the kind of large, direct, single-SME funding DICEUS prefers (up to ~EUR 2.55M), and DICEUS is EU-eligible and SME-sized. However, the three eligible sectors — healthcare, advanced manufacturing, in-vehicle autonomous driving — deliberately exclude insurance and financial services, which is DICEUS's entire product portfolio. DICEUS cannot anchor an organising consortium (it is not a user-industry in any target sector), and as a third-party competitor it would face a domain-data and credibility gap in sectors where it has no product. Recommendation: do NOT pursue as-is; keep it on a watch-list as a template for the kind of Apply AI cascade to target, and instead hunt for equivalent FSTP/booster calls whose prioritised sectors include finance/insurance or horizontal trustworthy-AI. Confidence medium because a narrow healthcare-insurance data angle is conceivable but not supported by the current profile.",
+      "uk": "Цей топік — хрестоматійний приклад ПРАВИЛЬНОГО ІНСТРУМЕНТУ, але НЕПРАВИЛЬНОГО ДОМЕНУ для DICEUS. Каскад FSTP на основі викликів дає саме той тип великого, прямого фінансування окремого МСП, який любить DICEUS (до ~2,55 млн євро), і DICEUS прийнятний для ЄС та має розмір МСП. Проте три прийнятні сектори — охорона здоров'я, передове виробництво, автономне водіння — свідомо виключають страхування та фінансові послуги, тобто весь продуктовий портфель DICEUS. DICEUS не може бути опорою консорціуму-організатора (не є галуззю-користувачем у жодному цільовому секторі), а як третя сторона зіткнеться з прогалиною доменних даних і довіри у секторах, де не має продукту. Рекомендація: НЕ подавати у поточному вигляді; тримати в списку спостереження як шаблон каскаду Apply AI, на який варто орієнтуватися, і натомість шукати аналогічні конкурси FSTP/booster, чиї пріоритетні сектори включають фінанси/страхування або горизонтальний trustworthy-AI. Впевненість середня, бо вузький кут медичне страхування/дані є мислимим, але не підкріплений поточним профілем."
+    }
+  }
+}

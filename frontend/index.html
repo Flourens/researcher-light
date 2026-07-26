@@ -13,6 +13,7 @@
           <div>
             <h1>researcher-light</h1>
             <p class="subtitle" id="subtitle">EU grants ↔ ZNU fit analysis</p>
+            <nav class="participant-switch" id="participant-switch" aria-label="Participant"></nav>
           </div>
           <div class="lang-switcher" role="group" aria-label="Language">
             <button type="button" data-lang="en" class="lang-btn active">EN</button>
@@ -43,6 +44,10 @@
           <span data-i18n="searchLabel">Search</span>
           <input id="filter-text" type="search" data-i18n-placeholder="searchPlaceholder" placeholder="title / identifier / call" />
         </label>
+        <label class="filter-pinned-label">
+          <input id="filter-pinned" type="checkbox" />
+          <span data-i18n="pinnedFilterLabel">Pinned only</span>
+        </label>
         <div class="counter" id="counter"></div>
       </section>
 
@@ -51,6 +56,6 @@
       </section>
     </main>
 
-    <script src="js/app.js"></script>
+    <script src="js/app.js?v=2"></script>
   </body>
 </html>

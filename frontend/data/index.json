@@ -2,6 +2,7 @@
   {
     "id": "AID4SME-OC2",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "https://aid4sme.eu/open-call-2/",
     "title": {
       "en": "AID4SME Open Call #2 — cascade funding under HORIZON-CL4-2024-DIGITAL-EMERGING-01-04 (Industrial leadership in AI, Data and Robotics; AI Data and Robotics Partnership)",
@@ -30,6 +31,7 @@
   {
     "id": "GEMMA-4-GOOD-HACKATHON",
     "kind": "hackathon",
+    "participant": "ZNU",
     "sourceUrl": "https://www.kaggle.com/competitions/gemma-4-good-hackathon",
     "title": {
       "en": "The Gemma 4 Good Hackathon",
@@ -58,6 +60,7 @@
   {
     "id": "HORIZON-CL2-2026-01-TRANSFO-07",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Fostering competences for the green transition",
@@ -86,6 +89,7 @@
   {
     "id": "HORIZON-CL3-2026-01-INFRA-03",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": "Targeted innovative capabilities for the resilience of critical entities to natural and human-induced disasters, including hybrid scenarios",
     "callIdentifier": "HORIZON-CL3-2026-01",
@@ -102,6 +106,7 @@
   {
     "id": "HORIZON-CL3-2026-02-CS-ECCC-02",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": "Enhancing the Security, Privacy and Robustness of AI Models and Systems (SecureAI)",
     "callIdentifier": "HORIZON-CL3-2026-02-CS-ECCC",
@@ -116,8 +121,96 @@
     "analyzedAt": "2026-05-11T13:58:00+00:00"
   },
   {
+    "id": "HORIZON-CL3-2026-02-CS-ECCC-02-DICEUS",
+    "kind": "grant",
+    "participant": "DICEUS",
+    "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-02-CS-ECCC-02",
+    "title": {
+      "en": "Enhancing the Security, Privacy and Robustness of AI Models and Systems (SecureAI)",
+      "uk": "Підвищення безпеки, приватності та робастності моделей і систем ШІ (SecureAI)"
+    },
+    "callIdentifier": "HORIZON-CL3-2026-02-CS-ECCC (Indirectly Managed Action by the ECCC, 2026)",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA)",
+      "uk": "HORIZON Інноваційні дії (IA)"
+    },
+    "deadline": "2026-09-15",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-09-15 (~7 weeks from today, 2026-07-26). Lump-sum grant. 5 grants expected for this IA sub-topic (-02). Opened 2026-03-03.",
+      "uk": "Однораундовий; дедлайн подання 15.09.2026 (~7 тижнів від сьогодні, 26.07.2026). Грант у формі lump-sum. Для цього IA-підтопіка (-02) очікується 5 грантів. Відкрито 03.03.2026."
+    },
+    "budgetPerProject": {
+      "en": "EUR 3,000,000 – 4,000,000 (lump sum)",
+      "uk": "3 000 000 – 4 000 000 євро (lump-sum)"
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-07-26T09:30:00Z"
+  },
+  {
+    "id": "HORIZON-CL3-2027-01-SSRI-01-DICEUS",
+    "kind": "grant",
+    "participant": "DICEUS",
+    "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-SSRI-01",
+    "title": {
+      "en": "Accelerating uptake through open proposals for advanced SME innovation",
+      "uk": "Прискорення впровадження через відкриті пропозиції для передової інновації МСП"
+    },
+    "callIdentifier": "HORIZON-CL3-2027-01 — Civil Security for Society 2027",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA); SME-led (SSRI — Strengthened Security Research & Innovation)",
+      "uk": "HORIZON Інноваційні дії (IA); на чолі з МСП (SSRI — Посилені безпекові дослідження та інновації)"
+    },
+    "deadline": "2027-11-04",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2027-11-04 (opens 2027-05-05 — long runway, ~15 months of prep). Max project duration 2 years. TRL 6–8 by project end. Contributes to STEP (deep-tech).",
+      "uk": "Однораундовий; дедлайн подання 04.11.2027 (відкриття 05.05.2027 — довгий запас, ~15 місяців на підготовку). Максимальна тривалість проєкту 2 роки. TRL 6–8 на кінець проєкту. Робить внесок у STEP (deep-tech)."
+    },
+    "budgetPerProject": {
+      "en": "Confirm in the topic's budget table (SSRI IA per-project contribution — check the specific figure on the portal before planning).",
+      "uk": "Уточнити в бюджетній таблиці топіка (внесок на проєкт для SSRI IA — перевірити конкретну цифру на порталі перед плануванням)."
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-07-26T10:00:00Z"
+  },
+  {
+    "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-04-DICEUS",
+    "kind": "grant",
+    "participant": "DICEUS",
+    "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-04",
+    "title": {
+      "en": "Apply AI: Challenge-Driven AI Innovation Booster in Apply AI prioritised sectors (RIA) (Partnership in AI, Data and Robotics)",
+      "uk": "Apply AI: Challenge-Driven бустер AI-інновацій у пріоритетних секторах Apply AI (RIA) (Партнерство в AI, Data and Robotics)"
+    },
+    "callIdentifier": "HORIZON-CL4-2027-04 — DIGITAL",
+    "type": {
+      "en": "HORIZON Research and Innovation Actions (RIA); implements the ADRA partnership",
+      "uk": "HORIZON Дослідницько-інноваційні дії (RIA); реалізує партнерство ADRA"
+    },
+    "deadline": "2027-03-18",
+    "deadlineModel": {
+      "en": "Single-stage; CONSORTIUM proposal deadline 2027-03-18 (opens 2026-11-17). NOTE: this deadline is for the organisers that RUN the competition, not for the SMEs that receive money. The FSTP grants to third-party SMEs are distributed by the funded projects in later stages (expected 2028+). TRL 2 → 5.",
+      "uk": "Однораундовий; дедлайн пропозиції КОНСОРЦІУМУ 18.03.2027 (відкриття 17.11.2026). УВАГА: цей дедлайн — для організаторів, що ПРОВОДЯТЬ конкурс, а не для МСП, які отримують кошти. FSTP-гранти третім сторонам (МСП) розподіляються профінансованими проєктами на пізніших етапах (очікується 2028+). TRL 2 → 5."
+    },
+    "budgetPerProject": {
+      "en": "EUR 14,000,000 to each ORGANISING consortium. Of this, FSTP to third parties: Stage 2 = 10 × EUR 300,000; Stage 3 = 4 × EUR 2,250,000 (EUR 9M total). Max per third party across stages ≈ EUR 2.55M.",
+      "uk": "14 000 000 євро кожному КОНСОРЦІУМУ-ОРГАНІЗАТОРУ. З них FSTP третім сторонам: Етап 2 = 10 × 300 000 євро; Етап 3 = 4 × 2 250 000 євро (разом 9 млн євро). Максимум на одну третю сторону за етапами ≈ 2,55 млн євро."
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "no",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-07-26T09:45:00Z"
+  },
+  {
     "id": "HORIZON-CL5-2026-09-D4-02",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Low disturbance prefabrication approaches for deep renovation of multi-storey buildings (Built4People Partnership)",
@@ -146,6 +239,7 @@
   {
     "id": "HORIZON-CL5-2026-09-D4-08",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Full-scale demonstration of heat upgrade solutions in industrial processes",
@@ -174,6 +268,7 @@
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK-06",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Advanced innovative solutions for improved competitiveness and sustainability in controlled environment agriculture (CEA)",
@@ -202,6 +297,7 @@
   {
     "id": "HORIZON-INFRA-2026-TECH-01-01",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "R&D for the next generation of scientific instrumentation, tools, methods, digitalisation and solutions for research infrastructure upgrades",
@@ -230,6 +326,7 @@
   {
     "id": "HORIZON-INFRA-2026-TECH-01-02",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Digital twins and/or their major components for environment, climate and security",
@@ -258,6 +355,7 @@
   {
     "id": "HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Introducing circular economy models in the construction sector, from buildings to city scale",
@@ -286,6 +384,7 @@
   {
     "id": "HORIZON-MISS-2027-07-CLIMA-CIT-CCRI-02",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Deploying innovative wastewater management, treatment and valorisation solutions in European cities and regions in the context of climate change",
@@ -314,6 +413,7 @@
   {
     "id": "HORIZON-NEB-2026-01-REGEN-01",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "Sustainable, inclusive, affordable and beautiful solutions for thermal comfort in buildings",
@@ -342,6 +442,7 @@
   {
     "id": "HORIZON-WIDERA-2026-03-WIDENING-01",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": "Hop-On Facility",
     "callIdentifier": "HORIZON-WIDERA-2026-03",
@@ -358,6 +459,7 @@
   {
     "id": "ODEON",
     "kind": "grant",
+    "participant": "ZNU",
     "sourceUrl": "",
     "title": {
       "en": "ODEON Open Call — cascade funding (FSTP) under the ODEON Horizon Europe project",

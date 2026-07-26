@@ -1,0 +1,475 @@
+GRANT CALL: Open innovation: Addressing Grand challenges in AI (AI Data and Robotics Partnership) (CSA)
+Identifier: HORIZON-CL4-2023-HUMAN-01-04
+Call: HORIZON-CL4-2023-HUMAN-01-CNECT — A human-centred and ethical development of digital and industrial technologies
+Type of Action: HORIZON Coordination and Support Actions
+Deadline: 2023-03-29T00:00:00.000+0000
+Submission: single-stage
+
+=== BUDGET ===
+{
+  "budgetYearsColumns": [
+    "2023"
+  ],
+  "budgetTopicActionMap": {
+    "107265": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-82 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 3000000,
+        "maxContribution": 3000000,
+        "budgetYearMap": {
+          "2023": "3000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107264": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-21 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 5000000,
+        "maxContribution": 8000000,
+        "budgetYearMap": {
+          "2023": "26000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107251": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-11 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 27000000,
+        "maxContribution": 27000000,
+        "budgetYearMap": {
+          "2023": "27000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107250": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-03 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 6000000,
+        "maxContribution": 8000000,
+        "budgetYearMap": {
+          "2023": "20000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107253": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-02 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 3,
+        "minContribution": 8000000,
+        "maxContribution": 8000000,
+        "budgetYearMap": {
+          "2023": "24000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107252": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-65 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 1500000,
+        "maxContribution": 1500000,
+        "budgetYearMap": {
+          "2023": "1500000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107255": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-01 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 5,
+        "minContribution": 7000000,
+        "maxContribution": 9000000,
+        "budgetYearMap": {
+          "2023": "35000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107254": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-81 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 1500000,
+        "maxContribution": 1500000,
+        "budgetYearMap": {
+          "2023": "1500000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107257": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-66 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 2500000,
+        "maxContribution": 2500000,
+        "budgetYearMap": {
+          "2023": "2500000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107256": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-22 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 4,
+        "minContribution": 5000000,
+        "maxContribution": 8000000,
+        "budgetYearMap": {
+          "2023": "25000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107259": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-13 - HORIZON-RIA HORIZON  Research and Innovation Actions",
+        "expectedGrants": 1,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2023": "4000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107258": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-04 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 4000000,
+        "maxContribution": 4000000,
+        "budgetYearMap": {
+          "2023": "4000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107261": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-12 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 5,
+        "minContribution": 3000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2023": "14000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107260": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-14 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 2000000,
+        "maxContribution": 2000000,
+        "budgetYearMap": {
+          "2023": "2000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107263": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-23 - HORIZON-CSA HORIZON Coordination and Support Actions",
+        "expectedGrants": 1,
+        "minContribution": 2000000,
+        "maxContribution": 2000000,
+        "budgetYearMap": {
+          "2023": "2000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ],
+    "107262": [
+      {
+        "action": "HORIZON-CL4-2023-HUMAN-01-05 - HORIZON-IA HORIZON Innovation Actions",
+        "expectedGrants": 2,
+        "minContribution": 5000000,
+        "maxContribution": 5000000,
+        "budgetYearMap": {
+          "2023": "10000000"
+        },
+        "plannedOpeningDate": "2022-12-08",
+        "deadlineModel": "single-stage",
+        "deadlineDates": [
+          "2023-03-29"
+        ]
+      }
+    ]
+  }
+}
+
+=== DESTINATION ===
+A human-centred and ethical development of digital and industrial technologies (2023/24)
+
+=== DESCRIPTION (Expected Outcome & Scope) ===
+Expected Outcome:
+
+Projects are expected to contribute to the following outcomes:
+
+- Demonstrate and reinforce Europe’s research excellence in AI by driving substantial scientific progress in the following major scientific & technological AI areas: optimisation, explainability, robustness, natural language understanding and interaction, and collaborative intelligence
+- Develop prestigious AI open innovation challenges that will mobilise wide participation of top scientists from academia, industry including start-ups and as well as young teams and rising stars from all over EU and Associated countries.
+- Substantially increase interest from industry in AI (incl. SMEs and start-ups), in particular from key socio-economic sectors for Europe. Therefore contributing to uptake of research results by industry
+ Scope:
+
+AI is a general-purpose technology that is expected to substantially contribute to all sectors and applications. AI technologies have demonstrated great value and potential in areas as diverse as healthcare, supply chain logistics, space-based imagery analysis, cybersecurity. However, there are challenges that AI technologies are facing. When it comes to deployment of AI technologies, reliable performance is required. Despite its huge potential and its ability to cut down on tasks and costs, AI faces trust issues with humans. At the same time, the failure modes of AI technologies are poorly understood.
+
+Open innovation challenges can foster broad and robust progress on generic AI research challenges. The resulting scientific progress resulting such challenges will contribute to the robustness of AI systems in general, enabling a multitude of different applications across many sectors.
+
+Proposals are expected to organize open innovation challenges aiming to bring the best research teams across variety of public and private organisations that try to tackle and crack major S&T challenges in AI by benchmarking different solutions. The open innovation challenges will be bootstrapped by engaging EU funded projects to participate. Newcomers, rising stars and the wider AI community should be able to join the challenges, giving them the opportunity to benchmark against prestigious teams. The best performing team(s) should be awarded with either with monitory prizes[1], which industry can co-sponsor, and/or non-monetary prizes, e.g. co-authorship of a paper in a prestigious scientific journal, internship in prestigious labs or companies.
+
+ Proposals should address the delivery of open innovation challenges with the aim to
+
+- Attract outstanding talent and the best research teams to tackle key scientific and technological AI challenges, of relevance to industry.
+- Drive substantial and broad scientific progress in key AI areas with the aim to reinforce the research excellence in Europe.
+- Prepare at least three open innovation challenges addressing challenges in collaboration with the projects funded under the following topics: CL4-2023-HUMAN-01-01, CL4-2023-HUMAN-01-3, CL4-2024-HUMAN-01-01 and CL4-2024-HUMAN-01-02 focusing on optimisation, explainability, robustness, natural language understanding and interaction, and collaborative intelligence[2] respectively. The projects funded through these calls should participate in the respective open innovation challenges, and can receive rewards, but will not be eligible to receive prize money as they are already funded.
+- Enable strong cooperation and co-creation between academia and industry and establish a continuous interaction
+- Attract industry and business interest in demonstrating advanced performances meeting the needs of user industry, in view of fostering deployment and business opportunities in Europe.
+- Define a process that fosters the uptake of developed algorithms/solutions across Europe 
+ Proposals are expected to
+
+- Provide a sound methodology for the design of AI challenges as open innovation challenges and/or benchmarks, including the definition of challenges to be addressed[3], representative of common needs for a vast adoption in a broad set of industrial and public sectors[4]; as well as the definition of evaluation method and criteria. This involves mobilisation of prestigious scientists and industries (incl. start-ups and SMEs) to select the data/problems that will drive substantial scientific progress and be help reinforcing the reputation of Europe, contributing to build the European AI lighthouse. This task will involve financial support to parties, in line with the conditions set out in part K of the General Annexes..
+- Provide a convincing approach to attract the best[4] teams from academia and industry, incl. start-ups and SMEs, students, rising stars and newcomers, to participate in the open innovation challenges and benchmark their different solutions to tackle the AI challenges.
+- Address all aspects of running open innovation challenges and best exploit them to maximise the visibility of AI to the wider audience.
+- Mobilise external partners (incl. from industry) in sponsoring and setting up the open innovation challenges and engage sponsors to contribute/offer money prizes or other attractive rewards to the top performing teams (e.g. co-authorship of papers in prestigious journals, internships in prestigious labs or companies etc.). Reward and competition schemes should provide equal access for everyone to participate and encourage diversity among the participating teams.
+- Collaborate with the AI on Demand Platform, the AI, Data and Robotics Partnership, the Networks of AI excellence centres[6], projects funded under CL4-2023-HUMAN-01-01, CL4-2023-HUMAN-01-03, CL4-2024-HUMAN-01-01 and CL4-2024-HUMAN-01-02, as well as other relevant initiatives. 
+ All proposals are expected to embed mechanisms to assess and demonstrate progress (with qualitative and quantitative KPIs, benchmarking and progress monitoring), and share results with the European R&D community, through the AI-on-demand platform, public community resources, to maximise re-use of results, either by developers, or for uptake, and optimise efficiency of funding; enhancing the European AI, Data and Robotics ecosystem through the sharing of results and best practice.
+
+Furthermore it is expected that the participating teams will make their algorithms and methods available and re-usable (e.g. through the AI on Demand Platform) to ensure scientific and technological progress.
+
+Financial support to third parties: A minimum of 50% of the EU funding requested by the proposal should be allocated to the purpose of financial support to third parties.
+
+null
+
+Activities covered under FSTP are expected to start at TRL 2-3 and achieve TRL 4-5 by the end of the project – see General Annex B.
+
+[1]  Large industry as well as project beneficiaries from CL4-2023-HUMAN-01-01, CL4-2024-HUMAN-01-01, CL4-2024-HUMAN-01-02 and CL4-2024-HUMAN-01-03 will not be eligible for monetary prizes
+
+[2]  This concerns topics CL4-2023-HUMAN-01-01, CL4-2024-HUMAN-01-01, CL4-2024-HUMAN-01-02 and CL4-2024-HUMAN-01-03
+
+[3]  Proposals should also allow citizens to contribute to the definition of challenges
+
+[4]  Encouraging and promoting diversity among AI researchers incl. gender and race, socio-cultural background, etc.
+
+[5]  Encouraging and promoting diversity among AI researchers incl. gender and race, socio-cultural background, etc.
+
+[6]  Projects funded under the following calls/topics: H2020-ICT48, HORIZON-CL4-2021-HUMAN-01-03HORIZON-CL4-2022-HUMAN-02-02)
+
+=== CONDITIONS (Eligibility & Evaluation) ===
+">
+### General conditions
+
+###  
+
+### General conditions
+
+1. Admissibility conditions: described in Annex A and Annex E of the Horizon Europe Work Programme General Annexes
+
+Proposal page limits and layout: described in Part B of the Application Form available in the Submission System
+
+###  
+2. Eligible countries: described in Annex B of the Work Programme General Annexes
+
+
+A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the Horizon Europe Programme Guide.
+
+###  
+If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).
+
+3. Other eligibility conditions: described in Annex B of the Work Programme General Annexes
+
+###  
+4. Financial and operational capacity and exclusion: described in Annex C of the Work Programme General Annexes
+
+###  
+
+    - 
+    Award criteria, scoring and      thresholds are      described in Annex      D of      the Work Programme General Annexes
+
+
+    
+
+
+###  
+
+    - 
+    Submission and evaluation      processes are      described in Annex      F of      the Work Programme General Annexes and the Online      Manual
+
+
+    
+
+
+###  
+
+    - 
+    Indicative timeline for      evaluation and grant agreement: described in Annex      F of the Work Programme General Annexes
+
+
+    
+
+
+###  
+Beneficiaries may provide financial support to third parties (FSTP).
+
+The support to third parties can only be provided in the form of prizes.
+
+The maximum amount to be granted to each third party is EUR 500.000 to address open innovation challenges on key important S&T challenges and drive general progress on important tasks through a common challenge/benchmark problem.
+
+FSTP should be eligible to third parties from academia and SMEs in Member States or Associated Countries, but exclude third parties that receive funding under ongoing projects of the following topics[[ Such teams will participate in the innovation challenges, and can receive rewards, but will not be eligible to receive prize money as they are already funded.]]: CL4-2023-HUMAN-01-01, CL4-2023-HUMAN-01-03, CL4-2024-HUMAN-01-01, CL4-2024-HUMAN-01-02.
+
+6. Legal and financial set-up of the grants: described in Annex G of the Work Programme General Annexes
+
+
+
+###  
+ 
+### Specific conditions
+
+7. Specific conditions: described in the [specific topic of the Work Programme]
+
+
+
+
+
+###  
+  
+###  
+ 
+### Documents
+
+Call documents:
+
+
+Standard application form — call-specific application form is available in the Submission System
+
+
+Standard application form (HE CSA)
+
+
+Standard evaluation form — will be used with the necessary adaptations
+
+
+Standard evaluation form (HE CSA)
+
+
+
+
+MGA
+
+
+HE General MGA v1.0
+
+
+
+###  
+ 
+### Additional documents:
+
+HE Main Work Programme 2023–2024 – 1. General Introduction
+
+
+HE Main Work Programme 2023–2024 – 7. Digital, Industry and Space
+
+
+HE Main Work Programme 2023–2024 – 13. General Annexes
+
+
+HE Programme Guide
+
+
+HE Framework Programme and Rules for Participation Regulation 2021/695
+
+
+HE Specific Programme Decision 2021/764
+
+
+EU Financial Regulation
+
+
+Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment
+
+
+EU Grants AGA — Annotated Model Grant Agreement
+
+
+Funding & Tenders Portal Online Manual
+
+
+Funding & Tenders Portal Terms and Conditions
+
+
+Funding & Tenders Portal Privacy Statement
+
+
+Information on financial support to third parties (HE)

@@ -1,0 +1,136 @@
+{
+  "grantId": "HORIZON-CL3-2027-01-SSRI-01",
+  "kind": "grant",
+  "participant": "DICEUS",
+  "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-SSRI-01",
+  "fetchedAt": "2026-07-26T09:10:00Z",
+  "analyzedAt": "2026-07-26T10:00:00Z",
+  "grant": {
+    "title": {
+      "en": "Accelerating uptake through open proposals for advanced SME innovation",
+      "uk": "Прискорення впровадження через відкриті пропозиції для передової інновації МСП"
+    },
+    "callIdentifier": "HORIZON-CL3-2027-01 — Civil Security for Society 2027",
+    "type": {
+      "en": "HORIZON Innovation Actions (IA); SME-led (SSRI — Strengthened Security Research & Innovation)",
+      "uk": "HORIZON Інноваційні дії (IA); на чолі з МСП (SSRI — Посилені безпекові дослідження та інновації)"
+    },
+    "typeCode": "1",
+    "deadline": "2027-11-04",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2027-11-04 (opens 2027-05-05 — long runway, ~15 months of prep). Max project duration 2 years. TRL 6–8 by project end. Contributes to STEP (deep-tech).",
+      "uk": "Однораундовий; дедлайн подання 04.11.2027 (відкриття 05.05.2027 — довгий запас, ~15 місяців на підготовку). Максимальна тривалість проєкту 2 роки. TRL 6–8 на кінець проєкту. Робить внесок у STEP (deep-tech)."
+    },
+    "budgetTotal": {
+      "en": "See call (SSRI budget line for 2027)",
+      "uk": "Див. конкурс (бюджетна лінія SSRI на 2027)"
+    },
+    "budgetPerProject": {
+      "en": "Confirm in the topic's budget table (SSRI IA per-project contribution — check the specific figure on the portal before planning).",
+      "uk": "Уточнити в бюджетній таблиці топіка (внесок на проєкт для SSRI IA — перевірити конкретну цифру на порталі перед плануванням)."
+    },
+    "expectedOutcome": {
+      "en": "Mature technological solutions addressing EU security priorities (fighting crime & terrorism, disaster resilience, border management, resilient infrastructure); sustained collaboration between SMEs, public research and academia; better knowledge transfer within the EU innovative SME ecosystem; mitigation of SME difficulties in access to finance and new international markets.",
+      "uk": "Зрілі технологічні рішення для безпекових пріоритетів ЄС (боротьба зі злочинністю й тероризмом, стійкість до катастроф, управління кордонами, стійка інфраструктура); стала співпраця між МСП, публічними дослідженнями та академією; кращий трансфер знань в інноваційній екосистемі МСП ЄС; пом'якшення труднощів МСП із доступом до фінансування та нових міжнародних ринків."
+    },
+    "scope": {
+      "en": "Collaborative environment for SME innovators to tailor mature innovations to civil-security end-user needs. Each project addresses ONE area: Fighting Crime & Terrorism (FCT, A), Disaster-Resilient Society (DRS, B), Resilient Infrastructure (INFRA, C), Border Management (BM, D). FCT example domains include detection of non-cash payment frauds and other cyber-scams, deepfake detection, detection of falsified/forged documents, and countering advanced malware. SME coordinator encouraged; end-users act as validators/first adopters. STEP / deep-tech innovation.",
+      "uk": "Колаборативне середовище для інноваторів-МСП, щоб адаптувати зрілі інновації під потреби кінцевих користувачів цивільної безпеки. Кожен проєкт охоплює ОДНУ сферу: Боротьба зі злочинністю й тероризмом (FCT, A), Стійке до катастроф суспільство (DRS, B), Стійка інфраструктура (INFRA, C), Управління кордонами (BM, D). Приклади доменів FCT: виявлення безготівкового платіжного шахрайства та інших кібершахрайств, виявлення дипфейків, виявлення підроблених/фальшивих документів і протидія складному шкідливому ПЗ. Заохочується координатор-МСП; кінцеві користувачі виступають валідаторами/першими адоптерами. Інновації STEP / deep-tech."
+    },
+    "topicsKeywords": [
+      {"en": "advanced SME innovation", "uk": "передова інновація МСП"},
+      {"en": "civil security uptake", "uk": "впровадження у цивільній безпеці"},
+      {"en": "Fighting Crime & Terrorism (FCT)", "uk": "Боротьба зі злочинністю й тероризмом (FCT)"},
+      {"en": "non-cash payment fraud / cyber-scams", "uk": "безготівкове платіжне шахрайство / кібершахрайства"},
+      {"en": "forged / falsified document detection", "uk": "виявлення підроблених/фальшивих документів"},
+      {"en": "deepfake & anomaly detection", "uk": "виявлення дипфейків та аномалій"},
+      {"en": "SME-led coordinator", "uk": "координатор на чолі з МСП"},
+      {"en": "STEP deep-tech", "uk": "STEP deep-tech"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "3–7 beneficiaries; at least 2 SMEs from 2 different Member States; at least 1 end-user organisation in the chosen area. SME coordinator encouraged (justify if coordinator is not an SME; a MidCap may also coordinate).",
+      "uk": "3–7 бенефіціарів; щонайменше 2 МСП з 2 різних держав-членів; щонайменше 1 організація-кінцевий користувач у обраній сфері. Заохочується координатор-МСП (обґрунтувати, якщо координатор не МСП; MidCap також може координувати)."
+    },
+    "requiredCountries": {
+      "en": "MS / Associated Countries. Entities directly or indirectly controlled by China (or a China-established entity) are NOT eligible. European-communication-network protection restrictions apply. DICEUS (EU) is eligible; confirm no disqualifying control chain.",
+      "uk": "Держави-члени / асоційовані країни. Суб'єкти, прямо чи опосередковано контрольовані Китаєм (або зареєстрованою в Китаї особою), НЕ прийнятні. Діють обмеження захисту європейських комунікаційних мереж. DICEUS (ЄС) прийнятний; підтвердити відсутність дискваліфікуючого ланцюга контролю."
+    },
+    "otherConstraints": {
+      "en": "Pick exactly one area (A/B/C/D). TRL 6–8 target (mature solutions, not early research). Max 2-year projects. Must involve a security end-user as validator/first adopter.",
+      "uk": "Обрати рівно одну сферу (A/B/C/D). Ціль TRL 6–8 (зрілі рішення, а не ранні дослідження). Проєкти максимум 2 роки. Обов'язкове залучення безпекового кінцевого користувача як валідатора/першого адоптера."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "FCT: detection of non-cash payment frauds and other cyber-scams", "uk": "FCT: виявлення безготівкового платіжного шахрайства та інших кібершахрайств"},
+        "znuArea": {"en": "Predictive analytics, anomaly detection & fraud detection for insurance/financial operations", "uk": "Предиктивна аналітика, виявлення аномалій та фроду для страхових/фінансових операцій"},
+        "strength": "high",
+        "rationale": {"en": "DICEUS's fraud/anomaly-detection and financial-data analytics transfer directly to payment-fraud and cyber-scam detection — the single cleanest domain bridge from InsurTech to civil security.", "uk": "Виявлення фроду/аномалій і аналітика фінансових даних DICEUS прямо переносяться на виявлення платіжного шахрайства та кібершахрайств — найчистіший доменний місток від InsurTech до цивільної безпеки."}
+      },
+      {
+        "grantTopic": {"en": "FCT: detection of falsified/forged documents (passports, ID cards)", "uk": "FCT: виявлення фальшивих/підроблених документів (паспорти, ID-картки)"},
+        "znuArea": {"en": "Intelligent document processing (extraction & validation from unstructured documents)", "uk": "Інтелектуальна обробка документів (витяг і валідація з неструктурованих документів)"},
+        "strength": "medium",
+        "rationale": {"en": "DICEUS's document-AI (extraction, validation, provenance) is adaptable to forged/falsified document detection, though it would need retraining for security document types.", "uk": "Документний ШІ DICEUS (витяг, валідація, походження) адаптується до виявлення підроблених/фальшивих документів, хоча потребуватиме перенавчання під безпекові типи документів."}
+      },
+      {
+        "grantTopic": {"en": "SME-led innovation uptake, access to markets/finance", "uk": "Впровадження інновацій на чолі з МСП, доступ до ринків/фінансування"},
+        "znuArea": {"en": "SME profile; commercial exploitation & 150+ delivered projects", "uk": "Профіль МСП; комерційна експлуатація та 150+ реалізованих проєктів"},
+        "strength": "high",
+        "rationale": {"en": "DICEUS is exactly the 'advanced SME' this topic targets — it could credibly coordinate (SME-coordinator encouraged) and bring real exploitation capacity.", "uk": "DICEUS — саме той «передовий МСП», на який націлений топік — він міг би переконливо координувати (координатор-МСП заохочується) і принести реальну спроможність до експлуатації."}
+      },
+      {
+        "grantTopic": {"en": "Countering advanced malware; deepfake detection", "uk": "Протидія складному шкідливому ПЗ; виявлення дипфейків"},
+        "znuArea": {"en": "(adjacent, not core)", "uk": "(суміжне, не ядро)"},
+        "strength": "low",
+        "rationale": {"en": "Cyber/deepfake domains are outside DICEUS's product line; would need a specialist partner.", "uk": "Домени кібер/дипфейків поза продуктовою лінією DICEUS; потрібен профільний партнер."}
+      }
+    ],
+    "resourceFit": {
+      "en": "Good on applied AI/ML, anomaly detection, document processing, cloud-native delivery and DevSecOps. Gap: DICEUS has no security end-user relationship (police, border, customs) — the topic mandates one; and TRL 6–8 means a near-market security product, which DICEUS would have to build/adapt.",
+      "uk": "Добре з прикладним AI/ML, виявленням аномалій, обробкою документів, cloud-native доставкою та DevSecOps. Прогалина: у DICEUS немає відносин із безпековим кінцевим користувачем (поліція, кордон, митниця) — топік цього вимагає; а TRL 6–8 означає майже ринковий безпековий продукт, який DICEUS доведеться створити/адаптувати."
+    },
+    "partnershipFit": {
+      "en": "DICEUS can meet part of the consortium (it is one of the required 2 SMEs; potential coordinator). It must add a second SME from another MS, at least one civil-security end-user, and ideally an RTO/academic partner for the security-domain science. Its existing partners (Microsoft, Google Cloud, InsurTech networks) do not cover the security end-user requirement.",
+      "uk": "DICEUS може закрити частину консорціуму (він — один із двох потрібних МСП; потенційний координатор). Треба додати друге МСП з іншої держави-члена, щонайменше одного кінцевого користувача цивільної безпеки та, бажано, RTO/академічного партнера для науки безпекового домену. Наявні партнери (Microsoft, Google Cloud, InsurTech-мережі) не закривають вимогу щодо безпекового кінцевого користувача."
+    },
+    "trackRecordFit": {
+      "en": "Strong SME delivery record and exploitation capability — well aligned with this topic's uptake/market-access objectives — but no prior civil-security projects.",
+      "uk": "Сильний послужний список МСП та спроможність до експлуатації — добре узгоджені з цілями топіка щодо впровадження/доступу до ринку — але немає попередніх проєктів цивільної безпеки."
+    },
+    "warContextRelevance": {
+      "en": "n/a for the company; if a Ukrainian-linked security end-user were involved the resilience angle could add value, but that is not part of the DICEUS profile.",
+      "uk": "н/д для компанії; якби був залучений безпековий кінцевий користувач, пов'язаний з Україною, кут resilience міг би додати цінності, але це не частина профілю DICEUS."
+    }
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "partial",
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "SME partner, or potentially Coordinator (SME-coordinator is encouraged), owning the AI fraud/anomaly-detection and document-integrity workstream under FCT (Option A).",
+      "uk": "Партнер-МСП або потенційно Координатор (координатор-МСП заохочується), який володіє напрямом ШІ для виявлення фроду/аномалій та цілісності документів у межах FCT (Опція A)."
+    },
+    "strengths": [
+      {"en": "DICEUS IS the 'advanced SME' this topic is designed for — SME-led, exploitation-focused, mature product base.", "uk": "DICEUS Є тим «передовим МСП», під який створено топік — на чолі з МСП, орієнтований на експлуатацію, зі зрілою продуктовою базою."},
+      {"en": "Clean capability bridge via FCT: payment-fraud / cyber-scam detection and forged-document detection map onto DICEUS's fraud, anomaly-detection and document-AI stacks.", "uk": "Чистий місток спроможностей через FCT: виявлення платіжного шахрайства / кібершахрайств та підроблених документів лягає на стеки DICEUS з фроду, виявлення аномалій і документного ШІ."},
+      {"en": "Very long runway (opens 2027-05-05, deadline 2027-11-04) — ample time to build the consortium and reframe the offering.", "uk": "Дуже довгий запас часу (відкриття 05.05.2027, дедлайн 04.11.2027) — достатньо часу зібрати консорціум і переформатувати пропозицію."},
+      {"en": "EU-eligible; SME coordinator explicitly encouraged; STEP deep-tech alignment.", "uk": "Прийнятний для ЄС; координатор-МСП явно заохочується; узгодження зі STEP deep-tech."}
+    ],
+    "risks": [
+      {"en": "Domain pivot required: from insurance operations to civil-security end-users — DICEUS has no existing police/border/customs relationships, and the topic mandates an end-user validator.", "uk": "Потрібен пивот домену: від страхових операцій до кінцевих користувачів цивільної безпеки — у DICEUS немає наявних зв'язків із поліцією/кордоном/митницею, а топік вимагає валідатора-кінцевого користувача."},
+      {"en": "TRL 6–8 means a near-market security solution; DICEUS would need to adapt/harden a product for the security context.", "uk": "TRL 6–8 означає майже ринкове безпекове рішення; DICEUS доведеться адаптувати/зміцнити продукт під безпековий контекст."},
+      {"en": "Needs a second SME (different MS) and likely an RTO/academic security partner — a consortium DICEUS does not yet have.", "uk": "Потрібне друге МСП (інша держава-член) і, ймовірно, RTO/академічний безпековий партнер — консорціуму, якого в DICEUS ще немає."},
+      {"en": "Confirm control-chain eligibility (no China control) and check the per-project budget figure on the portal.", "uk": "Підтвердити прийнятність за ланцюгом контролю (без контролю Китаю) і перевірити цифру бюджету на проєкт на порталі."}
+    ],
+    "rationale": {
+      "en": "SSRI-01 is the best SME-LED fit for DICEUS among the live/forthcoming Horizon topics: it explicitly targets 'advanced SMEs', encourages an SME coordinator, and its Fighting-Crime-&-Terrorism area lists non-cash payment fraud, cyber-scams and forged-document detection — all directly reachable from DICEUS's fraud/anomaly-detection and document-AI capabilities (znuFitsGrant = yes; grantFitsZnu = partial because it is civil security, not insurance core). The generous timeline (submission Nov 2027, opening May 2027) gives DICEUS room to assemble the mandatory consortium — a second SME from another Member State, a civil-security end-user as validator/first adopter, and ideally a security-focused RTO — and to reframe its fraud/document AI for the security domain. The principal work is not technical fit but (a) securing a security end-user, and (b) deciding whether DICEUS wants to enter the civil-security market at all. If yes, this is a strong, low-time-pressure candidate to lead. Verify the per-project budget and the control-chain eligibility clause before committing.",
+      "uk": "SSRI-01 — найкраща відповідність DICEUS НА ЧОЛІ З МСП серед живих/майбутніх топіків Horizon: він явно націлений на «передові МСП», заохочує координатора-МСП, а його сфера Боротьби зі злочинністю й тероризмом перелічує безготівкове платіжне шахрайство, кібершахрайства та виявлення підроблених документів — усе безпосередньо досяжне зі спроможностей DICEUS з фроду/виявлення аномалій та документного ШІ (znuFitsGrant = yes; grantFitsZnu = partial, бо це цивільна безпека, а не страхове ядро). Щедрий таймлайн (подання листопад 2027, відкриття травень 2027) дає DICEUS простір зібрати обов'язковий консорціум — друге МСП з іншої держави-члена, безпекового кінцевого користувача як валідатора/першого адоптера і, бажано, безпекове RTO — та переформатувати свій фрод/документний ШІ під безпековий домен. Головна робота не в технічній відповідності, а в (а) залученні безпекового кінцевого користувача та (б) рішенні, чи хоче DICEUS взагалі виходити на ринок цивільної безпеки. Якщо так — це сильний кандидат для лідерства з низьким тиском за часом. Перед участю перевірити бюджет на проєкт і клаузулу прийнятності за ланцюгом контролю."
+    }
+  }
+}

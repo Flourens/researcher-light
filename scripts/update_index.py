@@ -36,6 +36,7 @@ def card_from_analysis(grant_id: str, data: dict) -> dict:
     return {
         "id": grant_id,
         "kind": data.get("kind", "grant"),
+        "participant": data.get("participant", "ZNU"),
         "sourceUrl": data.get("sourceUrl", ""),
         "title": _localized(grant.get("title", "")),
         "callIdentifier": grant.get("callIdentifier", ""),

@@ -91,6 +91,32 @@ a { color: var(--accent); }
 .lang-btn:hover { background: #f3f4f6; color: var(--text); }
 .lang-btn.active { background: var(--accent); color: #fff; }
 
+.participant-switch {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+.participant-label {
+  font-size: 12px;
+  color: var(--muted);
+  margin-right: 2px;
+}
+.participant-btn {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 3px 10px;
+  background: #fff;
+}
+.participant-btn:hover { background: #f3f4f6; color: var(--text); }
+.participant-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -227,6 +253,45 @@ a { color: var(--accent); }
   gap: 8px;
 }
 
+.card-head-right {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.card.is-pinned {
+  border-color: #fbbf24;
+  box-shadow: 0 0 0 1px #fbbf24 inset;
+}
+
+.pin-btn {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  padding: 2px 4px;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  color: #9ca3af;
+  border-radius: 4px;
+  transition: color 120ms ease, background 120ms ease;
+}
+.pin-btn:hover { background: #f3f4f6; color: #d97706; }
+.pin-btn.pinned { color: #f59e0b; }
+.pin-btn.pinned:hover { color: #b45309; }
+
+.filter-pinned-label {
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 6px !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
+  font-size: 13px !important;
+  color: var(--text) !important;
+  cursor: pointer;
+}
+.filter-pinned-label input { margin: 0; }
+
 .btn {
   display: inline-block;
   padding: 6px 12px;
@@ -333,7 +398,22 @@ a { color: var(--accent); }
   display: flex;
   gap: 8px;
   margin-bottom: 20px;
+  align-items: center;
 }
+
+.btn-pin {
+  background: #fff;
+  color: var(--text);
+  border: 1px solid var(--border);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+.btn-pin:hover { background: #f9fafb; border-color: #fbbf24; color: #b45309; }
+.btn-pin .pin-glyph { font-size: 16px; color: #9ca3af; line-height: 1; }
+.btn-pin.pinned { background: #fef3c7; border-color: #fbbf24; color: #92400e; }
+.btn-pin.pinned .pin-glyph { color: #f59e0b; }
 
 .scope-block {
   background: var(--panel);

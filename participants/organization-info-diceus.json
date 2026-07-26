@@ -1,0 +1,110 @@
+{
+  "name": "DICEUS",
+  "type": "SME (product-led InsurTech / software company)",
+  "country": "TBC — DICEUS is founded in Ukraine (associated country, fully eligible for Horizon Europe) and operates offices in Europe, the United States, and the Middle East. Confirm the exact LEGAL ENTITY and its country of registration before any application — eligibility and funding rate depend on it.",
+  "description": "DICEUS is a European product-led InsurTech company (founded 2011) developing and commercialising configurable, ready-made insurance software products. It has evolved from a custom software engineering provider into a product-focused technology company with 250+ professionals and 150+ delivered projects across insurance, banking, healthcare, logistics, and financial services. Its portfolio is built on a shared cloud-native, API-first, modular technology foundation with embedded, reusable AI services. As an SME it seeks funding for its own product-led R&D, primarily DIRECT single-company instruments, but is open to indirect (consortium / cascade) routes.",
+  "researchAreas": [
+    "Trustworthy & Explainable AI (XAI) for regulated industries (human-in-the-loop decision support, audit trails, governance)",
+    "AI-assisted underwriting and intelligent document processing (extraction from unstructured insurance documents)",
+    "Predictive analytics, forecasting and anomaly detection for insurance/financial operations",
+    "Configurable low-code insurance core platforms (Policy Administration Systems)",
+    "Cloud-native, API-first, microservices software architecture and interoperability",
+    "Enterprise cybersecurity & operational resilience (DORA, ISO 27001, SOC 2, PCI DSS, SWIFT CSP)",
+    "Standardised cross-organisational data exchange (reinsurance/insurance data spaces, interoperability)",
+    "InsurTech / FinTech digital transformation and intelligent process automation"
+  ],
+  "teamInfo": {
+    "totalResearchers": 0,
+    "students": 0,
+    "totalStaff": 250,
+    "expertise": [
+      "Explainable AI: recommendations with supporting evidence, confidence indicators, business-rule traceability, full audit trails",
+      "Intelligent document processing: extracting and validating structured data from unstructured insurance documents (submissions, financials, medical/engineering reports)",
+      "Decision intelligence: preliminary risk scoring, pricing/quotation support, referral management, straight-through processing",
+      "Insurance domain: underwriting, policy administration, claims, billing, reinsurance, captive management, broker enablement",
+      "Software engineering: cloud-native architecture, microservices, DevSecOps, CI/CD, Secure SDLC",
+      "Regulatory/compliance engineering: GDPR, ISO 27001, SOC 2, PCI DSS, DORA, SWIFT CSP, IFRS 17",
+      "Enterprise integration: API-first services interoperating with PAS, Claims, CRM, EHR, actuarial, fraud-detection and external data providers"
+    ],
+    "keyUnits": [
+      {
+        "name": "AI-Powered Underwriting Workbench",
+        "role": "Flagship product & primary R&D direction",
+        "capabilities": "Next-generation underwriting workspace: AI-assisted submission intake, intelligent document processing, automated risk assessment, explainable decision support, human-in-the-loop, complete auditability. Dedicated commercial / life / health workspaces."
+      },
+      {
+        "name": "Policy Administration System (PAS)",
+        "role": "Second strategic product family — configurable low-code insurance core",
+        "capabilities": "Full policy lifecycle: product configuration, rating, issuance, endorsements, renewals, billing, document generation, multi-company/multi-country, API-first. AI-ready modular architecture."
+      },
+      {
+        "name": "Specialized products",
+        "role": "Captive Management Platform, Captive Owner Portal, Reinsurance Financial & Data Exchange Platform, Broker Portal",
+        "capabilities": "Domain-specific solutions sharing common architecture; reusable AI services (document processing, analytics, anomaly detection, AI-assisted reporting)."
+      },
+      {
+        "name": "Cross-product AI framework",
+        "role": "Shared AI technology layer (not a standalone product)",
+        "capabilities": "Reusable services: intelligent document processing, predictive analytics, workflow optimisation, anomaly detection, forecasting, explainable decision support — progressively adopted across products."
+      }
+    ]
+  },
+  "resources": {
+    "hpcAccess": false,
+    "hpcDetails": "No owned HPC; cloud-based compute via hyperscaler partnerships.",
+    "cloudInfrastructure": "Cloud-native platform supporting SaaS, private cloud, hybrid cloud and on-premises deployment. Hyperscaler partnerships: Microsoft (Azure), Google Cloud, Oracle.",
+    "vrFacilities": "n/a",
+    "solarPower": "n/a",
+    "laboratories": [
+      "In-house product engineering & AI development teams (software engineers, solution architects, business analysts, product managers, UX designers, AI specialists, DevOps, QA, cybersecurity experts)"
+    ]
+  },
+  "financialCapacity": {
+    "coFundingAvailable": true,
+    "maxProjectBudget": 2500000,
+    "esgStrategy": "Commercial SME with international revenue; able to co-fund and to absorb the equity/blended-finance component of instruments such as the EIC Accelerator (subject to internal approval)."
+  },
+  "trackRecord": {
+    "previousGrants": [],
+    "rankings": "150+ software projects delivered across insurance and other highly regulated industries (banking, healthcare, logistics, financial services).",
+    "internationalMobility": "International operations across Europe, the United States, and the Middle East.",
+    "referenceCustomers": [
+      "UNIQA",
+      "Vienna Insurance Group (VIG)",
+      "Willis Towers Watson (WTW)",
+      "Fairfax Group",
+      "The Baldwin Group",
+      "Fadata",
+      "Raiffeisen Bank",
+      "Bank al Etihad",
+      "BriteCore"
+    ]
+  },
+  "partnerships": [
+    { "organization": "Microsoft", "type": "technology", "active": true },
+    { "organization": "Google Cloud", "type": "technology", "active": true },
+    { "organization": "Oracle", "type": "technology", "active": true },
+    { "organization": "InsurTech UK", "type": "industry", "active": true },
+    { "organization": "Swiss InsurTech Hub", "type": "industry", "active": true },
+    { "organization": "VCIA (Vermont Captive Insurance Association)", "type": "industry", "active": true },
+    { "organization": "InsureMO", "type": "technology", "active": true },
+    { "organization": "Claim Technology", "type": "technology", "active": true },
+    { "organization": "Blink Payment", "type": "technology", "active": true }
+  ],
+  "warContext": "n/a for the company profile (DICEUS is a commercial software vendor). If the legal entity is Ukraine-registered, Ukraine's status as a Horizon Europe Associated Country and possible Ukraine-specific windows (e.g. dedicated support, WIDERA) may add value — confirm entity country first.",
+  "cooperationAreas": [
+    "Trustworthy / Explainable AI in regulated industries",
+    "AI for the insurance & financial-services value chain",
+    "Digital & operational resilience of financial entities (DORA)",
+    "Interoperable data spaces and standardised data exchange (finance/insurance)"
+  ],
+  "fundingInterests": {
+    "preference": "DIRECT single-company funding preferred; indirect (consortium partner / cascade FSTP) acceptable.",
+    "priorityTracks": [
+      "DIRECT single-SME: EIC Accelerator (grant up to ~EUR 2.5M + optional equity, deep-tech, TRL 5-8) — best fit for the flagship AI Underwriting Workbench",
+      "DIRECT-ish, lightweight: cascade / Financial Support to Third Parties (FSTP) open calls under running Horizon projects (typically EUR 50k-200k, single applicant, no full consortium)",
+      "SEMI-DIRECT: Eurostars / Eureka (SME-led collaborative R&D; needs >=1 foreign partner)",
+      "INDIRECT: Horizon Europe RIA/IA consortia where DICEUS joins as an industrial/technology partner (e.g. trustworthy-AI, cybersecurity/DORA, data-space topics)"
+    ]
+  }
+}

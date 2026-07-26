@@ -1,5 +1,26 @@
 'use strict';
 
+const PIN_KEY = 'researcher-light:pinned';
+
+function loadPinned() {
+  try {
+    const raw = localStorage.getItem(PIN_KEY);
+    if (!raw) return new Set();
+    const arr = JSON.parse(raw);
+    return new Set(Array.isArray(arr) ? arr : []);
+  } catch {
+    return new Set();
+  }
+}
+function savePinned(set) {
+  try { localStorage.setItem(PIN_KEY, JSON.stringify([...set])); } catch {}
+}
+let pinned = loadPinned();
+function togglePin(id) {
+  if (pinned.has(id)) pinned.delete(id); else pinned.add(id);
+  savePinned(pinned);
+}
+
 const I18N = {
   en: {
     back: '← All grants',
@@ -9,6 +30,8 @@ const I18N = {
     noGrantId: 'No grant id provided.',
     openOriginal: 'Open original on EC portal ↗',
     openOriginalGeneric: 'Open original ↗',
+    pinAction: 'Pin',
+    unpinAction: 'Unpin',
     kindHackathon: 'Hackathon',
     kindPrize: 'Prize',
     kindFellowship: 'Fellowship',
@@ -69,6 +92,8 @@ const I18N = {
     noGrantId: 'ID гранту не вказано.',
     openOriginal: 'Відкрити оригінал на порталі EC ↗',
     openOriginalGeneric: 'Відкрити оригінал ↗',
+    pinAction: 'Закріпити',
+    unpinAction: 'Відкріпити',
     kindHackathon: 'Хакатон',
     kindPrize: 'Приз',
     kindFellowship: 'Стипендія',
@@ -175,6 +200,14 @@ function escapeHtml(s) {
     .replace(/'/g, '&#39;');
 }
 
+// Swap the "ZNU"/"ЗНУ" token in a label for the actual participant name
+// (e.g. DICEUS) when the loaded analysis belongs to another participant.
+function withParticipant(str) {
+  const p = cachedData && cachedData.participant ? String(cachedData.participant) : '';
+  if (!p || p.toUpperCase() === 'ZNU') return str;
+  return str.replace(/ZNU/g, p).replace(/ЗНУ/g, p);
+}
+
 function pair(label, value) {
   if (value === undefined || value === null || value === '') return '';
   return `<dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd>`;
@@ -197,8 +230,8 @@ function renderVerdict(v) {
       <div class="badges">
         <span class="badge ${cls}">${escapeHtml(t('shouldApplyLabel'))}: ${escapeHtml(tVerdict(v.shouldApply))}</span>
         ${v.confidence ? `<span class="badge badge-confidence">${escapeHtml(tVerdict(v.confidence))} ${escapeHtml(t('confidenceSuffix'))}</span>` : ''}
-        ${v.znuFitsGrant ? `<span class="badge badge-confidence">${escapeHtml(t('znuToGrant'))}: ${escapeHtml(tVerdict(v.znuFitsGrant))}</span>` : ''}
-        ${v.grantFitsZnu ? `<span class="badge badge-confidence">${escapeHtml(t('grantToZnu'))}: ${escapeHtml(tVerdict(v.grantFitsZnu))}</span>` : ''}
+        ${v.znuFitsGrant ? `<span class="badge badge-confidence">${escapeHtml(withParticipant(t('znuToGrant')))}: ${escapeHtml(tVerdict(v.znuFitsGrant))}</span>` : ''}
+        ${v.grantFitsZnu ? `<span class="badge badge-confidence">${escapeHtml(withParticipant(t('grantToZnu')))}: ${escapeHtml(tVerdict(v.grantFitsZnu))}</span>` : ''}
       </div>
       <dl class="pair">
         ${pair(t('recommendedRole'), loc(v.recommendedRole))}
@@ -263,7 +296,7 @@ function renderMatching(m) {
     : `<p class="empty" style="text-align:left;padding:0">${t('empty')}</p>`;
 
   return `
-    <h2>${escapeHtml(t('matching'))}</h2>
+    <h2>${escapeHtml(withParticipant(t('matching')))}</h2>
     <h3 style="margin:8px 0 4px;font-size:14px">${escapeHtml(t('overlap'))}</h3>
     ${overlapHtml}
     <dl class="pair" style="margin-top:16px">
@@ -315,16 +348,30 @@ function renderAll() {
   const ecPortalUrl = `https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/${encodeURIComponent(id)}`;
   const originalUrl = cachedData.sourceUrl || ecPortalUrl;
   const openLabel = kind === 'grant' ? t('openOriginal') : t('openOriginalGeneric');
+  const isPinned = pinned.has(id);
+  const pinLabel = isPinned ? t('unpinAction') : t('pinAction');
 
   detail.innerHTML = `
     <div class="actions">
       <a class="btn" href="${originalUrl}" target="_blank" rel="noopener">${escapeHtml(openLabel)}</a>
+      <button type="button" class="btn btn-pin${isPinned ? ' pinned' : ''}" id="pin-action" aria-pressed="${isPinned}">
+        <span class="pin-glyph">${isPinned ? '★' : '☆'}</span>
+        <span class="pin-label">${escapeHtml(pinLabel)}</span>
+      </button>
     </div>
     ${renderVerdict(cachedData.verdict)}
     ${renderGrant(grant)}
     ${renderEligibility(cachedData.eligibility)}
     ${renderMatching(cachedData.matching)}
   `;
+
+  const pinBtn = document.getElementById('pin-action');
+  if (pinBtn) {
+    pinBtn.addEventListener('click', () => {
+      togglePin(id);
+      renderAll();
+    });
+  }
 }
 
 function setLang(lang) {
@@ -360,6 +407,13 @@ async function init() {
     title.textContent = id;
     detail.innerHTML = `<p class="empty">${escapeHtml(t('couldNotLoad'))} ${escapeHtml(url)}: ${escapeHtml(e.message)}</p>`;
     return;
+  }
+
+  // Send the "← All grants" link back to the participant's own list view.
+  const backLink = document.querySelector('a.back');
+  const p = cachedData && cachedData.participant ? String(cachedData.participant) : '';
+  if (backLink && p && p.toUpperCase() !== 'ZNU') {
+    backLink.setAttribute('href', `index.html?participant=${encodeURIComponent(p)}`);
   }
 
   renderAll();
