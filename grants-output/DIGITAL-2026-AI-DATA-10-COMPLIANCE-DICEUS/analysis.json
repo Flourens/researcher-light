@@ -1,0 +1,131 @@
+{
+  "grantId": "DIGITAL-2026-AI-DATA-10-COMPLIANCE",
+  "kind": "grant",
+  "participant": "DICEUS",
+  "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-DATA-10-COMPLIANCE",
+  "fetchedAt": "2026-07-26T10:30:00Z",
+  "analyzedAt": "2026-07-26T11:30:00Z",
+  "grant": {
+    "title": {
+      "en": "Digital solutions for regulatory compliance through data",
+      "uk": "Цифрові рішення для регуляторного комплаєнсу на основі даних"
+    },
+    "callIdentifier": "DIGITAL-2026-AI-DATA-10 — AI Continent (Digital Europe Programme, Specific Objective 2)",
+    "type": {
+      "en": "DIGITAL Lump Sum Grants (Digital Europe Programme) — NOT a Horizon RIA/IA; a deployment-oriented action.",
+      "uk": "DIGITAL Lump Sum Grants (програма Digital Europe) — НЕ Horizon RIA/IA; дія, орієнтована на впровадження."
+    },
+    "typeCode": "",
+    "deadline": "2026-10-01",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-10-01 (~10 weeks from today, 2026-07-26). Opened 2026-04-21. Lump-sum grant.",
+      "uk": "Однораундовий; дедлайн подання 01.10.2026 (~10 тижнів від сьогодні, 26.07.2026). Відкрито 21.04.2026. Грант lump-sum."
+    },
+    "budgetTotal": {
+      "en": "EUR 8,500,000 total. Budget table lists 2 expected grants; the Expected Impact text says 'three to four projects' — confirm the per-project figure and number of grants in the call document.",
+      "uk": "8 500 000 євро загалом. Бюджетна таблиця вказує 2 очікувані гранти; текст Expected Impact каже «три-чотири проєкти» — уточнити суму на проєкт і кількість грантів у документі конкурсу."
+    },
+    "budgetPerProject": {
+      "en": "Roughly EUR 2M-4M depending on the final number of projects (2-4). Digital Europe funding rate is typically 50% of eligible costs — verify for this call.",
+      "uk": "Приблизно 2-4 млн євро залежно від фінальної кількості проєктів (2-4). Ставка фінансування Digital Europe зазвичай 50% прийнятних витрат — перевірити для цього конкурсу."
+    },
+    "expectedOutcome": {
+      "en": "Streamline regulatory reporting through automated and trusted sharing of compliance data; reduce enterprises' administrative burden by automating the reporting process; deliver privacy-preserving, auditable, interoperable, open-source compliance solutions.",
+      "uk": "Спростити регуляторну звітність через автоматизований і довірений обмін даними комплаєнсу; зменшити адміністративне навантаження підприємств шляхом автоматизації процесу звітності; надати рішення комплаєнсу зі збереженням приватності, аудитовані, інтероперабельні, з відкритим кодом."
+    },
+    "scope": {
+      "en": "Test digital solutions that transmit compliance-relevant information and automate the compliance process across pilot use cases, targeting regulatory reporting from aggregate data (e.g. company balance sheets) to detailed data (transactions, events, product registrations). Technical asks: privacy-preserving technologies, data capture, automatic transmission/analysis, cloud storage and encryption; comprehensive APIs for real-time and self-compliance checks; machine-learning for automated monitoring and reporting; use of Common European Data Spaces concepts; direct machine-readable channels to regulators; robust access control and audit trails; integration of the European Digital Identity Wallet; collaboration with data-space services (e.g. Simpl). Systems MUST be open source, interoperable with government systems, scalable, and follow European data standards. Target sectors with high administrative burden: agriculture, environment, manufacturing, healthcare and energy.",
+      "uk": "Протестувати цифрові рішення, що передають релевантну для комплаєнсу інформацію та автоматизують процес комплаєнсу в пілотних кейсах, охоплюючи регуляторну звітність від агрегованих даних (напр. баланси компаній) до детальних (транзакції, події, реєстрації продуктів). Технічні вимоги: технології збереження приватності, захоплення даних, автоматична передача/аналіз, хмарне зберігання та шифрування; повноцінні API для перевірок комплаєнсу в реальному часі та самоперевірок; машинне навчання для автоматичного моніторингу і звітності; використання концепцій Common European Data Spaces; прямі машиночитні канали до регуляторів; надійний контроль доступу та аудиторські сліди; інтеграція European Digital Identity Wallet; співпраця з сервісами даних-просторів (напр. Simpl). Системи МАЮТЬ бути з відкритим кодом, інтероперабельні з урядовими системами, масштабовані та відповідати європейським стандартам даних. Цільові сектори з високим адмінтягарем: сільське господарство, довкілля, виробництво, охорона здоров'я та енергетика."
+    },
+    "topicsKeywords": [
+      {"en": "regulatory reporting automation", "uk": "автоматизація регуляторної звітності"},
+      {"en": "RegTech / compliance-by-data", "uk": "RegTech / комплаєнс на даних"},
+      {"en": "privacy-preserving technologies", "uk": "технології збереження приватності"},
+      {"en": "ML automated monitoring & reporting", "uk": "ML-автоматичний моніторинг і звітність"},
+      {"en": "APIs, audit trails, access control", "uk": "API, аудиторські сліди, контроль доступу"},
+      {"en": "Common European Data Spaces / Simpl", "uk": "Common European Data Spaces / Simpl"},
+      {"en": "mandatory open source", "uk": "обов'язковий відкритий код"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Digital Europe deployment actions are normally consortium-based (multiple entities). The truncated conditions do not state the exact minimum — confirm consortium composition and size in the call document. DICEUS would join/lead a consortium, not apply alone.",
+      "uk": "Дії з впровадження Digital Europe зазвичай консорціумні (кілька суб'єктів). Урізані умови не вказують точний мінімум — підтвердити склад і розмір консорціуму в документі конкурсу. DICEUS долучатиметься/вестиме консорціум, а не подаватиметься сам."
+    },
+    "requiredCountries": {
+      "en": "Digital Europe: EU Member States, EEA and countries associated to the Digital Europe Programme. DICEUS (EU-resident) is eligible.",
+      "uk": "Digital Europe: держави-члени ЄС, ЄЕЗ та країни, асоційовані до програми Digital Europe. DICEUS (резидент ЄС) прийнятний."
+    },
+    "otherConstraints": {
+      "en": "MANDATORY open-source deliverables and interoperability with government data systems — a material constraint for a proprietary-product SME. Solutions must integrate EU Digital Identity Wallet and data-space services (Simpl). Must avoid overlap with Digital Product Passport / Customs reform. Lump-sum.",
+      "uk": "ОБОВ'ЯЗКОВІ результати з відкритим кодом та інтероперабельність з урядовими системами даних — суттєве обмеження для МСП із пропрієтарним продуктом. Рішення мають інтегрувати EU Digital Identity Wallet і сервіси даних-просторів (Simpl). Уникати перетину з Digital Product Passport / реформою митниці. Lump-sum."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Automated regulatory reporting & compliance data sharing", "uk": "Автоматизована регуляторна звітність та обмін даними комплаєнсу"},
+        "znuArea": {"en": "Regulatory/compliance engineering in DICEUS products (IFRS 17, DORA, regulatory reporting in PAS / Reinsurance / Captive platforms)", "uk": "Інженерія комплаєнсу в продуктах DICEUS (IFRS 17, DORA, регуляторна звітність у PAS / Reinsurance / Captive платформах)"},
+        "strength": "medium",
+        "rationale": {"en": "DICEUS already builds regulatory-reporting and financial-reconciliation automation into its insurance products; the mechanism (automated, auditable reporting to authorities) is genuinely in its wheelhouse.", "uk": "DICEUS уже вбудовує автоматизацію регуляторної звітності та фінансової звірки у свої страхові продукти; механізм (автоматизована, аудитована звітність регуляторам) справді в його компетенції."}
+      },
+      {
+        "grantTopic": {"en": "Privacy-preserving tech, audit trails, access control, APIs", "uk": "Технології приватності, аудиторські сліди, контроль доступу, API"},
+        "znuArea": {"en": "Explainable AI with audit trails; API-first, cloud-native, DevSecOps; DORA/ISO 27001 posture", "uk": "Пояснюваний AI з аудиторськими слідами; API-first, cloud-native, DevSecOps; відповідність DORA/ISO 27001"},
+        "strength": "medium",
+        "rationale": {"en": "DICEUS's architecture (API-first, auditability, encryption, regulated-cloud) maps well to the technical asks.", "uk": "Архітектура DICEUS (API-first, аудитованість, шифрування, регульована хмара) добре лягає на технічні вимоги."}
+      },
+      {
+        "grantTopic": {"en": "ML for automated monitoring/reporting", "uk": "ML для автоматичного моніторингу/звітності"},
+        "znuArea": {"en": "Anomaly detection, automated data validation, intelligent document processing", "uk": "Виявлення аномалій, автоматична валідація даних, інтелектуальна обробка документів"},
+        "strength": "medium",
+        "rationale": {"en": "DICEUS's anomaly-detection and document-AI can power automated monitoring and validation of reported data.", "uk": "Виявлення аномалій і документний AI DICEUS можуть живити автоматичний моніторинг і валідацію звітних даних."}
+      },
+      {
+        "grantTopic": {"en": "Pilot sectors: agriculture, environment, manufacturing, healthcare, energy", "uk": "Пілотні сектори: сільське господарство, довкілля, виробництво, охорона здоров'я, енергетика"},
+        "znuArea": {"en": "Insurance / financial services (NOT among the named pilot sectors)", "uk": "Страхування / фінансові послуги (НЕ серед названих пілотних секторів)"},
+        "strength": "low",
+        "rationale": {"en": "The topic names non-finance pilot sectors. DICEUS has no product in agriculture/environment/manufacturing/healthcare/energy reporting; the finance/insurance angle is only implied via 'balance sheets/transactions', not named.", "uk": "Топік називає нефінансові пілотні сектори. У DICEUS немає продукту для звітності в сільському господарстві/довкіллі/виробництві/охороні здоров'я/енергетиці; фінансово-страховий кут лише неявний через «баланси/транзакції», не названий."}
+      }
+    ],
+    "resourceFit": {
+      "en": "Technically solid on the reporting-automation, API, encryption and ML sides. Two real gaps: (1) mandatory OPEN-SOURCE deliverables clash with DICEUS's proprietary-product model; (2) no product/data in the named pilot sectors.",
+      "uk": "Технічно міцно з боку автоматизації звітності, API, шифрування та ML. Дві реальні прогалини: (1) обов'язкові результати з ВІДКРИТИМ КОДОМ суперечать пропрієтарній продуктовій моделі DICEUS; (2) немає продукту/даних у названих пілотних секторах."
+    },
+    "partnershipFit": {
+      "en": "Consortium-based action. DICEUS could contribute the compliance-automation/RegTech technology component, but needs partners: reporting entities in a pilot sector, a regulator/public body, and likely a data-space/open-source partner (e.g. Simpl-aligned). DICEUS has none of these lined up.",
+      "uk": "Дія консорціумна. DICEUS міг би внести технологічний компонент автоматизації комплаєнсу/RegTech, але потрібні партнери: звітні суб'єкти в пілотному секторі, регулятор/публічний орган і, ймовірно, партнер із даних-просторів/відкритого коду (напр. узгоджений із Simpl). У DICEUS нікого з них не узгоджено."
+    },
+    "trackRecordFit": {
+      "en": "Regulatory-reporting delivery in insurance is relevant supporting evidence, but DICEUS has no public-sector compliance-reporting or open-source track record.",
+      "uk": "Досвід регуляторної звітності у страхуванні — релевантний допоміжний доказ, але в DICEUS немає досвіду публічної звітності комплаєнсу чи відкритого коду."
+    },
+    "warContextRelevance": {"en": "n/a", "uk": "н/д"}
+  },
+  "verdict": {
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "partial",
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "Partner (technology provider) contributing the compliance-automation / RegTech component to a consortium led by a pilot-sector reporting entity and a public authority. Not lead, not sole applicant.",
+      "uk": "Партнер (постачальник технології), що вносить компонент автоматизації комплаєнсу / RegTech до консорціуму на чолі зі звітним суб'єктом пілотного сектору та публічним органом. Не лідер, не єдиний заявник."
+    },
+    "strengths": [
+      {"en": "Compliance/regulatory-reporting automation is a real DICEUS capability (IFRS 17, DORA, financial reconciliation) — the mechanism genuinely overlaps.", "uk": "Автоматизація комплаєнсу/регуляторної звітності — реальна компетенція DICEUS (IFRS 17, DORA, фінансова звірка) — механізм справді перетинається."},
+      {"en": "Technical asks (APIs, audit trails, encryption, ML monitoring, cloud) fit DICEUS's architecture.", "uk": "Технічні вимоги (API, аудиторські сліди, шифрування, ML-моніторинг, хмара) відповідають архітектурі DICEUS."},
+      {"en": "Live and near — deadline 2026-10-01; the only on-portal topic even adjacent to DICEUS's direction.", "uk": "Живий і близький — дедлайн 01.10.2026; єдиний топік на порталі, хоч дотично близький до направлення DICEUS."}
+    ],
+    "risks": [
+      {"en": "Mandatory OPEN-SOURCE deliverables conflict with DICEUS's proprietary commercial product model — a strategic decision, not a detail.", "uk": "Обов'язкові результати з ВІДКРИТИМ КОДОМ суперечать пропрієтарній комерційній моделі DICEUS — це стратегічне рішення, а не деталь."},
+      {"en": "Named pilot sectors (agri/environment/manufacturing/healthcare/energy) exclude insurance/finance — DICEUS has no product or data there.", "uk": "Названі пілотні сектори (агро/довкілля/виробництво/охорона здоров'я/енергетика) виключають страхування/фінанси — у DICEUS там немає продукту чи даних."},
+      {"en": "Consortium-based with a required public authority / reporting entity — DICEUS has none lined up, and ~10 weeks is tight to assemble one.", "uk": "Консорціумна дія з обов'язковим публічним органом / звітним суб'єктом — у DICEUS нікого не узгоджено, а ~10 тижнів замало, щоб зібрати консорціум."},
+      {"en": "It is compliance-REPORTING tooling, not insurance-PRODUCT development — adjacent to, not on, the confirmed direction.", "uk": "Це інструментарій ЗВІТНОСТІ комплаєнсу, а не розробка страхового ПРОДУКТУ — дотично, а не по суті підтвердженого направлення."}
+    ],
+    "rationale": {
+      "en": "This is the closest LIVE portal topic to DICEUS's confirmed direction, but 'closest' is not 'on target'. The genuine overlap is real: DICEUS already automates regulatory reporting, reconciliation and auditable data flows inside its insurance products, and the technical requirements (APIs, encryption, ML monitoring, audit trails, cloud) sit comfortably in its stack. Three things pull it off-strategy, however: (1) the deliverables MUST be open source, which conflicts with DICEUS's proprietary product business; (2) the named pilot sectors are agriculture, environment, manufacturing, healthcare and energy — insurance/finance is not among them, so DICEUS lacks a domain data/use-case anchor; and (3) it is compliance-reporting infrastructure, not the AI insurance-product development DICEUS said it wants. Net: pursue ONLY as a technology partner in a consortium already anchored by a pilot-sector reporting entity and a public authority, and only if DICEUS is comfortable open-sourcing the resulting module. With ~10 weeks to a single-stage deadline and no consortium in hand, this is a stretch for the current cycle — better treated as evidence that DICEUS's real fit is the bottom-up EIC Accelerator / Eurostars route, where it funds its own proprietary insurance-AI product without an open-source mandate or a foreign pilot sector.",
+      "uk": "Це найближчий ЖИВИЙ топік порталу до підтвердженого направлення DICEUS, але «найближчий» ≠ «в ціль». Реальний перетин є: DICEUS уже автоматизує регуляторну звітність, звірку та аудитовані потоки даних усередині своїх страхових продуктів, а технічні вимоги (API, шифрування, ML-моніторинг, аудиторські сліди, хмара) комфортно лягають у його стек. Проте три речі відводять топік від стратегії: (1) результати МАЮТЬ бути з відкритим кодом, що суперечить пропрієтарному продуктовому бізнесу DICEUS; (2) названі пілотні сектори — сільське господарство, довкілля, виробництво, охорона здоров'я та енергетика — страхування/фінансів серед них немає, тож DICEUS не має доменного якоря даних/кейсу; (3) це інфраструктура звітності комплаєнсу, а не розробка AI-продукту у страхуванні, яку DICEUS назвав своїм шляхом. Підсумок: братися ЛИШЕ як технологічний партнер у консорціумі, що вже спирається на звітний суб'єкт пілотного сектору й публічний орган, і лише якщо DICEUS готовий відкрити код отриманого модуля. За ~10 тижнів до однораундового дедлайну й без готового консорціуму це натяжка на поточний цикл — краще сприймати як доказ того, що реальна відповідність DICEUS — це bottom-up маршрут EIC Accelerator / Eurostars, де він фінансує власний пропрієтарний страховий AI-продукт без мандату відкритого коду та зарубіжного пілотного сектору."
+    }
+  }
+}

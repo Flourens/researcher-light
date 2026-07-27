@@ -29,6 +29,93 @@
     "analyzedAt": "2026-05-21T05:05:00Z"
   },
   {
+    "id": "DIGITAL-2026-AI-DATA-10-COMPLIANCE-DICEUS",
+    "kind": "grant",
+    "participant": "DICEUS",
+    "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-DATA-10-COMPLIANCE",
+    "title": {
+      "en": "Digital solutions for regulatory compliance through data",
+      "uk": "Цифрові рішення для регуляторного комплаєнсу на основі даних"
+    },
+    "callIdentifier": "DIGITAL-2026-AI-DATA-10 — AI Continent (Digital Europe Programme, Specific Objective 2)",
+    "type": {
+      "en": "DIGITAL Lump Sum Grants (Digital Europe Programme) — NOT a Horizon RIA/IA; a deployment-oriented action.",
+      "uk": "DIGITAL Lump Sum Grants (програма Digital Europe) — НЕ Horizon RIA/IA; дія, орієнтована на впровадження."
+    },
+    "deadline": "2026-10-01",
+    "deadlineModel": {
+      "en": "Single-stage; submission deadline 2026-10-01 (~10 weeks from today, 2026-07-26). Opened 2026-04-21. Lump-sum grant.",
+      "uk": "Однораундовий; дедлайн подання 01.10.2026 (~10 тижнів від сьогодні, 26.07.2026). Відкрито 21.04.2026. Грант lump-sum."
+    },
+    "budgetPerProject": {
+      "en": "Roughly EUR 2M-4M depending on the final number of projects (2-4). Digital Europe funding rate is typically 50% of eligible costs — verify for this call.",
+      "uk": "Приблизно 2-4 млн євро залежно від фінальної кількості проєктів (2-4). Ставка фінансування Digital Europe зазвичай 50% прийнятних витрат — перевірити для цього конкурсу."
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "partial",
+    "grantFitsZnu": "partial",
+    "analyzedAt": "2026-07-26T11:30:00Z"
+  },
+  {
+    "id": "EIC-ACCELERATOR-DICEUS",
+    "kind": "grant",
+    "participant": "DICEUS",
+    "sourceUrl": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+    "title": {
+      "en": "EIC Accelerator — single-company support for breakthrough deep-tech innovation",
+      "uk": "EIC Accelerator — підтримка окремої компанії для проривної deep-tech інновації"
+    },
+    "callIdentifier": "European Innovation Council (EIC) Work Programme — Accelerator (bottom-up, open to any field)",
+    "type": {
+      "en": "Blended finance: grant + optional equity (EIC Fund). NOT a Horizon topic — bottom-up, applicant defines the innovation.",
+      "uk": "Змішане фінансування: грант + опційний капітал (EIC Fund). НЕ топік Horizon — bottom-up, заявник сам визначає інновацію."
+    },
+    "deadline": "",
+    "deadlineModel": {
+      "en": "Recurring: short application any time → full application by specific cut-off dates (several per year) → jury interview. Check the EIC portal for the next 2026/2027 cut-off before planning.",
+      "uk": "Періодично: коротка заявка будь-коли → повна заявка до конкретних cut-off дат (кілька на рік) → співбесіда з журі. Перевірте портал EIC щодо наступного cut-off 2026/2027 перед плануванням."
+    },
+    "budgetPerProject": {
+      "en": "Up to ~EUR 2.5M grant + optional equity. Single company.",
+      "uk": "До ~2,5 млн євро гранту + опційний капітал. Одна компанія."
+    },
+    "shouldApply": "yes",
+    "confidence": "high",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-07-26T11:00:00Z"
+  },
+  {
+    "id": "EUROSTARS-DICEUS",
+    "kind": "grant",
+    "participant": "DICEUS",
+    "sourceUrl": "https://www.eurostars-eureka.eu/",
+    "title": {
+      "en": "Eurostars 3 — SME-led collaborative R&D (Eureka, co-funded by Horizon Europe)",
+      "uk": "Eurostars 3 — спільні R&D на чолі з МСП (Eureka, співфінансування Horizon Europe)"
+    },
+    "callIdentifier": "Eureka / Eurostars 3 programme (bottom-up; national funding bodies co-fund)",
+    "type": {
+      "en": "SME-led collaborative R&D grant. NOT a Horizon topic — bottom-up, applicant defines the project.",
+      "uk": "Грант на спільні R&D на чолі з МСП. НЕ топік Horizon — bottom-up, заявник сам визначає проєкт."
+    },
+    "deadline": "",
+    "deadlineModel": {
+      "en": "Recurring cut-offs (typically ~2 per year). Check eurostars-eureka.eu for the next call deadline before planning.",
+      "uk": "Періодичні cut-off (зазвичай ~2 на рік). Перевірте eurostars-eureka.eu щодо наступного дедлайну перед плануванням."
+    },
+    "budgetPerProject": {
+      "en": "Varies by national funding rules (commonly national grant covering ~50-60% of eligible costs per partner). Confirm the applicable national rate for DICEUS's country.",
+      "uk": "Залежить від національних правил (зазвичай національний грант покриває ~50-60% прийнятних витрат на партнера). Уточніть застосовну національну ставку для країни DICEUS."
+    },
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "analyzedAt": "2026-07-26T11:10:00Z"
+  },
+  {
     "id": "GEMMA-4-GOOD-HACKATHON",
     "kind": "hackathon",
     "participant": "ZNU",
@@ -119,93 +206,6 @@
     "znuFitsGrant": "yes",
     "grantFitsZnu": "yes",
     "analyzedAt": "2026-05-11T13:58:00+00:00"
-  },
-  {
-    "id": "HORIZON-CL3-2026-02-CS-ECCC-02-DICEUS",
-    "kind": "grant",
-    "participant": "DICEUS",
-    "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-02-CS-ECCC-02",
-    "title": {
-      "en": "Enhancing the Security, Privacy and Robustness of AI Models and Systems (SecureAI)",
-      "uk": "Підвищення безпеки, приватності та робастності моделей і систем ШІ (SecureAI)"
-    },
-    "callIdentifier": "HORIZON-CL3-2026-02-CS-ECCC (Indirectly Managed Action by the ECCC, 2026)",
-    "type": {
-      "en": "HORIZON Innovation Actions (IA)",
-      "uk": "HORIZON Інноваційні дії (IA)"
-    },
-    "deadline": "2026-09-15",
-    "deadlineModel": {
-      "en": "Single-stage; submission deadline 2026-09-15 (~7 weeks from today, 2026-07-26). Lump-sum grant. 5 grants expected for this IA sub-topic (-02). Opened 2026-03-03.",
-      "uk": "Однораундовий; дедлайн подання 15.09.2026 (~7 тижнів від сьогодні, 26.07.2026). Грант у формі lump-sum. Для цього IA-підтопіка (-02) очікується 5 грантів. Відкрито 03.03.2026."
-    },
-    "budgetPerProject": {
-      "en": "EUR 3,000,000 – 4,000,000 (lump sum)",
-      "uk": "3 000 000 – 4 000 000 євро (lump-sum)"
-    },
-    "shouldApply": "maybe",
-    "confidence": "medium",
-    "znuFitsGrant": "partial",
-    "grantFitsZnu": "yes",
-    "analyzedAt": "2026-07-26T09:30:00Z"
-  },
-  {
-    "id": "HORIZON-CL3-2027-01-SSRI-01-DICEUS",
-    "kind": "grant",
-    "participant": "DICEUS",
-    "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-SSRI-01",
-    "title": {
-      "en": "Accelerating uptake through open proposals for advanced SME innovation",
-      "uk": "Прискорення впровадження через відкриті пропозиції для передової інновації МСП"
-    },
-    "callIdentifier": "HORIZON-CL3-2027-01 — Civil Security for Society 2027",
-    "type": {
-      "en": "HORIZON Innovation Actions (IA); SME-led (SSRI — Strengthened Security Research & Innovation)",
-      "uk": "HORIZON Інноваційні дії (IA); на чолі з МСП (SSRI — Посилені безпекові дослідження та інновації)"
-    },
-    "deadline": "2027-11-04",
-    "deadlineModel": {
-      "en": "Single-stage; submission deadline 2027-11-04 (opens 2027-05-05 — long runway, ~15 months of prep). Max project duration 2 years. TRL 6–8 by project end. Contributes to STEP (deep-tech).",
-      "uk": "Однораундовий; дедлайн подання 04.11.2027 (відкриття 05.05.2027 — довгий запас, ~15 місяців на підготовку). Максимальна тривалість проєкту 2 роки. TRL 6–8 на кінець проєкту. Робить внесок у STEP (deep-tech)."
-    },
-    "budgetPerProject": {
-      "en": "Confirm in the topic's budget table (SSRI IA per-project contribution — check the specific figure on the portal before planning).",
-      "uk": "Уточнити в бюджетній таблиці топіка (внесок на проєкт для SSRI IA — перевірити конкретну цифру на порталі перед плануванням)."
-    },
-    "shouldApply": "maybe",
-    "confidence": "medium",
-    "znuFitsGrant": "yes",
-    "grantFitsZnu": "partial",
-    "analyzedAt": "2026-07-26T10:00:00Z"
-  },
-  {
-    "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-04-DICEUS",
-    "kind": "grant",
-    "participant": "DICEUS",
-    "sourceUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-04",
-    "title": {
-      "en": "Apply AI: Challenge-Driven AI Innovation Booster in Apply AI prioritised sectors (RIA) (Partnership in AI, Data and Robotics)",
-      "uk": "Apply AI: Challenge-Driven бустер AI-інновацій у пріоритетних секторах Apply AI (RIA) (Партнерство в AI, Data and Robotics)"
-    },
-    "callIdentifier": "HORIZON-CL4-2027-04 — DIGITAL",
-    "type": {
-      "en": "HORIZON Research and Innovation Actions (RIA); implements the ADRA partnership",
-      "uk": "HORIZON Дослідницько-інноваційні дії (RIA); реалізує партнерство ADRA"
-    },
-    "deadline": "2027-03-18",
-    "deadlineModel": {
-      "en": "Single-stage; CONSORTIUM proposal deadline 2027-03-18 (opens 2026-11-17). NOTE: this deadline is for the organisers that RUN the competition, not for the SMEs that receive money. The FSTP grants to third-party SMEs are distributed by the funded projects in later stages (expected 2028+). TRL 2 → 5.",
-      "uk": "Однораундовий; дедлайн пропозиції КОНСОРЦІУМУ 18.03.2027 (відкриття 17.11.2026). УВАГА: цей дедлайн — для організаторів, що ПРОВОДЯТЬ конкурс, а не для МСП, які отримують кошти. FSTP-гранти третім сторонам (МСП) розподіляються профінансованими проєктами на пізніших етапах (очікується 2028+). TRL 2 → 5."
-    },
-    "budgetPerProject": {
-      "en": "EUR 14,000,000 to each ORGANISING consortium. Of this, FSTP to third parties: Stage 2 = 10 × EUR 300,000; Stage 3 = 4 × EUR 2,250,000 (EUR 9M total). Max per third party across stages ≈ EUR 2.55M.",
-      "uk": "14 000 000 євро кожному КОНСОРЦІУМУ-ОРГАНІЗАТОРУ. З них FSTP третім сторонам: Етап 2 = 10 × 300 000 євро; Етап 3 = 4 × 2 250 000 євро (разом 9 млн євро). Максимум на одну третю сторону за етапами ≈ 2,55 млн євро."
-    },
-    "shouldApply": "maybe",
-    "confidence": "medium",
-    "znuFitsGrant": "no",
-    "grantFitsZnu": "partial",
-    "analyzedAt": "2026-07-26T09:45:00Z"
   },
   {
     "id": "HORIZON-CL5-2026-09-D4-02",

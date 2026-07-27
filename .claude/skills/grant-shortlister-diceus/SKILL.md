@@ -33,15 +33,19 @@ Before doing anything else, read **all** of:
 
 Generate concrete 2-3-word search queries (NOT single broad words like "AI"). For each theme produce **3-5 candidate queries**, phrased as a real product/R&D scout would search.
 
+**CONFIRMED DIRECTION (DICEUS feedback 2026-07-26):** DICEUS's path is **developing INSURANCE-SECTOR products enhanced with AI** — risk detection/assessment, error minimisation, and automation of insurance operations. It is **NOT** about security/cybersecurity/civil-security, and **NOT** about clinical/medical/healthcare AI. See `strategicDirection` in the profile. Keep the search on the insurance/finance product line and horizontal AI that a single company can apply to with its own product.
+
 Seed themes (extend as relevant):
 
-- **Trustworthy / explainable AI in regulated sectors** — `"trustworthy AI"`, `"explainable AI decision"`, `"human-centric AI"`, `"AI regulated industries"`, `"responsible AI deployment"`, `"AI governance auditability"`.
-- **AI for finance / insurance** — `"AI financial services"`, `"AI insurance"`, `"intelligent document processing"`, `"AI risk assessment"`, `"predictive analytics finance"`, `"fraud detection AI"`.
-- **EIC / SME innovation instruments** — `"EIC Accelerator"`, `"SME innovation"`, `"deep tech scaleup"`, `"breakthrough innovation SME"`.
-- **Cascade / FSTP** — `"open call SME"`, `"financial support third parties"`, `"AI adoption SME"`, `"digital SME uptake"`, `"cascade funding AI"`.
-- **Cybersecurity / operational resilience / DORA** — `"digital operational resilience"`, `"financial sector cybersecurity"`, `"secure AI systems"`, `"AI security robustness"`, `"cyber resilience finance"`.
-- **Data spaces / interoperability** — `"financial data space"`, `"data interoperability"`, `"common data space"`, `"standardised data exchange"`.
-- **Digital transformation of industry / GenAI uptake** — `"generative AI industry"`, `"AI uptake enterprises"`, `"digital transformation SME"`, `"AI factories"`.
+- **AI for the insurance product value chain (PRIMARY)** — `"AI insurance"`, `"insurance digital transformation"`, `"underwriting automation"`, `"claims automation"`, `"AI risk assessment"`, `"risk modelling"`, `"actuarial AI"`, `"policy administration automation"`.
+- **AI for finance operations** — `"AI financial services"`, `"financial sector AI"`, `"predictive analytics finance"`, `"process automation finance"`, `"decision support finance"`, `"intelligent document processing"`.
+- **EIC / SME bottom-up instruments (BEST FIT — no vertical gatekeeping)** — `"EIC Accelerator"`, `"SME innovation"`, `"deep tech scaleup"`, `"breakthrough innovation SME"`; also flag Eurostars (off-SEDIA).
+- **Cascade / FSTP (finance/insurance/RegTech or horizontal AI only)** — `"open call SME"`, `"AI adoption SME"`, `"digital SME uptake"`, `"cascade funding AI"`.
+- **RegTech / compliance automation** — `"regulatory compliance data"`, `"RegTech AI"`, `"AI compliance finance"`, `"regulatory reporting automation"`.
+- **Trustworthy / explainable AI (only as embedded in an insurance product)** — `"trustworthy AI"`, `"explainable AI decision"`, `"AI governance auditability"`.
+- **Data spaces / interoperability (finance/insurance)** — `"financial data space"`, `"data interoperability"`, `"standardised data exchange"`.
+
+**OUT OF SCOPE — do NOT recommend (rejected by DICEUS):** cybersecurity / AI-security / civil-security topics (e.g. SecureAI, SSRI civil security); clinical/medical/diagnostic healthcare AI; manufacturing/automotive/agriculture verticals. Drop these even if the AI mechanism looks reusable.
 
 ### Step 2 — Run searches
 

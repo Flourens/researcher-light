@@ -1,0 +1,119 @@
+{
+  "grantId": "EIC-ACCELERATOR",
+  "kind": "grant",
+  "participant": "DICEUS",
+  "sourceUrl": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+  "fetchedAt": "2026-07-26T11:00:00Z",
+  "analyzedAt": "2026-07-26T11:00:00Z",
+  "grant": {
+    "title": {
+      "en": "EIC Accelerator — single-company support for breakthrough deep-tech innovation",
+      "uk": "EIC Accelerator — підтримка окремої компанії для проривної deep-tech інновації"
+    },
+    "callIdentifier": "European Innovation Council (EIC) Work Programme — Accelerator (bottom-up, open to any field)",
+    "type": {
+      "en": "Blended finance: grant + optional equity (EIC Fund). NOT a Horizon topic — bottom-up, applicant defines the innovation.",
+      "uk": "Змішане фінансування: грант + опційний капітал (EIC Fund). НЕ топік Horizon — bottom-up, заявник сам визначає інновацію."
+    },
+    "typeCode": "",
+    "deadline": "",
+    "deadlineModel": {
+      "en": "Recurring: short application any time → full application by specific cut-off dates (several per year) → jury interview. Check the EIC portal for the next 2026/2027 cut-off before planning.",
+      "uk": "Періодично: коротка заявка будь-коли → повна заявка до конкретних cut-off дат (кілька на рік) → співбесіда з журі. Перевірте портал EIC щодо наступного cut-off 2026/2027 перед плануванням."
+    },
+    "budgetTotal": {
+      "en": "Grant component up to EUR 2.5M (70% of eligible costs for TRL 5-8 innovation activities); optional equity investment typically EUR 0.5M-10M via the EIC Fund for scale-up.",
+      "uk": "Грантова частина до 2,5 млн євро (70% прийнятних витрат для інноваційної діяльності TRL 5-8); опційна інвестиція в капітал зазвичай 0,5-10 млн євро через EIC Fund для масштабування."
+    },
+    "budgetPerProject": {
+      "en": "Up to ~EUR 2.5M grant + optional equity. Single company.",
+      "uk": "До ~2,5 млн євро гранту + опційний капітал. Одна компанія."
+    },
+    "expectedOutcome": {
+      "en": "Bring a high-risk, high-impact deep-tech innovation from validation to market and scale-up. The applicant defines the innovation; there is no imposed vertical.",
+      "uk": "Довести високоризикову, високоефективну deep-tech інновацію від валідації до ринку та масштабування. Заявник сам визначає інновацію; накинутої вертикалі немає."
+    },
+    "scope": {
+      "en": "Bottom-up single-SME/startup instrument for a breakthrough innovation with significant market-creating potential and a need for substantial de-risking finance. For DICEUS this is the natural home for an AI-driven insurance product — e.g. the AI-Powered Underwriting Workbench as an explainable, risk-scoring, straight-through-automation platform. DICEUS defines the product, the market and the go-to-market; the EIC funds the innovation and (optionally) invests to scale.",
+      "uk": "Bottom-up інструмент для окремого МСП/стартапу під проривну інновацію зі значним ринково-створюючим потенціалом і потребою у суттєвому de-risking фінансуванні. Для DICEUS це природний дім для AI-продукту у страхуванні — напр. AI-Powered Underwriting Workbench як платформа пояснюваного скорингу ризиків і наскрізної автоматизації. DICEUS сам визначає продукт, ринок і go-to-market; EIC фінансує інновацію і (опційно) інвестує в масштабування."
+    },
+    "topicsKeywords": [
+      {"en": "single-company deep-tech", "uk": "deep-tech однієї компанії"},
+      {"en": "grant + equity blended finance", "uk": "змішане фінансування грант + капітал"},
+      {"en": "bottom-up (any field)", "uk": "bottom-up (будь-яка сфера)"},
+      {"en": "AI insurance product / underwriting", "uk": "AI-продукт у страхуванні / андеррайтинг"},
+      {"en": "risk scoring & automation", "uk": "скоринг ризиків та автоматизація"},
+      {"en": "TRL 5-8, market scale-up", "uk": "TRL 5-8, ринкове масштабування"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "Single company. A for-profit SME (or a small mid-cap for the investment component) established in an EU Member State or Horizon-associated country. No consortium required.",
+      "uk": "Одна компанія. Прибуткове МСП (або невеликий mid-cap для інвестиційного компонента), зареєстроване в державі-члені ЄС або асоційованій до Horizon країні. Консорціум не потрібен."
+    },
+    "requiredCountries": {
+      "en": "EU Member States and Horizon Europe Associated Countries. DICEUS (EU-resident) qualifies.",
+      "uk": "Держави-члени ЄС та асоційовані до Horizon Europe країни. DICEUS (резидент ЄС) підходить."
+    },
+    "otherConstraints": {
+      "en": "Highly competitive; requires a strong commercial case, financials and a credible scale-up plan. The equity component involves due diligence by the EIC Fund. TRL 5-6 minimum to enter.",
+      "uk": "Дуже конкурентно; потрібні сильний комерційний кейс, фінанси та переконливий план масштабування. Компонент капіталу передбачає due diligence з боку EIC Fund. Вхід — мінімум TRL 5-6."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Bottom-up: applicant defines an AI-driven product in ITS OWN sector", "uk": "Bottom-up: заявник визначає AI-продукт у ВЛАСНОМУ секторі"},
+        "znuArea": {"en": "Insurance-sector products enhanced with AI (risk detection, error minimisation, automation) — DICEUS's confirmed direction", "uk": "Продукти страхового сектору з AI (виявлення ризиків, мінімізація помилок, автоматизація) — підтверджене направлення DICEUS"},
+        "strength": "high",
+        "rationale": {"en": "Because the instrument is bottom-up with no vertical gate, DICEUS can propose exactly the insurance-AI product it wants to build. This removes the sector-mismatch problem that killed the security/health topics.", "uk": "Оскільки інструмент bottom-up без секторного бар'єра, DICEUS може запропонувати саме той страховий AI-продукт, який хоче будувати. Це знімає проблему невідповідності сектору, через яку відпали security/медичні топіки."}
+      },
+      {
+        "grantTopic": {"en": "Deep-tech, market-creating innovation, TRL 5-8", "uk": "Deep-tech, ринково-створююча інновація, TRL 5-8"},
+        "znuArea": {"en": "AI-Powered Underwriting Workbench (flagship, explainable AI, human-in-the-loop) + PAS automation", "uk": "AI-Powered Underwriting Workbench (флагман, пояснюваний AI, human-in-the-loop) + автоматизація PAS"},
+        "strength": "high",
+        "rationale": {"en": "DICEUS's flagship is already a near-market, differentiated AI product — the exact maturity and ambition profile the Accelerator funds.", "uk": "Флагман DICEUS уже майже ринковий, диференційований AI-продукт — саме той профіль зрілості й амбіції, який фінансує Accelerator."}
+      }
+    ],
+    "resourceFit": {
+      "en": "Excellent: existing commercial product, 150+ delivered projects, marquee insurer references (UNIQA, VIG, WTW), cloud-native platform. This is exactly the profile the EIC looks for.",
+      "uk": "Відмінно: наявний комерційний продукт, 150+ реалізованих проєктів, знакові страхові референси (UNIQA, VIG, WTW), cloud-native платформа. Це саме той профіль, який шукає EIC."
+    },
+    "partnershipFit": {
+      "en": "No consortium needed — a decisive advantage given DICEUS has no research/consortium network yet.",
+      "uk": "Консорціум не потрібен — вирішальна перевага, враховуючи, що в DICEUS ще немає дослідницької/консорціумної мережі."
+    },
+    "trackRecordFit": {
+      "en": "Strong commercial track record substitutes for the EU-grant history the Horizon topics penalise. Financials and traction matter more here than prior grants.",
+      "uk": "Сильний комерційний послужний список замінює історію EU-грантів, за брак якої штрафують топіки Horizon. Тут важливіші фінанси й traction, ніж попередні гранти."
+    },
+    "warContextRelevance": {"en": "n/a", "uk": "н/д"}
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "shouldApply": "yes",
+    "confidence": "high",
+    "recommendedRole": {
+      "en": "Sole applicant (single company). DICEUS leads with its AI insurance product (e.g. Underwriting Workbench).",
+      "uk": "Єдиний заявник (одна компанія). DICEUS веде зі своїм страховим AI-продуктом (напр. Underwriting Workbench)."
+    },
+    "strengths": [
+      {"en": "Bottom-up — no imposed vertical, so DICEUS pitches its own insurance-AI product. Directly matches the confirmed direction.", "uk": "Bottom-up — без накинутої вертикалі, тож DICEUS питчить власний страховий AI-продукт. Прямо відповідає підтвердженому направленню."},
+      {"en": "Single company — no consortium to assemble; fastest path DICEUS can control end-to-end.", "uk": "Одна компанія — не треба збирати консорціум; найшвидший шлях, який DICEUS контролює повністю."},
+      {"en": "Large ticket: up to EUR 2.5M grant + optional equity to scale.", "uk": "Великий чек: до 2,5 млн євро гранту + опційний капітал для масштабування."},
+      {"en": "DICEUS's commercial maturity and references fit the EIC's market-impact bar.", "uk": "Комерційна зрілість і референси DICEUS відповідають планці ринкового впливу EIC."}
+    ],
+    "risks": [
+      {"en": "Very competitive (low single-digit success rates); needs a polished business case and financials.", "uk": "Дуже конкурентно (успішність — одиниці відсотків); потрібні відшліфований бізнес-кейс і фінанси."},
+      {"en": "Must frame the product as a genuine breakthrough with market-creating potential, not incremental SaaS.", "uk": "Продукт треба подати як справжній прорив із ринково-створюючим потенціалом, а не інкрементальний SaaS."},
+      {"en": "Equity component means EIC Fund due diligence and possible dilution — an internal decision for DICEUS.", "uk": "Компонент капіталу означає due diligence EIC Fund і можливе розмиття частки — внутрішнє рішення DICEUS."},
+      {"en": "Exact cut-off dates change yearly — verify the next full-application deadline on the EIC portal.", "uk": "Точні cut-off дати змінюються щороку — перевірте наступний дедлайн повної заявки на порталі EIC."}
+    ],
+    "rationale": {
+      "en": "After DICEUS rejected the security and medical directions, the EIC Accelerator is the single best-fit instrument for its actual path — developing insurance-sector products with AI for risk detection, error minimisation and automation. It is bottom-up (no vertical gatekeeping), single-company (no consortium to build), and sized for a real product push (grant up to EUR 2.5M plus optional scale-up equity). DICEUS's flagship AI-Powered Underwriting Workbench already sits at the maturity and ambition the Accelerator rewards, and its commercial references compensate for the absent EU-grant history that penalised the Horizon topics. The work is not fit — it is competitiveness: a sharp breakthrough narrative, strong financials, and a credible scale-up plan. Verify the next cut-off on the EIC portal and decide internally on the equity component.",
+      "uk": "Після того як DICEUS відхилив напрями security і медицини, EIC Accelerator — єдиний найкраще підходящий інструмент для його реального шляху: розробка продуктів страхового сектору з AI для виявлення ризиків, мінімізації помилок та автоматизації. Він bottom-up (без секторного бар'єра), для однієї компанії (не треба будувати консорціум) і за розміром відповідає справжньому продуктовому ривку (грант до 2,5 млн євро плюс опційний капітал для масштабування). Флагманський AI-Powered Underwriting Workbench уже має ту зрілість і амбіцію, яку винагороджує Accelerator, а комерційні референси компенсують відсутню історію EU-грантів, за яку штрафували топіки Horizon. Робота не у відповідності — у конкурентності: чіткий наратив прориву, сильні фінанси і переконливий план масштабування. Перевірте наступний cut-off на порталі EIC і ухваліть внутрішнє рішення щодо компонента капіталу."
+    }
+  }
+}

@@ -93,18 +93,24 @@
   ],
   "warContext": "n/a for the company profile (DICEUS is a commercial software vendor). If the legal entity is Ukraine-registered, Ukraine's status as a Horizon Europe Associated Country and possible Ukraine-specific windows (e.g. dedicated support, WIDERA) may add value — confirm entity country first.",
   "cooperationAreas": [
-    "Trustworthy / Explainable AI in regulated industries",
-    "AI for the insurance & financial-services value chain",
-    "Digital & operational resilience of financial entities (DORA)",
-    "Interoperable data spaces and standardised data exchange (finance/insurance)"
+    "AI for the INSURANCE product value chain — risk assessment/scoring, error minimisation, straight-through automation",
+    "AI-assisted underwriting, claims and policy-administration automation",
+    "Trustworthy / Explainable AI embedded in insurance products (governance, auditability)",
+    "Interoperable data & standardised data exchange for insurance/finance operations"
   ],
+  "strategicDirection": {
+    "confirmedByDiceus": "2026-07-26",
+    "inScope": "DEVELOPMENT OF INSURANCE-SECTOR PRODUCTS enhanced with AI: risk detection/assessment, minimisation of errors, and automation of insurance operations (underwriting, claims, policy admin, reinsurance, reporting). AI is applied to make DICEUS's own commercial insurance products better.",
+    "outOfScope": "NOT DICEUS's path: security / cybersecurity / civil-security domains (SecureAI, SSRI-01) and clinical / medical / healthcare-diagnostic AI. These were rejected as off-strategy. AI-security or DORA topics only count if framed around DICEUS's own insurance product, not as a security-research contribution.",
+    "note": "Feedback from DICEUS 2026-07-26: picked directions (security, medicine) are not their way; their development path is insurance-sector products with AI for risk detection, error minimisation, automation."
+  },
   "fundingInterests": {
-    "preference": "DIRECT single-company funding preferred; indirect (consortium partner / cascade FSTP) acceptable.",
+    "preference": "DIRECT single-company / bottom-up funding STRONGLY preferred — where DICEUS pitches its OWN insurance-AI product and defines the innovation itself (no imposed vertical). Indirect (consortium partner / cascade FSTP) only when the topic centres on insurance/finance operations.",
     "priorityTracks": [
-      "DIRECT single-SME: EIC Accelerator (grant up to ~EUR 2.5M + optional equity, deep-tech, TRL 5-8) — best fit for the flagship AI Underwriting Workbench",
-      "DIRECT-ish, lightweight: cascade / Financial Support to Third Parties (FSTP) open calls under running Horizon projects (typically EUR 50k-200k, single applicant, no full consortium)",
-      "SEMI-DIRECT: Eurostars / Eureka (SME-led collaborative R&D; needs >=1 foreign partner)",
-      "INDIRECT: Horizon Europe RIA/IA consortia where DICEUS joins as an industrial/technology partner (e.g. trustworthy-AI, cybersecurity/DORA, data-space topics)"
+      "DIRECT single-SME, bottom-up (BEST FIT for the confirmed direction): EIC Accelerator — grant up to ~EUR 2.5M + optional equity, deep-tech, TRL 5-8, applicant defines the product. Ideal for AI Underwriting Workbench / risk & automation products, with NO sector gatekeeping.",
+      "SEMI-DIRECT, bottom-up: Eurostars / Eureka (SME-led collaborative R&D, open topic; needs >=1 foreign partner). Also lets DICEUS pitch its own insurance-AI product.",
+      "DIRECT-ish, lightweight: cascade / FSTP open calls ONLY where scope covers finance/insurance/RegTech or horizontal AI adoption (single applicant, EUR 50k-200k).",
+      "INDIRECT (narrow): Horizon/DIGITAL RIA/IA consortia ONLY where the topic centres on insurance/financial operations, regulatory reporting automation, or trustworthy AI FOR the insurance value chain — NOT generic security or health verticals."
     ]
   }
 }

@@ -1,0 +1,116 @@
+{
+  "grantId": "EUROSTARS",
+  "kind": "grant",
+  "participant": "DICEUS",
+  "sourceUrl": "https://www.eurostars-eureka.eu/",
+  "fetchedAt": "2026-07-26T11:10:00Z",
+  "analyzedAt": "2026-07-26T11:10:00Z",
+  "grant": {
+    "title": {
+      "en": "Eurostars 3 — SME-led collaborative R&D (Eureka, co-funded by Horizon Europe)",
+      "uk": "Eurostars 3 — спільні R&D на чолі з МСП (Eureka, співфінансування Horizon Europe)"
+    },
+    "callIdentifier": "Eureka / Eurostars 3 programme (bottom-up; national funding bodies co-fund)",
+    "type": {
+      "en": "SME-led collaborative R&D grant. NOT a Horizon topic — bottom-up, applicant defines the project.",
+      "uk": "Грант на спільні R&D на чолі з МСП. НЕ топік Horizon — bottom-up, заявник сам визначає проєкт."
+    },
+    "typeCode": "",
+    "deadline": "",
+    "deadlineModel": {
+      "en": "Recurring cut-offs (typically ~2 per year). Check eurostars-eureka.eu for the next call deadline before planning.",
+      "uk": "Періодичні cut-off (зазвичай ~2 на рік). Перевірте eurostars-eureka.eu щодо наступного дедлайну перед плануванням."
+    },
+    "budgetTotal": {
+      "en": "Per-project funding via each partner's NATIONAL funding body; rates and caps vary by country. Projects are market-oriented and time-limited.",
+      "uk": "Фінансування проєкту через НАЦІОНАЛЬНИЙ фінансовий орган кожного партнера; ставки й ліміти залежать від країни. Проєкти ринково-орієнтовані та обмежені в часі."
+    },
+    "budgetPerProject": {
+      "en": "Varies by national funding rules (commonly national grant covering ~50-60% of eligible costs per partner). Confirm the applicable national rate for DICEUS's country.",
+      "uk": "Залежить від національних правил (зазвичай національний грант покриває ~50-60% прийнятних витрат на партнера). Уточніть застосовну національну ставку для країни DICEUS."
+    },
+    "expectedOutcome": {
+      "en": "Develop an innovative, market-oriented product/service/process led by an R&D-performing SME, with at least one partner from another Eurostars country.",
+      "uk": "Розробити інноваційний, ринково-орієнтований продукт/послугу/процес на чолі з R&D-активним МСП, із щонайменше одним партнером з іншої країни Eurostars."
+    },
+    "scope": {
+      "en": "Bottom-up, any technology and market. An R&D-performing SME leads a small international consortium to build a near-market innovation. For DICEUS: a joint project to develop an AI insurance capability (risk scoring, automated underwriting/claims, error reduction) with a foreign partner (e.g. an insurer, a data provider, or a complementary tech SME).",
+      "uk": "Bottom-up, будь-яка технологія і ринок. R&D-активне МСП веде невеликий міжнародний консорціум для створення майже ринкової інновації. Для DICEUS: спільний проєкт з розробки AI-можливості у страхуванні (скоринг ризиків, автоматизований андеррайтинг/клейми, зменшення помилок) із зарубіжним партнером (напр. страховик, постачальник даних або комплементарне tech-МСП)."
+    },
+    "topicsKeywords": [
+      {"en": "SME-led R&D", "uk": "R&D на чолі з МСП"},
+      {"en": "bottom-up, market-oriented", "uk": "bottom-up, ринково-орієнтований"},
+      {"en": "small international consortium", "uk": "невеликий міжнародний консорціум"},
+      {"en": "AI insurance capability", "uk": "AI-можливість у страхуванні"},
+      {"en": "national co-funding", "uk": "національне співфінансування"}
+    ]
+  },
+  "eligibility": {
+    "ukraineEligible": true,
+    "minConsortiumSize": {
+      "en": "At least 2 entities from 2 different Eurostars countries; the project must be led by an innovative, R&D-performing SME. Small, lightweight consortium.",
+      "uk": "Щонайменше 2 суб'єкти з 2 різних країн Eurostars; проєкт має вести інноваційне, R&D-активне МСП. Невеликий, легкий консорціум."
+    },
+    "requiredCountries": {
+      "en": "Partners must be in Eurostars/Eureka member countries (covers EU + many associated states). Confirm DICEUS's country is a participating Eurostars member.",
+      "uk": "Партнери мають бути в країнах-членах Eurostars/Eureka (охоплює ЄС + багато асоційованих держав). Підтвердіть, що країна DICEUS є учасником Eurostars."
+    },
+    "otherConstraints": {
+      "en": "SME must be the main participant (own a significant share of the work/budget). Funding and its rate come from each partner's national body, so timing/rules differ per country.",
+      "uk": "МСП має бути головним учасником (володіти суттєвою часткою роботи/бюджету). Фінансування та його ставка надходять від національного органу кожного партнера, тож строки/правила різняться за країнами."
+    }
+  },
+  "matching": {
+    "researchAreaOverlap": [
+      {
+        "grantTopic": {"en": "Bottom-up SME-led R&D in the SME's own market", "uk": "Bottom-up R&D на чолі з МСП у власному ринку МСП"},
+        "znuArea": {"en": "Insurance-sector products enhanced with AI (risk, error minimisation, automation) — DICEUS's confirmed direction", "uk": "Продукти страхового сектору з AI (ризики, мінімізація помилок, автоматизація) — підтверджене направлення DICEUS"},
+        "strength": "high",
+        "rationale": {"en": "Like the EIC, Eurostars imposes no vertical, so DICEUS proposes its own insurance-AI innovation — a clean fit with the confirmed direction.", "uk": "Як і EIC, Eurostars не накидає вертикаль, тож DICEUS пропонує власну страхову AI-інновацію — чиста відповідність підтвердженому направленню."}
+      },
+      {
+        "grantTopic": {"en": "International SME collaboration, near-market", "uk": "Міжнародна співпраця МСП, майже ринкова"},
+        "znuArea": {"en": "150+ delivered projects; insurer & tech partner network (UNIQA, VIG, WTW, Fadata, Microsoft, Google Cloud)", "uk": "150+ реалізованих проєктів; мережа страхових і tech-партнерів (UNIQA, VIG, WTW, Fadata, Microsoft, Google Cloud)"},
+        "strength": "medium",
+        "rationale": {"en": "DICEUS has plausible foreign partners among its insurer/tech network to meet the 2-country requirement, though a specific R&D partner must be lined up.", "uk": "У мережі DICEUS є ймовірні зарубіжні партнери для виконання вимоги 2 країн, хоча конкретного R&D-партнера треба узгодити."}
+      }
+    ],
+    "resourceFit": {
+      "en": "Strong: an R&D-performing product SME with a clear near-market innovation is exactly Eurostars's target profile.",
+      "uk": "Сильно: R&D-активне продуктове МСП із чіткою майже ринковою інновацією — саме цільовий профіль Eurostars."
+    },
+    "partnershipFit": {
+      "en": "Needs just one foreign partner (much lighter than a Horizon consortium). DICEUS's international insurer/tech relationships make this achievable.",
+      "uk": "Потрібен лише один зарубіжний партнер (набагато легше за консорціум Horizon). Міжнародні страхові/tech-зв'язки DICEUS роблять це досяжним."
+    },
+    "trackRecordFit": {
+      "en": "Commercial delivery record and product maturity fit well; national funding bodies value near-market impact.",
+      "uk": "Комерційний послужний список і зрілість продукту добре підходять; національні фінансові органи цінують майже ринковий вплив."
+    },
+    "warContextRelevance": {"en": "n/a", "uk": "н/д"}
+  },
+  "verdict": {
+    "znuFitsGrant": "yes",
+    "grantFitsZnu": "yes",
+    "shouldApply": "maybe",
+    "confidence": "medium",
+    "recommendedRole": {
+      "en": "Lead SME of a small 2-country consortium, developing an AI insurance capability with one foreign partner.",
+      "uk": "Провідне МСП невеликого консорціуму з 2 країн, що розробляє AI-можливість у страхуванні з одним зарубіжним партнером."
+    },
+    "strengths": [
+      {"en": "Bottom-up and SME-led — DICEUS proposes its own insurance-AI project; matches the confirmed direction.", "uk": "Bottom-up і на чолі з МСП — DICEUS пропонує власний страховий AI-проєкт; відповідає підтвердженому направленню."},
+      {"en": "Only one foreign partner needed — a light, fast consortium versus Horizon.", "uk": "Потрібен лише один зарубіжний партнер — легкий, швидкий консорціум порівняно з Horizon."},
+      {"en": "Complements the EIC route: apply to both, they are not mutually exclusive.", "uk": "Доповнює маршрут EIC: можна подавати на обидва, вони не взаємовиключні."}
+    ],
+    "risks": [
+      {"en": "Funding rate/rules depend on each partner's national body — confirm DICEUS's country participates and at what rate.", "uk": "Ставка/правила фінансування залежать від національного органу кожного партнера — підтвердіть участь країни DICEUS і ставку."},
+      {"en": "Must secure a suitable foreign R&D partner before submission.", "uk": "Треба знайти відповідного зарубіжного R&D-партнера до подання."},
+      {"en": "Smaller ticket than the EIC; better for a focused capability than a full scale-up.", "uk": "Менший чек, ніж EIC; краще для фокусованої можливості, ніж для повного масштабування."}
+    ],
+    "rationale": {
+      "en": "Eurostars is the second bottom-up route that fits DICEUS's confirmed insurance-AI direction. It is SME-led and open-topic, so DICEUS defines the innovation (e.g. an AI risk-scoring or automation capability), and it needs only one partner from another Eurostars country — a far lighter lift than a Horizon consortium, and achievable through DICEUS's existing insurer/tech network. The trade-offs versus the EIC: a smaller ticket and national-level funding rules that vary by country, so the exact rate and cut-off must be confirmed. Best used alongside the EIC Accelerator — a focused Eurostars project can de-risk a capability while the Accelerator funds the broader product scale-up. Line up a foreign R&D partner and verify DICEUS's country participation and the next cut-off.",
+      "uk": "Eurostars — другий bottom-up маршрут, що відповідає підтвердженому страховому AI-направленню DICEUS. Він на чолі з МСП і з відкритою темою, тож DICEUS сам визначає інновацію (напр. AI-скоринг ризиків чи можливість автоматизації), і потребує лише одного партнера з іншої країни Eurostars — значно легше за консорціум Horizon і досяжно через наявну страхову/tech-мережу DICEUS. Компроміси проти EIC: менший чек і національні правила фінансування, що різняться за країнами, тож точну ставку і cut-off треба підтвердити. Найкраще використовувати разом із EIC Accelerator — фокусований проєкт Eurostars може de-risk-нути можливість, поки Accelerator фінансує ширше масштабування продукту. Узгодьте зарубіжного R&D-партнера і перевірте участь країни DICEUS та наступний cut-off."
+    }
+  }
+}
